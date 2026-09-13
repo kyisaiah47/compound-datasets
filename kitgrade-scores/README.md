@@ -8,7 +8,7 @@ One row per kit carrying the six component scores the total is composed from, th
 | One row is | one kit |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [KitGrade](https://kitgrade.kynth.studio) |
+| Measured by | [KitGrade](https://kitgrade.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -55,13 +55,13 @@ Compound Labs (2026). KitGrade: the component scores behind every kit grade. Kit
 ```
 
 ```bibtex
-@dataset{kynth_kitgrade_scores_2026,
+@dataset{compound_kitgrade_scores_2026,
   title     = {KitGrade: the component scores behind every kit grade},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-scores},
-  note      = {Cut of 2026-09-04. Measured by KitGrade, https://kitgrade.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by KitGrade, https://kitgrade.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

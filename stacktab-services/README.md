@@ -8,7 +8,7 @@ One row per developer service whose pricing StackTab reads: its category, its ho
 | One row is | one service |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [StackTab](https://stacktab.kynth.studio) |
+| Measured by | [StackTab](https://stacktab.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -51,13 +51,13 @@ Compound Labs (2026). StackTab: the developer services under price watch. StackT
 ```
 
 ```bibtex
-@dataset{kynth_stacktab_services_2026,
+@dataset{compound_stacktab_services_2026,
   title     = {StackTab: the developer services under price watch},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/stacktab-services},
-  note      = {Cut of 2026-09-04. Measured by StackTab, https://stacktab.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by StackTab, https://stacktab.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

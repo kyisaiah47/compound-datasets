@@ -10,7 +10,7 @@ version: "2026-09-10"
 date-released: "2026-09-10"
 license: CC-BY-4.0
 url: "https://toolproof.thecompound.tech/datasets"
-repository: "https://github.com/kyisaiah47/kynth-datasets"
+repository: "https://github.com/kyisaiah47/compound-datasets"
 keywords:
   - open data
   - measurement

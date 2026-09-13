@@ -8,7 +8,7 @@ One row per app per ranking window per capture, with the tool it maps to where T
 | One row is | one app in one ranking window on one capture day |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [ToolDrift](https://tooldrift.kynth.studio) |
+| Measured by | [ToolDrift](https://tooldrift.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -48,17 +48,17 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). ToolDrift: OpenRouter app usage rankings, captured daily. ToolDrift, https://tooldrift.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-app-rankings
+Compound Labs (2026). ToolDrift: OpenRouter app usage rankings, captured daily. ToolDrift, https://tooldrift.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-app-rankings
 ```
 
 ```bibtex
-@dataset{kynth_tooldrift_app_rankings_2026,
+@dataset{compound_tooldrift_app_rankings_2026,
   title     = {ToolDrift: OpenRouter app usage rankings, captured daily},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-app-rankings},
-  note      = {Cut of 2026-09-04. Measured by ToolDrift, https://tooldrift.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by ToolDrift, https://tooldrift.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

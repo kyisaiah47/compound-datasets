@@ -8,7 +8,7 @@ One row per agent config format (AGENTS.md, CLAUDE.md and the rest): which tools
 | One row is | one config format |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [RuleStack](https://rulestack.kynth.studio) |
+| Measured by | [RuleStack](https://rulestack.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -67,13 +67,13 @@ Compound Labs (2026). RuleStack: the agent config formats and what each one supp
 ```
 
 ```bibtex
-@dataset{kynth_rulestack_formats_2026,
+@dataset{compound_rulestack_formats_2026,
   title     = {RuleStack: the agent config formats and what each one supports},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/rulestack-formats},
-  note      = {Cut of 2026-09-04. Measured by RuleStack, https://rulestack.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by RuleStack, https://rulestack.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

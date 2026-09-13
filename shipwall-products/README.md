@@ -8,7 +8,7 @@ One row per product that has launched on the board: what it is, where it lives, 
 | One row is | one launched product |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [ShipWall](https://shipwall.kynth.studio) |
+| Measured by | [ShipWall](https://shipwall.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -67,13 +67,13 @@ Compound Labs (2026). ShipWall: launched products and the badge check behind eac
 ```
 
 ```bibtex
-@dataset{kynth_shipwall_products_2026,
+@dataset{compound_shipwall_products_2026,
   title     = {ShipWall: launched products and the badge check behind each one},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/shipwall-products},
-  note      = {Cut of 2026-09-04. Measured by ShipWall, https://shipwall.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by ShipWall, https://shipwall.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

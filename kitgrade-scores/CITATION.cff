@@ -9,8 +9,8 @@ authors:
 version: "2026-09-04"
 date-released: "2026-09-04"
 license: CC-BY-4.0
-url: "https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-scores"
-repository: "https://github.com/kyisaiah47/kynth-datasets"
+url: "https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-scores"
+repository: "https://github.com/kyisaiah47/compound-datasets"
 keywords:
   - kitgrade
   - open data

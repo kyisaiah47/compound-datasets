@@ -8,7 +8,7 @@ One row per format per day: how many repositories carry it, how many config file
 | One row is | one format on one day |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [RuleStack](https://rulestack.kynth.studio) |
+| Measured by | [RuleStack](https://rulestack.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -56,13 +56,13 @@ Compound Labs (2026). RuleStack: how much each config format is actually used, d
 ```
 
 ```bibtex
-@dataset{kynth_rulestack_format_stats_2026,
+@dataset{compound_rulestack_format_stats_2026,
   title     = {RuleStack: how much each config format is actually used, day by day},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/rulestack-format-stats},
-  note      = {Cut of 2026-09-04. Measured by RuleStack, https://rulestack.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by RuleStack, https://rulestack.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

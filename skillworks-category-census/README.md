@@ -70,7 +70,7 @@ Compound Labs (2026). SkillWorks: Claude Code artefacts by category and kind. Sk
 ```
 
 ```bibtex
-@dataset{kynth_skillworks_category_census_2026,
+@dataset{compound_skillworks_category_census_2026,
   title     = {SkillWorks: Claude Code artefacts by category and kind},
   author    = {{Compound Labs}},
   year      = {2026},

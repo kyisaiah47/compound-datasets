@@ -8,7 +8,7 @@ One row per public shadcn component registry: where it is served from, the repos
 | One row is | one registry |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [BlockDex](https://blockdex.kynth.studio) |
+| Measured by | [BlockDex](https://blockdex.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -70,13 +70,13 @@ Compound Labs (2026). BlockDex: every public shadcn registry. BlockDex, https://
 ```
 
 ```bibtex
-@dataset{kynth_blockdex_registries_2026,
+@dataset{compound_blockdex_registries_2026,
   title     = {BlockDex: every public shadcn registry},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-registries},
-  note      = {Cut of 2026-09-04. Measured by BlockDex, https://blockdex.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by BlockDex, https://blockdex.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

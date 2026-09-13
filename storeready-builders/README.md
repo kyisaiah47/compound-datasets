@@ -8,7 +8,7 @@ One row per AI app builder: what it actually outputs, whether the source leaves 
 | One row is | one app builder |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [StoreReady](https://storeready.kynth.studio) |
+| Measured by | [StoreReady](https://storeready.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -62,13 +62,13 @@ Compound Labs (2026). StoreReady: AI app builders and whether their output ships
 ```
 
 ```bibtex
-@dataset{kynth_storeready_builders_2026,
+@dataset{compound_storeready_builders_2026,
   title     = {StoreReady: AI app builders and whether their output ships},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/storeready-builders},
-  note      = {Cut of 2026-09-04. Measured by StoreReady, https://storeready.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by StoreReady, https://storeready.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

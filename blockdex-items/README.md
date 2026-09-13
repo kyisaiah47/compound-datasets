@@ -8,7 +8,7 @@ One row per item in every crawled registry: its type, its dependencies, the file
 | One row is | one registry item |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [BlockDex](https://blockdex.kynth.studio) |
+| Measured by | [BlockDex](https://blockdex.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -71,13 +71,13 @@ Compound Labs (2026). BlockDex: every component, block and theme inside those re
 ```
 
 ```bibtex
-@dataset{kynth_blockdex_items_2026,
+@dataset{compound_blockdex_items_2026,
   title     = {BlockDex: every component, block and theme inside those registries},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-items},
-  note      = {Cut of 2026-09-04. Measured by BlockDex, https://blockdex.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by BlockDex, https://blockdex.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

@@ -8,14 +8,14 @@ One row per index under the Toolproof masthead: what it measures, the method beh
 | One row is | one index |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [Toolproof](https://toolproof.kynth.studio) |
+| Measured by | [Toolproof](https://toolproof.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
 
 ## How it is measured
 
-Read from https://toolproof.kynth.studio/api/index.json, which builds itself by calling each index's own public stats endpoint at request time. An index that did not answer is kept in the file with ok=false and the reason it gave, because a consumer has to be able to tell a missing index from an index that measured nothing.
+Read from https://toolproof.thecompound.tech/api/index.json, which builds itself by calling each index's own public stats endpoint at request time. An index that did not answer is kept in the file with ok=false and the reason it gave, because a consumer has to be able to tell a missing index from an index that measured nothing.
 
 ## What a citer needs to know
 
@@ -60,13 +60,13 @@ Compound Labs (2026). Toolproof: the nine indexes and what each one currently me
 ```
 
 ```bibtex
-@dataset{kynth_toolproof_indexes_2026,
+@dataset{compound_toolproof_indexes_2026,
   title     = {Toolproof: the nine indexes and what each one currently measures},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/toolproof-indexes},
-  note      = {Cut of 2026-09-04. Measured by Toolproof, https://toolproof.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by Toolproof, https://toolproof.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

@@ -8,7 +8,7 @@ One row per piece of evidence: which builder it is about, which claim it support
 | One row is | one piece of evidence |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [StoreReady](https://storeready.kynth.studio) |
+| Measured by | [StoreReady](https://storeready.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -54,13 +54,13 @@ Compound Labs (2026). StoreReady: the cited evidence behind every verdict. Store
 ```
 
 ```bibtex
-@dataset{kynth_storeready_evidence_2026,
+@dataset{compound_storeready_evidence_2026,
   title     = {StoreReady: the cited evidence behind every verdict},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/storeready-evidence},
-  note      = {Cut of 2026-09-04. Measured by StoreReady, https://storeready.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by StoreReady, https://storeready.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

@@ -8,7 +8,7 @@ One row per published plan: its base monthly price in USD, what the plan include
 | One row is | one plan |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [StackTab](https://stacktab.kynth.studio) |
+| Measured by | [StackTab](https://stacktab.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -59,13 +59,13 @@ Compound Labs (2026). StackTab: every plan, its price, and the page the price wa
 ```
 
 ```bibtex
-@dataset{kynth_stacktab_plans_2026,
+@dataset{compound_stacktab_plans_2026,
   title     = {StackTab: every plan, its price, and the page the price was read from},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/stacktab-plans},
-  note      = {Cut of 2026-09-04. Measured by StackTab, https://stacktab.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by StackTab, https://stacktab.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

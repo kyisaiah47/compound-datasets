@@ -8,7 +8,7 @@ One row per tool per captured day: the verdict it held that day and the activity
 | One row is | one tool on one day |
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
-| Measured by | [StillShipping](https://stillshipping.kynth.studio) |
+| Measured by | [StillShipping](https://stillshipping.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
@@ -57,13 +57,13 @@ Compound Labs (2026). StillShipping: the daily verdict history. StillShipping, h
 ```
 
 ```bibtex
-@dataset{kynth_stillshipping_history_2026,
+@dataset{compound_stillshipping_history_2026,
   title     = {StillShipping: the daily verdict history},
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-history},
-  note      = {Cut of 2026-09-04. Measured by StillShipping, https://stillshipping.kynth.studio},
+  note      = {Cut of 2026-09-04. Measured by StillShipping, https://stillshipping.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```
