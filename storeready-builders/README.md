@@ -12,7 +12,7 @@ One row per AI app builder: what it actually outputs, whether the source leaves 
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
-| Also on | [Hugging Face](https://huggingface.co/datasets/kyisaiah47/storeready-builders) · [Zenodo](https://zenodo.org/records/22844097) |
+| Also on | [Hugging Face](https://huggingface.co/datasets/kyisaiah47/storeready-builders) · [Kaggle](https://www.kaggle.com/datasets/kyisaiah47/storeready-builders) · [Zenodo](https://zenodo.org/records/22844097) |
 
 ## How it is measured
 

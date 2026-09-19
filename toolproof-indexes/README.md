@@ -12,7 +12,7 @@ One row per index under the Toolproof masthead: what it measures, the method beh
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
-| Also on | [Hugging Face](https://huggingface.co/datasets/kyisaiah47/toolproof-indexes) · [Zenodo](https://zenodo.org/records/22844097) |
+| Also on | [Hugging Face](https://huggingface.co/datasets/kyisaiah47/toolproof-indexes) · [Kaggle](https://www.kaggle.com/datasets/kyisaiah47/toolproof-indexes) · [Zenodo](https://zenodo.org/records/22844097) |
 
 ## How it is measured
 

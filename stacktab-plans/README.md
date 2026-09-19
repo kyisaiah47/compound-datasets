@@ -12,7 +12,7 @@ One row per published plan: its base monthly price in USD, what the plan include
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
-| Also on | [Hugging Face](https://huggingface.co/datasets/kyisaiah47/stacktab-plans) · [Zenodo](https://zenodo.org/records/22844097) |
+| Also on | [Hugging Face](https://huggingface.co/datasets/kyisaiah47/stacktab-plans) · [Kaggle](https://www.kaggle.com/datasets/kyisaiah47/stacktab-plans) · [Zenodo](https://zenodo.org/records/22844097) |
 
 ## How it is measured
 

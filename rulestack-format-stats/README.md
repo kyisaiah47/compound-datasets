@@ -12,7 +12,7 @@ One row per format per day: how many repositories carry it, how many config file
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
-| Also on | [Hugging Face](https://huggingface.co/datasets/kyisaiah47/rulestack-format-stats) · [Zenodo](https://zenodo.org/records/22844097) |
+| Also on | [Hugging Face](https://huggingface.co/datasets/kyisaiah47/rulestack-format-stats) · [Kaggle](https://www.kaggle.com/datasets/kyisaiah47/rulestack-format-stats) · [Zenodo](https://zenodo.org/records/22844097) |
 
 ## How it is measured
 

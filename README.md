@@ -44,6 +44,8 @@ pin the exact edition a paper or a post quoted.
 
 Every dataset is also a Hugging Face dataset repository of its own, one per directory here, at [https://huggingface.co/kyisaiah47/datasets](https://huggingface.co/kyisaiah47/datasets). The data card and the schema are the same files.
 
+The same cuts are on Kaggle, one dataset per directory, at [https://www.kaggle.com/kyisaiah47/datasets](https://www.kaggle.com/kyisaiah47/datasets).
+
 The collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). One Zenodo record holds every dataset, so that DOI is what a paper cites. It resolves to the newest version; 10.5281/zenodo.22844097 pins this deposit. The record is at [https://zenodo.org/records/22844097](https://zenodo.org/records/22844097).
 
 Each data card carries its own mirror links, and they are also on [https://toolproof.thecompound.tech/datasets](https://toolproof.thecompound.tech/datasets).

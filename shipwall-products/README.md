@@ -12,7 +12,7 @@ One row per product that has launched on the board: what it is, where it lives, 
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
-| Also on | [Hugging Face](https://huggingface.co/datasets/kyisaiah47/shipwall-products) · [Zenodo](https://zenodo.org/records/22844097) |
+| Also on | [Hugging Face](https://huggingface.co/datasets/kyisaiah47/shipwall-products) · [Kaggle](https://www.kaggle.com/datasets/kyisaiah47/shipwall-products) · [Zenodo](https://zenodo.org/records/22844097) |
 
 ## How it is measured
 

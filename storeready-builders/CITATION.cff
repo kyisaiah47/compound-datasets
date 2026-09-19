@@ -19,6 +19,9 @@ identifiers:
   - type: url
     value: "https://huggingface.co/datasets/kyisaiah47/storeready-builders"
     description: "The same cut on Hugging Face."
+  - type: url
+    value: "https://www.kaggle.com/datasets/kyisaiah47/storeready-builders"
+    description: "The same cut on Kaggle."
 keywords:
   - storeready
   - open data

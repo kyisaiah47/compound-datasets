@@ -19,6 +19,9 @@ identifiers:
   - type: url
     value: "https://huggingface.co/kyisaiah47/datasets"
     description: "The same cut on Hugging Face."
+  - type: url
+    value: "https://www.kaggle.com/kyisaiah47/datasets"
+    description: "The same cut on Kaggle."
 keywords:
   - open data
   - measurement
