@@ -28,6 +28,36 @@
   ],
   "datasets": [
     {
+      "slug": "toolproof-indexes",
+      "title": "Toolproof: the nine indexes and what each one currently measures",
+      "product": {
+        "name": "Toolproof",
+        "url": "https://toolproof.thecompound.tech"
+      },
+      "unit": "one index",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:32:17.000Z",
+      "rows": 9,
+      "columns": 16,
+      "source_table": "https://toolproof.thecompound.tech/api/index.json",
+      "files": [
+        {
+          "name": "toolproof-indexes-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 5204,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/toolproof-indexes/toolproof-indexes-2026-09-04.csv"
+        },
+        {
+          "name": "toolproof-indexes-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 6888,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/toolproof-indexes/toolproof-indexes-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). Toolproof: the nine indexes and what each one currently measures. Toolproof, https://toolproof.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/toolproof-indexes"
+    },
+    {
       "slug": "skillworks-category-census",
       "title": "SkillWorks: Claude Code artefacts by category and kind",
       "product": {
@@ -56,6 +86,486 @@
       ],
       "license": "CC-BY-4.0",
       "citation": "Compound Labs (2026). SkillWorks: Claude Code artefacts by category and kind. SkillWorks, https://skillworks.thecompound.tech. Cut of 2026-09-10. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/skillworks-category-census"
+    },
+    {
+      "slug": "stillshipping-tools",
+      "title": "StillShipping: maintenance verdict for every tracked agent tool",
+      "product": {
+        "name": "StillShipping",
+        "url": "https://stillshipping.thecompound.tech"
+      },
+      "unit": "one tool",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:32:33.000Z",
+      "rows": 340,
+      "columns": 39,
+      "source_table": "stillshipping_tools",
+      "files": [
+        {
+          "name": "stillshipping-tools-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 428970,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/stillshipping-tools/stillshipping-tools-2026-09-04.csv"
+        },
+        {
+          "name": "stillshipping-tools-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 611667,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/stillshipping-tools/stillshipping-tools-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). StillShipping: maintenance verdict for every tracked agent tool. StillShipping, https://stillshipping.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-tools"
+    },
+    {
+      "slug": "stillshipping-history",
+      "title": "StillShipping: the daily verdict history",
+      "product": {
+        "name": "StillShipping",
+        "url": "https://stillshipping.thecompound.tech"
+      },
+      "unit": "one tool on one day",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:32:37.000Z",
+      "rows": 10142,
+      "columns": 14,
+      "source_table": "stillshipping_history",
+      "files": [
+        {
+          "name": "stillshipping-history-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 7226169,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/stillshipping-history/stillshipping-history-2026-09-04.csv"
+        },
+        {
+          "name": "stillshipping-history-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 8790115,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/stillshipping-history/stillshipping-history-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). StillShipping: the daily verdict history. StillShipping, https://stillshipping.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-history"
+    },
+    {
+      "slug": "tooldrift-tools",
+      "title": "ToolDrift: the AI coding tools under watch",
+      "product": {
+        "name": "ToolDrift",
+        "url": "https://tooldrift.thecompound.tech"
+      },
+      "unit": "one tool",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:32:37.000Z",
+      "rows": 36,
+      "columns": 34,
+      "source_table": "tooldrift_tools",
+      "files": [
+        {
+          "name": "tooldrift-tools-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 17374,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/tooldrift-tools/tooldrift-tools-2026-09-04.csv"
+        },
+        {
+          "name": "tooldrift-tools-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 36691,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/tooldrift-tools/tooldrift-tools-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). ToolDrift: the AI coding tools under watch. ToolDrift, https://tooldrift.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-tools"
+    },
+    {
+      "slug": "tooldrift-model-rankings",
+      "title": "ToolDrift: OpenRouter model usage rankings, captured daily",
+      "product": {
+        "name": "ToolDrift",
+        "url": "https://tooldrift.thecompound.tech"
+      },
+      "unit": "one model in one ranking window on one capture day",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:32:51.000Z",
+      "rows": 44369,
+      "columns": 10,
+      "source_table": "tooldrift_model_rankings",
+      "files": [
+        {
+          "name": "tooldrift-model-rankings-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 5172787,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/tooldrift-model-rankings/tooldrift-model-rankings-2026-09-04.csv"
+        },
+        {
+          "name": "tooldrift-model-rankings-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 11517445,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/tooldrift-model-rankings/tooldrift-model-rankings-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). ToolDrift: OpenRouter model usage rankings, captured daily. ToolDrift, https://tooldrift.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-model-rankings"
+    },
+    {
+      "slug": "tooldrift-app-rankings",
+      "title": "ToolDrift: OpenRouter app usage rankings, captured daily",
+      "product": {
+        "name": "ToolDrift",
+        "url": "https://tooldrift.thecompound.tech"
+      },
+      "unit": "one app in one ranking window on one capture day",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:32:52.000Z",
+      "rows": 641,
+      "columns": 9,
+      "source_table": "tooldrift_app_rankings",
+      "files": [
+        {
+          "name": "tooldrift-app-rankings-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 56196,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/tooldrift-app-rankings/tooldrift-app-rankings-2026-09-04.csv"
+        },
+        {
+          "name": "tooldrift-app-rankings-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 136508,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/tooldrift-app-rankings/tooldrift-app-rankings-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). ToolDrift: OpenRouter app usage rankings, captured daily. ToolDrift, https://tooldrift.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-app-rankings"
+    },
+    {
+      "slug": "kitgrade-kits",
+      "title": "KitGrade: SaaS starter kits and what is measurably in the box",
+      "product": {
+        "name": "KitGrade",
+        "url": "https://kitgrade.thecompound.tech"
+      },
+      "unit": "one starter kit",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:32:52.000Z",
+      "rows": 36,
+      "columns": 43,
+      "source_table": "kitgrade_kits",
+      "files": [
+        {
+          "name": "kitgrade-kits-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 81045,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/kitgrade-kits/kitgrade-kits-2026-09-04.csv"
+        },
+        {
+          "name": "kitgrade-kits-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 99465,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/kitgrade-kits/kitgrade-kits-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). KitGrade: SaaS starter kits and what is measurably in the box. KitGrade, https://kitgrade.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-kits"
+    },
+    {
+      "slug": "kitgrade-scores",
+      "title": "KitGrade: the component scores behind every kit grade",
+      "product": {
+        "name": "KitGrade",
+        "url": "https://kitgrade.thecompound.tech"
+      },
+      "unit": "one kit",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:32:52.000Z",
+      "rows": 36,
+      "columns": 12,
+      "source_table": "kitgrade_scores",
+      "files": [
+        {
+          "name": "kitgrade-scores-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 21947,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/kitgrade-scores/kitgrade-scores-2026-09-04.csv"
+        },
+        {
+          "name": "kitgrade-scores-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 25174,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/kitgrade-scores/kitgrade-scores-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). KitGrade: the component scores behind every kit grade. KitGrade, https://kitgrade.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-scores"
+    },
+    {
+      "slug": "storeready-builders",
+      "title": "StoreReady: AI app builders and whether their output ships",
+      "product": {
+        "name": "StoreReady",
+        "url": "https://storeready.thecompound.tech"
+      },
+      "unit": "one app builder",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:32:52.000Z",
+      "rows": 14,
+      "columns": 18,
+      "source_table": "storeready_builders",
+      "files": [
+        {
+          "name": "storeready-builders-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 16332,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/storeready-builders/storeready-builders-2026-09-04.csv"
+        },
+        {
+          "name": "storeready-builders-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 19858,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/storeready-builders/storeready-builders-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). StoreReady: AI app builders and whether their output ships. StoreReady, https://storeready.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/storeready-builders"
+    },
+    {
+      "slug": "storeready-evidence",
+      "title": "StoreReady: the cited evidence behind every verdict",
+      "product": {
+        "name": "StoreReady",
+        "url": "https://storeready.thecompound.tech"
+      },
+      "unit": "one piece of evidence",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:32:52.000Z",
+      "rows": 47,
+      "columns": 10,
+      "source_table": "storeready_evidence",
+      "files": [
+        {
+          "name": "storeready-evidence-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 15176,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/storeready-evidence/storeready-evidence-2026-09-04.csv"
+        },
+        {
+          "name": "storeready-evidence-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 22104,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/storeready-evidence/storeready-evidence-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). StoreReady: the cited evidence behind every verdict. StoreReady, https://storeready.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/storeready-evidence"
+    },
+    {
+      "slug": "blockdex-registries",
+      "title": "BlockDex: every public shadcn registry",
+      "product": {
+        "name": "BlockDex",
+        "url": "https://blockdex.thecompound.tech"
+      },
+      "unit": "one registry",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:32:53.000Z",
+      "rows": 1123,
+      "columns": 26,
+      "source_table": "blockdex_registries",
+      "files": [
+        {
+          "name": "blockdex-registries-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 398831,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/blockdex-registries/blockdex-registries-2026-09-04.csv"
+        },
+        {
+          "name": "blockdex-registries-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 843507,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/blockdex-registries/blockdex-registries-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). BlockDex: every public shadcn registry. BlockDex, https://blockdex.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-registries"
+    },
+    {
+      "slug": "blockdex-items",
+      "title": "BlockDex: every component, block and theme inside those registries",
+      "product": {
+        "name": "BlockDex",
+        "url": "https://blockdex.thecompound.tech"
+      },
+      "unit": "one registry item",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:33:43.000Z",
+      "rows": 88612,
+      "columns": 27,
+      "source_table": "blockdex_items",
+      "files": [
+        {
+          "name": "blockdex-items-2026-09-04.csv.gz",
+          "format": "CSV, gzipped",
+          "bytes": 5712351,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/blockdex-items/blockdex-items-2026-09-04.csv.gz"
+        },
+        {
+          "name": "blockdex-items-2026-09-04.json.gz",
+          "format": "JSON, gzipped",
+          "bytes": 6264676,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/blockdex-items/blockdex-items-2026-09-04.json.gz"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). BlockDex: every component, block and theme inside those registries. BlockDex, https://blockdex.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-items"
+    },
+    {
+      "slug": "stacktab-services",
+      "title": "StackTab: the developer services under price watch",
+      "product": {
+        "name": "StackTab",
+        "url": "https://stacktab.thecompound.tech"
+      },
+      "unit": "one service",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:33:43.000Z",
+      "rows": 29,
+      "columns": 8,
+      "source_table": "stacktab_service",
+      "files": [
+        {
+          "name": "stacktab-services-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 7479,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/stacktab-services/stacktab-services-2026-09-04.csv"
+        },
+        {
+          "name": "stacktab-services-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 9749,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/stacktab-services/stacktab-services-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). StackTab: the developer services under price watch. StackTab, https://stacktab.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stacktab-services"
+    },
+    {
+      "slug": "stacktab-plans",
+      "title": "StackTab: every plan, its price, and the page the price was read from",
+      "product": {
+        "name": "StackTab",
+        "url": "https://stacktab.thecompound.tech"
+      },
+      "unit": "one plan",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:33:43.000Z",
+      "rows": 64,
+      "columns": 15,
+      "source_table": "stacktab_plan",
+      "files": [
+        {
+          "name": "stacktab-plans-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 18192,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/stacktab-plans/stacktab-plans-2026-09-04.csv"
+        },
+        {
+          "name": "stacktab-plans-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 31433,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/stacktab-plans/stacktab-plans-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). StackTab: every plan, its price, and the page the price was read from. StackTab, https://stacktab.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stacktab-plans"
+    },
+    {
+      "slug": "rulestack-formats",
+      "title": "RuleStack: the agent config formats and what each one supports",
+      "product": {
+        "name": "RuleStack",
+        "url": "https://rulestack.thecompound.tech"
+      },
+      "unit": "one config format",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:33:43.000Z",
+      "rows": 8,
+      "columns": 24,
+      "source_table": "rs_formats",
+      "files": [
+        {
+          "name": "rulestack-formats-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 7719,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/rulestack-formats/rulestack-formats-2026-09-04.csv"
+        },
+        {
+          "name": "rulestack-formats-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 10101,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/rulestack-formats/rulestack-formats-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). RuleStack: the agent config formats and what each one supports. RuleStack, https://rulestack.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/rulestack-formats"
+    },
+    {
+      "slug": "rulestack-format-stats",
+      "title": "RuleStack: how much each config format is actually used, day by day",
+      "product": {
+        "name": "RuleStack",
+        "url": "https://rulestack.thecompound.tech"
+      },
+      "unit": "one format on one day",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:33:43.000Z",
+      "rows": 168,
+      "columns": 12,
+      "source_table": "rs_format_stats",
+      "files": [
+        {
+          "name": "rulestack-format-stats-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 12334,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/rulestack-format-stats/rulestack-format-stats-2026-09-04.csv"
+        },
+        {
+          "name": "rulestack-format-stats-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 40925,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/rulestack-format-stats/rulestack-format-stats-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). RuleStack: how much each config format is actually used, day by day. RuleStack, https://rulestack.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/rulestack-format-stats"
+    },
+    {
+      "slug": "shipwall-products",
+      "title": "ShipWall: launched products and the badge check behind each one",
+      "product": {
+        "name": "ShipWall",
+        "url": "https://shipwall.thecompound.tech"
+      },
+      "unit": "one launched product",
+      "cut": "2026-09-04",
+      "cut_at": "2026-09-04T15:33:43.000Z",
+      "rows": 43,
+      "columns": 23,
+      "source_table": "shipwall_products",
+      "files": [
+        {
+          "name": "shipwall-products-2026-09-04.csv",
+          "format": "CSV",
+          "bytes": 23166,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/shipwall-products/shipwall-products-2026-09-04.csv"
+        },
+        {
+          "name": "shipwall-products-2026-09-04.json",
+          "format": "JSON",
+          "bytes": 38052,
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/shipwall-products/shipwall-products-2026-09-04.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "citation": "Compound Labs (2026). ShipWall: launched products and the badge check behind each one. ShipWall, https://shipwall.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/shipwall-products"
     }
   ]
 }

@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use any of these datasets, cite the one you used. Each directory carries its own CITATION.cff."
 title: "Compound Labs open datasets"
-abstract: "1 datasets measuring public AI tooling: Claude Code artefacts, agent tool maintenance, AI coding tool pricing and rankings, shadcn component registries, SaaS starter kits, AI app builders, developer service pricing and agent config formats. Each one is computed by a Compound Labs index product and refreshed monthly."
+abstract: "18 datasets measuring public AI tooling: Claude Code artefacts, agent tool maintenance, AI coding tool pricing and rankings, shadcn component registries, SaaS starter kits, AI app builders, developer service pricing and agent config formats. Each one is computed by a Compound Labs index product and refreshed monthly."
 type: dataset
 authors:
   - name: "Compound Labs"
