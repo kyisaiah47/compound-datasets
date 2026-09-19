@@ -12,6 +12,7 @@ One row per public shadcn component registry: where it is served from, the repos
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
+| Also on | [Hugging Face](https://huggingface.co/datasets/kyisaiah47/blockdex-registries) · [Zenodo](https://zenodo.org/records/22844097) |
 
 ## How it is measured
 
@@ -80,6 +81,9 @@ Compound Labs (2026). BlockDex: every public shadcn registry. BlockDex, https://
   license   = {CC-BY-4.0}
 }
 ```
+
+The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
+newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
 
 Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
 the product that measured it and the cut date, and there is nothing else to ask.

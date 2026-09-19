@@ -11,6 +11,14 @@ date-released: "2026-09-04"
 license: CC-BY-4.0
 url: "https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-model-rankings"
 repository: "https://github.com/kyisaiah47/compound-datasets"
+doi: "10.5281/zenodo.22844096"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22844097"
+    description: "The Zenodo deposit this cut was published in. The whole collection is one record."
+  - type: url
+    value: "https://huggingface.co/datasets/kyisaiah47/tooldrift-model-rankings"
+    description: "The same cut on Hugging Face."
 keywords:
   - tooldrift
   - open data

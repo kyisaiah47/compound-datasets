@@ -11,7 +11,42 @@
   "cut_at": "2026-09-10T21:26:06.401Z",
   "release_tag": "cut-2026-09-10",
   "release_url": "https://github.com/kyisaiah47/compound-datasets/releases/tag/cut-2026-09-10",
-  "mirrors": {},
+  "mirrors": {
+    "Hugging Face": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/kyisaiah47/datasets",
+      "datasets": {
+        "toolproof-indexes": "https://huggingface.co/datasets/kyisaiah47/toolproof-indexes",
+        "skillworks-category-census": "https://huggingface.co/datasets/kyisaiah47/skillworks-category-census",
+        "stillshipping-tools": "https://huggingface.co/datasets/kyisaiah47/stillshipping-tools",
+        "stillshipping-history": "https://huggingface.co/datasets/kyisaiah47/stillshipping-history",
+        "tooldrift-tools": "https://huggingface.co/datasets/kyisaiah47/tooldrift-tools",
+        "tooldrift-model-rankings": "https://huggingface.co/datasets/kyisaiah47/tooldrift-model-rankings",
+        "tooldrift-app-rankings": "https://huggingface.co/datasets/kyisaiah47/tooldrift-app-rankings",
+        "kitgrade-kits": "https://huggingface.co/datasets/kyisaiah47/kitgrade-kits",
+        "kitgrade-scores": "https://huggingface.co/datasets/kyisaiah47/kitgrade-scores",
+        "storeready-builders": "https://huggingface.co/datasets/kyisaiah47/storeready-builders",
+        "storeready-evidence": "https://huggingface.co/datasets/kyisaiah47/storeready-evidence",
+        "blockdex-registries": "https://huggingface.co/datasets/kyisaiah47/blockdex-registries",
+        "blockdex-items": "https://huggingface.co/datasets/kyisaiah47/blockdex-items",
+        "stacktab-services": "https://huggingface.co/datasets/kyisaiah47/stacktab-services",
+        "stacktab-plans": "https://huggingface.co/datasets/kyisaiah47/stacktab-plans",
+        "rulestack-formats": "https://huggingface.co/datasets/kyisaiah47/rulestack-formats",
+        "rulestack-format-stats": "https://huggingface.co/datasets/kyisaiah47/rulestack-format-stats",
+        "shipwall-products": "https://huggingface.co/datasets/kyisaiah47/shipwall-products"
+      }
+    },
+    "Zenodo": {
+      "name": "Zenodo",
+      "url": "https://zenodo.org/records/22844097",
+      "doi": "10.5281/zenodo.22844097",
+      "doi_url": "https://doi.org/10.5281/zenodo.22844097",
+      "concept_doi": "10.5281/zenodo.22844096",
+      "concept_doi_url": "https://doi.org/10.5281/zenodo.22844096",
+      "scope": "collection",
+      "note": "One record for the whole collection, so every dataset shares this DOI. The concept DOI always resolves to the newest version."
+    }
+  },
   "never_published": [
     {
       "table": "stacktab_price_watch",
