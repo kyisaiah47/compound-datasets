@@ -6,7 +6,7 @@ One row per piece of evidence: which builder it is about, which claim it support
 |---|---|
 | Rows in this cut | 47 |
 | One row is | one piece of evidence |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [StoreReady](https://storeready.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -27,8 +27,8 @@ Evidence is a policy clause, a rejection thread or a shipped binary, recorded wi
 
 | File | Format | Size |
 |---|---|---|
-| `storeready-evidence-2026-09-04.csv` | CSV | 0.01 MB |
-| `storeready-evidence-2026-09-04.json` | JSON | 0.02 MB |
+| `storeready-evidence-2026-10-01.csv` | CSV | 0.02 MB |
+| `storeready-evidence-2026-10-01.json` | JSON | 0.02 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -45,13 +45,13 @@ citation can pin the exact edition it quoted.
 | `source_title` | string | 0.0% |
 | `source_date` | string | 0.0% |
 | `quote` | string | 38.3% |
-| `link_status` | null | 100.0% |
-| `link_checked_at` | null | 100.0% |
+| `link_status` | number | 0.0% |
+| `link_checked_at` | string | 0.0% |
 
 ## Cite it
 
 ```
-Compound Labs (2026). StoreReady: the cited evidence behind every verdict. StoreReady, https://storeready.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/storeready-evidence
+Compound Labs (2026). StoreReady: the cited evidence behind every verdict. StoreReady, https://storeready.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/storeready-evidence
 ```
 
 ```bibtex
@@ -61,7 +61,7 @@ Compound Labs (2026). StoreReady: the cited evidence behind every verdict. Store
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/storeready-evidence},
-  note      = {Cut of 2026-09-04. Measured by StoreReady, https://storeready.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by StoreReady, https://storeready.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

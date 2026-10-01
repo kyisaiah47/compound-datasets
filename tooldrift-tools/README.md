@@ -6,7 +6,7 @@ One row per AI coding tool watched nightly: its layer in the stack, its vendor, 
 |---|---|
 | Rows in this cut | 36 |
 | One row is | one tool |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [ToolDrift](https://tooldrift.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -27,8 +27,8 @@ Vendor changelogs, pricing pages and store rankings are fetched on a schedule an
 
 | File | Format | Size |
 |---|---|---|
-| `tooldrift-tools-2026-09-04.csv` | CSV | 0.02 MB |
-| `tooldrift-tools-2026-09-04.json` | JSON | 0.03 MB |
+| `tooldrift-tools-2026-10-01.csv` | CSV | 0.02 MB |
+| `tooldrift-tools-2026-10-01.json` | JSON | 0.04 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -69,13 +69,13 @@ citation can pin the exact edition it quoted.
 | `or_rank` | number | 88.9% |
 | `or_tokens_week` | number | 88.9% |
 | `last_pricing_check` | string | 8.3% |
-| `last_change_at` | string | 33.3% |
+| `last_change_at` | string | 30.6% |
 | `curated_on` | string | 0.0% |
 
 ## Cite it
 
 ```
-Compound Labs (2026). ToolDrift: the AI coding tools under watch. ToolDrift, https://tooldrift.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-tools
+Compound Labs (2026). ToolDrift: the AI coding tools under watch. ToolDrift, https://tooldrift.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-tools
 ```
 
 ```bibtex
@@ -85,7 +85,7 @@ Compound Labs (2026). ToolDrift: the AI coding tools under watch. ToolDrift, htt
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-tools},
-  note      = {Cut of 2026-09-04. Measured by ToolDrift, https://tooldrift.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by ToolDrift, https://tooldrift.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

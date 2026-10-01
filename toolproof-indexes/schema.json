@@ -1,6 +1,6 @@
 {
   "dataset": "toolproof-indexes",
-  "cut": "2026-09-04",
+  "cut": "2026-10-01",
   "columns": [
     {
       "column": "slug",

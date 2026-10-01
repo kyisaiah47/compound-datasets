@@ -4,9 +4,9 @@ One row per graded SaaS starter kit: its stack, licence and pricing, the release
 
 | | |
 |---|---|
-| Rows in this cut | 36 |
+| Rows in this cut | 39 |
 | One row is | one starter kit |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [KitGrade](https://kitgrade.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -27,8 +27,8 @@ Kits are graded from measured facts rather than from their own landing pages. A 
 
 | File | Format | Size |
 |---|---|---|
-| `kitgrade-kits-2026-09-04.csv` | CSV | 0.08 MB |
-| `kitgrade-kits-2026-09-04.json` | JSON | 0.09 MB |
+| `kitgrade-kits-2026-10-01.csv` | CSV | 0.09 MB |
+| `kitgrade-kits-2026-10-01.json` | JSON | 0.10 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -41,50 +41,50 @@ citation can pin the exact edition it quoted.
 | `name` | string | 0.0% |
 | `vendor` | string | 0.0% |
 | `homepage` | string | 0.0% |
-| `pricing_url` | string | 61.1% |
-| `docs_url` | string | 22.2% |
-| `repo` | string | 38.9% |
+| `pricing_url` | string | 56.4% |
+| `docs_url` | string | 17.9% |
+| `repo` | string | 43.6% |
 | `ecosystem` | string | 0.0% |
 | `stack` | array | 0.0% |
 | `license` | string | 0.0% |
 | `license_source` | string | 0.0% |
 | `open_source` | boolean | 0.0% |
 | `pricing_model` | string | 0.0% |
-| `price_min_usd` | number | 5.6% |
-| `price_max_usd` | number | 5.6% |
-| `price_evidence` | string | 66.7% |
-| `price_checked_at` | string | 61.1% |
+| `price_min_usd` | number | 5.1% |
+| `price_max_usd` | number | 5.1% |
+| `price_evidence` | string | 61.5% |
+| `price_checked_at` | string | 56.4% |
 | `price_points` | array | 0.0% |
 | `price_unmeasurable` | boolean | 0.0% |
-| `last_commit_at` | string | 38.9% |
-| `last_release_at` | string | 55.6% |
-| `last_release_tag` | string | 52.8% |
-| `releases_12mo` | number | 38.9% |
-| `stars` | number | 38.9% |
-| `forks` | number | 38.9% |
-| `open_issues` | number | 38.9% |
-| `contributors` | number | 38.9% |
+| `last_commit_at` | string | 43.6% |
+| `last_release_at` | string | 53.8% |
+| `last_release_tag` | string | 53.8% |
+| `releases_12mo` | number | 43.6% |
+| `stars` | number | 43.6% |
+| `forks` | number | 43.6% |
+| `open_issues` | number | 43.6% |
+| `contributors` | number | 43.6% |
 | `includes` | object | 0.0% |
-| `support_model` | string | 8.3% |
-| `support_source` | string | 8.3% |
-| `docs_pages` | number | 61.1% |
+| `support_model` | string | 12.8% |
+| `support_source` | string | 12.8% |
+| `docs_pages` | number | 56.4% |
 | `docs_kind` | string | 0.0% |
 | `evidence_level` | string | 0.0% |
 | `active` | boolean | 0.0% |
 | `archived` | boolean | 0.0% |
 | `logo_url` | string | 0.0% |
-| `summary` | string | 2.8% |
+| `summary` | string | 2.6% |
 | `summary_source` | string | 0.0% |
-| `changelog_url` | string | 97.2% |
-| `changelog_source` | string | 97.2% |
-| `edition_of` | string | 97.2% |
-| `edition_label` | string | 94.4% |
+| `changelog_url` | string | 92.3% |
+| `changelog_source` | string | 92.3% |
+| `edition_of` | string | 97.4% |
+| `edition_label` | string | 94.9% |
 | `refreshed_at` | string | 0.0% |
 
 ## Cite it
 
 ```
-Compound Labs (2026). KitGrade: SaaS starter kits and what is measurably in the box. KitGrade, https://kitgrade.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-kits
+Compound Labs (2026). KitGrade: SaaS starter kits and what is measurably in the box. KitGrade, https://kitgrade.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-kits
 ```
 
 ```bibtex
@@ -94,7 +94,7 @@ Compound Labs (2026). KitGrade: SaaS starter kits and what is measurably in the 
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-kits},
-  note      = {Cut of 2026-09-04. Measured by KitGrade, https://kitgrade.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by KitGrade, https://kitgrade.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

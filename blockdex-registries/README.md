@@ -4,9 +4,9 @@ One row per public shadcn component registry: where it is served from, the repos
 
 | | |
 |---|---|
-| Rows in this cut | 1,123 |
+| Rows in this cut | 1,304 |
 | One row is | one registry |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [BlockDex](https://blockdex.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -27,8 +27,8 @@ Each registry is crawled on a schedule and its item list read from the registry 
 
 | File | Format | Size |
 |---|---|---|
-| `blockdex-registries-2026-09-04.csv` | CSV | 0.38 MB |
-| `blockdex-registries-2026-09-04.json` | JSON | 0.80 MB |
+| `blockdex-registries-2026-10-01.csv` | CSV | 0.44 MB |
+| `blockdex-registries-2026-10-01.json` | JSON | 0.93 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -39,35 +39,35 @@ citation can pin the exact edition it quoted.
 |---|---|---|
 | `slug` | string | 0.0% |
 | `name` | string | 0.0% |
-| `homepage` | string | 2.8% |
+| `homepage` | string | 3.5% |
 | `registry_url` | string | 0.0% |
 | `registry_source` | string | 0.0% |
-| `repo_full_name` | string | 3.2% |
-| `repo_url` | string | 3.2% |
-| `description` | string | 49.8% |
-| `license` | string | 56.4% |
-| `gh_stars` | number | 26.8% |
-| `gh_forks` | number | 26.8% |
-| `gh_pushed_at` | string | 26.8% |
-| `gh_days_since_push` | number | 26.8% |
-| `maintenance` | number | 26.8% |
+| `repo_full_name` | string | 4.0% |
+| `repo_url` | string | 4.0% |
+| `description` | string | 52.6% |
+| `license` | string | 58.7% |
+| `gh_stars` | number | 31.4% |
+| `gh_forks` | number | 31.4% |
+| `gh_pushed_at` | string | 31.4% |
+| `gh_days_since_push` | number | 31.4% |
+| `maintenance` | number | 31.4% |
 | `item_count` | number | 0.0% |
 | `free_item_count` | number | 0.0% |
 | `paid_item_count` | number | 0.0% |
 | `access` | string | 0.0% |
-| `docs_url` | string | 74.9% |
-| `preview_embeddable` | boolean | 83.2% |
+| `docs_url` | string | 73.2% |
+| `preview_embeddable` | boolean | 82.1% |
 | `status` | string | 0.0% |
 | `first_seen` | string | 0.0% |
 | `last_seen` | string | 0.0% |
 | `last_crawled_at` | string | 0.0% |
-| `gone_on` | string | 86.9% |
-| `notes` | string | 99.8% |
+| `gone_on` | string | 82.9% |
+| `notes` | string | 99.9% |
 
 ## Cite it
 
 ```
-Compound Labs (2026). BlockDex: every public shadcn registry. BlockDex, https://blockdex.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-registries
+Compound Labs (2026). BlockDex: every public shadcn registry. BlockDex, https://blockdex.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-registries
 ```
 
 ```bibtex
@@ -77,7 +77,7 @@ Compound Labs (2026). BlockDex: every public shadcn registry. BlockDex, https://
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-registries},
-  note      = {Cut of 2026-09-04. Measured by BlockDex, https://blockdex.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by BlockDex, https://blockdex.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

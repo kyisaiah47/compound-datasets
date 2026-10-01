@@ -4,9 +4,9 @@ One row per item in every crawled registry: its type, its dependencies, the file
 
 | | |
 |---|---|
-| Rows in this cut | 88,612 |
+| Rows in this cut | 116,147 |
 | One row is | one registry item |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [BlockDex](https://blockdex.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -27,8 +27,8 @@ Each registry is crawled and its items are read individually from the registry J
 
 | File | Format | Size |
 |---|---|---|
-| `blockdex-items-2026-09-04.csv.gz` | CSV, gzipped | 5.4 MB |
-| `blockdex-items-2026-09-04.json.gz` | JSON, gzipped | 6.0 MB |
+| `blockdex-items-2026-10-01.csv.gz` | CSV, gzipped | 7.1 MB |
+| `blockdex-items-2026-10-01.json.gz` | JSON, gzipped | 7.8 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -40,8 +40,8 @@ citation can pin the exact edition it quoted.
 | `id` | string | 0.0% |
 | `registry_slug` | string | 0.0% |
 | `name` | string | 0.0% |
-| `title` | string | 42.0% |
-| `description` | string | 39.0% |
+| `title` | string | 41.5% |
+| `description` | string | 37.8% |
 | `type` | string | 0.0% |
 | `kind` | string | 0.0% |
 | `categories` | array | 0.0% |
@@ -50,25 +50,25 @@ citation can pin the exact edition it quoted.
 | `dev_dependencies` | array | 0.0% |
 | `file_paths` | array | 0.0% |
 | `file_count` | number | 0.0% |
-| `primary_file` | string | 1.2% |
+| `primary_file` | string | 1.1% |
 | `has_tailwind_config` | boolean | 0.0% |
 | `has_css_vars` | boolean | 0.0% |
 | `item_url` | string | 0.0% |
 | `install_cmd` | string | 0.0% |
 | `docs_url` | string | 63.9% |
-| `preview_url` | string | 65.8% |
-| `preview_embeddable` | boolean | 65.8% |
+| `preview_url` | string | 65.9% |
+| `preview_embeddable` | boolean | 65.9% |
 | `access` | string | 0.0% |
 | `status` | string | 0.0% |
 | `first_seen` | string | 0.0% |
 | `last_seen` | string | 0.0% |
 | `removed_on` | string | 75.8% |
-| `registry_stars` | number | 57.0% |
+| `registry_stars` | number | 54.7% |
 
 ## Cite it
 
 ```
-Compound Labs (2026). BlockDex: every component, block and theme inside those registries. BlockDex, https://blockdex.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-items
+Compound Labs (2026). BlockDex: every component, block and theme inside those registries. BlockDex, https://blockdex.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-items
 ```
 
 ```bibtex
@@ -78,7 +78,7 @@ Compound Labs (2026). BlockDex: every component, block and theme inside those re
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-items},
-  note      = {Cut of 2026-09-04. Measured by BlockDex, https://blockdex.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by BlockDex, https://blockdex.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

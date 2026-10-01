@@ -4,9 +4,9 @@ One row per kit carrying the six component scores the total is composed from, th
 
 | | |
 |---|---|
-| Rows in this cut | 36 |
+| Rows in this cut | 39 |
 | One row is | one kit |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [KitGrade](https://kitgrade.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -26,8 +26,8 @@ Each component is computed from the measured facts in the kits table by a versio
 
 | File | Format | Size |
 |---|---|---|
-| `kitgrade-scores-2026-09-04.csv` | CSV | 0.02 MB |
-| `kitgrade-scores-2026-09-04.json` | JSON | 0.02 MB |
+| `kitgrade-scores-2026-10-01.csv` | CSV | 0.02 MB |
+| `kitgrade-scores-2026-10-01.json` | JSON | 0.03 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -41,7 +41,7 @@ citation can pin the exact edition it quoted.
 | `total` | number | 0.0% |
 | `normalised` | number | 0.0% |
 | `coverage` | number | 0.0% |
-| `maintenance` | number | 38.9% |
+| `maintenance` | number | 43.6% |
 | `completeness` | number | 0.0% |
 | `transparency` | number | 0.0% |
 | `documentation` | number | 0.0% |
@@ -52,7 +52,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Compound Labs (2026). KitGrade: the component scores behind every kit grade. KitGrade, https://kitgrade.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-scores
+Compound Labs (2026). KitGrade: the component scores behind every kit grade. KitGrade, https://kitgrade.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-scores
 ```
 
 ```bibtex
@@ -62,7 +62,7 @@ Compound Labs (2026). KitGrade: the component scores behind every kit grade. Kit
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-scores},
-  note      = {Cut of 2026-09-04. Measured by KitGrade, https://kitgrade.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by KitGrade, https://kitgrade.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

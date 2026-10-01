@@ -1,6 +1,6 @@
 {
   "dataset": "blockdex-registries",
-  "cut": "2026-09-04",
+  "cut": "2026-10-01",
   "columns": [
     {
       "column": "slug",
@@ -15,7 +15,7 @@
     {
       "column": "homepage",
       "type": "string",
-      "null_share_in_sample": 0.0276
+      "null_share_in_sample": 0.0345
     },
     {
       "column": "registry_url",
@@ -30,47 +30,47 @@
     {
       "column": "repo_full_name",
       "type": "string",
-      "null_share_in_sample": 0.0321
+      "null_share_in_sample": 0.0399
     },
     {
       "column": "repo_url",
       "type": "string",
-      "null_share_in_sample": 0.0321
+      "null_share_in_sample": 0.0399
     },
     {
       "column": "description",
       "type": "string",
-      "null_share_in_sample": 0.4978
+      "null_share_in_sample": 0.5261
     },
     {
       "column": "license",
       "type": "string",
-      "null_share_in_sample": 0.5637
+      "null_share_in_sample": 0.5867
     },
     {
       "column": "gh_stars",
       "type": "number",
-      "null_share_in_sample": 0.268
+      "null_share_in_sample": 0.3144
     },
     {
       "column": "gh_forks",
       "type": "number",
-      "null_share_in_sample": 0.268
+      "null_share_in_sample": 0.3144
     },
     {
       "column": "gh_pushed_at",
       "type": "string",
-      "null_share_in_sample": 0.268
+      "null_share_in_sample": 0.3144
     },
     {
       "column": "gh_days_since_push",
       "type": "number",
-      "null_share_in_sample": 0.268
+      "null_share_in_sample": 0.3144
     },
     {
       "column": "maintenance",
       "type": "number",
-      "null_share_in_sample": 0.268
+      "null_share_in_sample": 0.3144
     },
     {
       "column": "item_count",
@@ -95,12 +95,12 @@
     {
       "column": "docs_url",
       "type": "string",
-      "null_share_in_sample": 0.7489
+      "null_share_in_sample": 0.7316
     },
     {
       "column": "preview_embeddable",
       "type": "boolean",
-      "null_share_in_sample": 0.8317
+      "null_share_in_sample": 0.8206
     },
     {
       "column": "status",
@@ -125,12 +125,12 @@
     {
       "column": "gone_on",
       "type": "string",
-      "null_share_in_sample": 0.8691
+      "null_share_in_sample": 0.829
     },
     {
       "column": "notes",
       "type": "string",
-      "null_share_in_sample": 0.9982
+      "null_share_in_sample": 0.9985
     }
   ]
 }

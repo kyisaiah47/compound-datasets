@@ -1,6 +1,6 @@
 {
   "dataset": "stillshipping-tools",
-  "cut": "2026-09-04",
+  "cut": "2026-10-01",
   "columns": [
     {
       "column": "slug",
@@ -25,7 +25,7 @@
     {
       "column": "vendor",
       "type": "string",
-      "null_share_in_sample": 0.9382
+      "null_share_in_sample": 0.942
     },
     {
       "column": "tagline",
@@ -35,7 +35,7 @@
     {
       "column": "homepage",
       "type": "string",
-      "null_share_in_sample": 0.1353
+      "null_share_in_sample": 0.1381
     },
     {
       "column": "aliases",
@@ -65,12 +65,12 @@
     {
       "column": "previous_verdict",
       "type": "string",
-      "null_share_in_sample": 0.9382
+      "null_share_in_sample": 0.9006
     },
     {
       "column": "verdict_changed_at",
       "type": "string",
-      "null_share_in_sample": 0.9382
+      "null_share_in_sample": 0.9006
     },
     {
       "column": "stars",
@@ -90,12 +90,12 @@
     {
       "column": "language",
       "type": "string",
-      "null_share_in_sample": 0.0118
+      "null_share_in_sample": 0.0138
     },
     {
       "column": "license",
       "type": "string",
-      "null_share_in_sample": 0.1706
+      "null_share_in_sample": 0.174
     },
     {
       "column": "archived",
@@ -110,7 +110,7 @@
     {
       "column": "description",
       "type": "string",
-      "null_share_in_sample": 0.0059
+      "null_share_in_sample": 0.0055
     },
     {
       "column": "created_at",
@@ -135,12 +135,12 @@
     {
       "column": "last_release_at",
       "type": "string",
-      "null_share_in_sample": 0.1412
+      "null_share_in_sample": 0.1409
     },
     {
       "column": "last_release_tag",
       "type": "string",
-      "null_share_in_sample": 0.1412
+      "null_share_in_sample": 0.1409
     },
     {
       "column": "releases_365d",
@@ -150,17 +150,17 @@
     {
       "column": "release_gap_days",
       "type": "number",
-      "null_share_in_sample": 0.1412
+      "null_share_in_sample": 0.1409
     },
     {
       "column": "median_release_gap",
       "type": "number",
-      "null_share_in_sample": 0.1941
+      "null_share_in_sample": 0.2072
     },
     {
       "column": "issue_response_hours",
       "type": "number",
-      "null_share_in_sample": 0.6176
+      "null_share_in_sample": 0.6436
     },
     {
       "column": "issues_sampled",
@@ -170,7 +170,7 @@
     {
       "column": "stale_issue_ratio",
       "type": "number",
-      "null_share_in_sample": 0.0441
+      "null_share_in_sample": 0.0442
     },
     {
       "column": "contributors_90d",

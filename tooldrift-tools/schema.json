@@ -1,6 +1,6 @@
 {
   "dataset": "tooldrift-tools",
-  "cut": "2026-09-04",
+  "cut": "2026-10-01",
   "columns": [
     {
       "column": "slug",
@@ -165,7 +165,7 @@
     {
       "column": "last_change_at",
       "type": "string",
-      "null_share_in_sample": 0.3333
+      "null_share_in_sample": 0.3056
     },
     {
       "column": "curated_on",

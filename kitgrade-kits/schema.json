@@ -1,6 +1,6 @@
 {
   "dataset": "kitgrade-kits",
-  "cut": "2026-09-04",
+  "cut": "2026-10-01",
   "columns": [
     {
       "column": "slug",
@@ -25,17 +25,17 @@
     {
       "column": "pricing_url",
       "type": "string",
-      "null_share_in_sample": 0.6111
+      "null_share_in_sample": 0.5641
     },
     {
       "column": "docs_url",
       "type": "string",
-      "null_share_in_sample": 0.2222
+      "null_share_in_sample": 0.1795
     },
     {
       "column": "repo",
       "type": "string",
-      "null_share_in_sample": 0.3889
+      "null_share_in_sample": 0.4359
     },
     {
       "column": "ecosystem",
@@ -70,22 +70,22 @@
     {
       "column": "price_min_usd",
       "type": "number",
-      "null_share_in_sample": 0.0556
+      "null_share_in_sample": 0.0513
     },
     {
       "column": "price_max_usd",
       "type": "number",
-      "null_share_in_sample": 0.0556
+      "null_share_in_sample": 0.0513
     },
     {
       "column": "price_evidence",
       "type": "string",
-      "null_share_in_sample": 0.6667
+      "null_share_in_sample": 0.6154
     },
     {
       "column": "price_checked_at",
       "type": "string",
-      "null_share_in_sample": 0.6111
+      "null_share_in_sample": 0.5641
     },
     {
       "column": "price_points",
@@ -100,42 +100,42 @@
     {
       "column": "last_commit_at",
       "type": "string",
-      "null_share_in_sample": 0.3889
+      "null_share_in_sample": 0.4359
     },
     {
       "column": "last_release_at",
       "type": "string",
-      "null_share_in_sample": 0.5556
+      "null_share_in_sample": 0.5385
     },
     {
       "column": "last_release_tag",
       "type": "string",
-      "null_share_in_sample": 0.5278
+      "null_share_in_sample": 0.5385
     },
     {
       "column": "releases_12mo",
       "type": "number",
-      "null_share_in_sample": 0.3889
+      "null_share_in_sample": 0.4359
     },
     {
       "column": "stars",
       "type": "number",
-      "null_share_in_sample": 0.3889
+      "null_share_in_sample": 0.4359
     },
     {
       "column": "forks",
       "type": "number",
-      "null_share_in_sample": 0.3889
+      "null_share_in_sample": 0.4359
     },
     {
       "column": "open_issues",
       "type": "number",
-      "null_share_in_sample": 0.3889
+      "null_share_in_sample": 0.4359
     },
     {
       "column": "contributors",
       "type": "number",
-      "null_share_in_sample": 0.3889
+      "null_share_in_sample": 0.4359
     },
     {
       "column": "includes",
@@ -145,17 +145,17 @@
     {
       "column": "support_model",
       "type": "string",
-      "null_share_in_sample": 0.0833
+      "null_share_in_sample": 0.1282
     },
     {
       "column": "support_source",
       "type": "string",
-      "null_share_in_sample": 0.0833
+      "null_share_in_sample": 0.1282
     },
     {
       "column": "docs_pages",
       "type": "number",
-      "null_share_in_sample": 0.6111
+      "null_share_in_sample": 0.5641
     },
     {
       "column": "docs_kind",
@@ -185,7 +185,7 @@
     {
       "column": "summary",
       "type": "string",
-      "null_share_in_sample": 0.0278
+      "null_share_in_sample": 0.0256
     },
     {
       "column": "summary_source",
@@ -195,22 +195,22 @@
     {
       "column": "changelog_url",
       "type": "string",
-      "null_share_in_sample": 0.9722
+      "null_share_in_sample": 0.9231
     },
     {
       "column": "changelog_source",
       "type": "string",
-      "null_share_in_sample": 0.9722
+      "null_share_in_sample": 0.9231
     },
     {
       "column": "edition_of",
       "type": "string",
-      "null_share_in_sample": 0.9722
+      "null_share_in_sample": 0.9744
     },
     {
       "column": "edition_label",
       "type": "string",
-      "null_share_in_sample": 0.9444
+      "null_share_in_sample": 0.9487
     },
     {
       "column": "refreshed_at",

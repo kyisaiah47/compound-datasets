@@ -4,9 +4,9 @@ One row per product that has launched on the board: what it is, where it lives, 
 
 | | |
 |---|---|
-| Rows in this cut | 43 |
+| Rows in this cut | 104 |
 | One row is | one launched product |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [ShipWall](https://shipwall.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -27,8 +27,8 @@ The badge check fetches the product's own site and looks for the badge it claims
 
 | File | Format | Size |
 |---|---|---|
-| `shipwall-products-2026-09-04.csv` | CSV | 0.02 MB |
-| `shipwall-products-2026-09-04.json` | JSON | 0.04 MB |
+| `shipwall-products-2026-10-01.csv` | CSV | 0.05 MB |
+| `shipwall-products-2026-10-01.json` | JSON | 0.09 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -47,24 +47,24 @@ citation can pin the exact edition it quoted.
 | `demo_url` | null | 100.0% |
 | `video_url` | null | 100.0% |
 | `logo_url` | string | 0.0% |
-| `category_slug` | string | 62.8% |
+| `category_slug` | string | 68.3% |
 | `built_with` | array | 0.0% |
 | `human_edited` | string | 0.0% |
-| `pricing` | string | 37.2% |
+| `pricing` | string | 25.0% |
 | `maker_handle` | string | 0.0% |
 | `launch_date` | string | 0.0% |
 | `launch_slot` | number | 0.0% |
 | `launched_at` | string | 0.0% |
 | `featured` | boolean | 0.0% |
 | `upvote_count` | number | 0.0% |
-| `badge_found_at` | string | 97.7% |
+| `badge_found_at` | string | 99.0% |
 | `badge_last_checked_at` | string | 0.0% |
 | `badge_http_status` | number | 0.0% |
 
 ## Cite it
 
 ```
-Compound Labs (2026). ShipWall: launched products and the badge check behind each one. ShipWall, https://shipwall.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/shipwall-products
+Compound Labs (2026). ShipWall: launched products and the badge check behind each one. ShipWall, https://shipwall.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/shipwall-products
 ```
 
 ```bibtex
@@ -74,7 +74,7 @@ Compound Labs (2026). ShipWall: launched products and the badge check behind eac
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/shipwall-products},
-  note      = {Cut of 2026-09-04. Measured by ShipWall, https://shipwall.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by ShipWall, https://shipwall.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

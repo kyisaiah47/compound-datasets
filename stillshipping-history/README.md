@@ -4,9 +4,9 @@ One row per tool per captured day: the verdict it held that day and the activity
 
 | | |
 |---|---|
-| Rows in this cut | 10,142 |
+| Rows in this cut | 18,462 |
 | One row is | one tool on one day |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [StillShipping](https://stillshipping.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -26,8 +26,8 @@ A snapshot is written every night after the verdicts are recomputed, from the sa
 
 | File | Format | Size |
 |---|---|---|
-| `stillshipping-history-2026-09-04.csv` | CSV | 6.9 MB |
-| `stillshipping-history-2026-09-04.json` | JSON | 8.4 MB |
+| `stillshipping-history-2026-10-01.csv` | CSV | 12.9 MB |
+| `stillshipping-history-2026-10-01.json` | JSON | 15.6 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -54,7 +54,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Compound Labs (2026). StillShipping: the daily verdict history. StillShipping, https://stillshipping.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-history
+Compound Labs (2026). StillShipping: the daily verdict history. StillShipping, https://stillshipping.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-history
 ```
 
 ```bibtex
@@ -64,7 +64,7 @@ Compound Labs (2026). StillShipping: the daily verdict history. StillShipping, h
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-history},
-  note      = {Cut of 2026-09-04. Measured by StillShipping, https://stillshipping.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by StillShipping, https://stillshipping.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

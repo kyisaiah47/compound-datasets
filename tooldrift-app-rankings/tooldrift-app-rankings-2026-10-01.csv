@@ -1,0 +1,1182 @@
+captured_on,time_window,app_slug,app_title,tool_slug,categories,rank,total_tokens,total_requests
+2026-08-01,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,7523159878292,84502588
+2026-08-01,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",5,1796483460899,24410631
+2026-08-01,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",6,1788473608951,19525936
+2026-08-01,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",7,1075566162739,22516029
+2026-08-01,week,pi,pi,,"[""cli-agent""]",8,767373495038,14849163
+2026-08-01,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",9,619142743149,6011903
+2026-08-01,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",10,436864830670,1935841
+2026-08-01,week,descript,Descript,,"[""video-gen""]",11,419531217658,5307485
+2026-08-01,week,codex,Codex,codex-cli,"[""cli-agent""]",13,321370654951,3227633
+2026-08-01,week,isekai-zero,ISEKAI ZERO,,"[""game""]",14,252115289915,6760688
+2026-08-01,week,janitor-ai,Janitor AI,,"[""roleplay""]",15,242511162837,17387117
+2026-08-01,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",18,224062160940,3800306
+2026-08-01,week,1275184,Codebuff,,"[""cli-agent""]",19,210628508890,5680121
+2026-08-01,week,portkey-ai,Portkey AI,,"[""programming-app""]",20,200292444352,6605777
+2026-08-01,week,3682314,Oh-My-Pi,,"[""cli-agent""]",21,176780081109,1568373
+2026-08-01,week,lemonade,Lemonade,,"[""programming-app""]",22,145140431761,4365901
+2026-08-01,week,nous-research-api,Nous Research API,,"[""general-chat""]",23,142046295265,5209397
+2026-08-01,week,stan,Sahasra,,[],24,131141629376,2052241
+2026-08-01,week,pieces,Pieces.app: Ambient Artificial Memory,,"[""personal-agent""]",25,116841153787,13554498
+2026-08-01,week,171054,HackerAI,,[],26,113793652980,2730963
+2026-08-02,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,8071063189073,89447440
+2026-08-02,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",5,1926176554115,25648397
+2026-08-02,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",6,1878303064324,20230328
+2026-08-02,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",7,1118154728479,22711108
+2026-08-02,week,pi,pi,,"[""cli-agent""]",8,824261903299,15461003
+2026-08-02,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",9,744651227389,7117728
+2026-08-02,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",11,445269365906,1928608
+2026-08-02,week,descript,Descript,,"[""video-gen""]",13,433189235777,5478232
+2026-08-02,week,codex,Codex,codex-cli,"[""cli-agent""]",14,277444382986,2826023
+2026-08-02,week,1275184,Codebuff,,"[""cli-agent""]",15,275980458549,5898380
+2026-08-02,week,isekai-zero,ISEKAI ZERO,,"[""game""]",16,269500682757,7206439
+2026-08-02,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",17,267074088890,4509272
+2026-08-02,week,janitor-ai,Janitor AI,,"[""roleplay""]",18,256138310229,18333323
+2026-08-02,week,3335353,Internally Broken,,[],20,207897145206,1438383
+2026-08-02,week,3682314,Oh-My-Pi,,"[""cli-agent""]",21,201458908449,1724525
+2026-08-02,week,lemonade,Lemonade,,"[""programming-app""]",22,176412441169,5226992
+2026-08-02,week,portkey-ai,Portkey AI,,"[""programming-app""]",23,166183217858,5752841
+2026-08-02,week,3940184,Sekai,,[],24,161073465823,4764747
+2026-08-02,week,nous-research-api,Nous Research API,,"[""general-chat""]",25,147606832138,5398785
+2026-08-02,week,2447026,CSS AI Pro,,[],26,141835484284,2789121
+2026-08-02,week,stan,Sahasra,,[],26,136905921034,2255950
+2026-08-03,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,7702030709348,84799362
+2026-08-03,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,1845102830685,19884977
+2026-08-03,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1828352746601,24328610
+2026-08-03,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",7,1058233173872,21265074
+2026-08-03,week,pi,pi,,"[""cli-agent""]",8,800581426226,15142202
+2026-08-03,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",9,757165450331,7170512
+2026-08-03,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",12,417501412988,1786955
+2026-08-03,week,descript,Descript,,"[""video-gen""]",13,413035304347,5265930
+2026-08-03,week,1275184,Codebuff,,"[""cli-agent""]",14,279996313066,5343280
+2026-08-03,week,codex,Codex,codex-cli,"[""cli-agent""]",15,253943489971,2694344
+2026-08-03,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",16,253031706081,4252986
+2026-08-03,week,isekai-zero,ISEKAI ZERO,,"[""game""]",17,252218810319,6745442
+2026-08-03,week,3335353,Internally Broken,,[],18,249367021980,1743152
+2026-08-03,week,janitor-ai,Janitor AI,,"[""roleplay""]",19,239254552622,17108512
+2026-08-03,week,3682314,Oh-My-Pi,,"[""cli-agent""]",21,195357717220,1625513
+2026-08-03,week,3940184,Sekai,,[],22,176140737583,5159468
+2026-08-03,week,lemonade,Lemonade,,"[""programming-app""]",23,172880017463,5099071
+2026-08-03,week,2447026,CSS AI Pro,,[],24,166858327880,3213046
+2026-08-03,week,nous-research-api,Nous Research API,,"[""general-chat""]",25,140962509963,5204836
+2026-08-03,week,portkey-ai,Portkey AI,,"[""programming-app""]",26,134006666152,4809634
+2026-08-04,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,8067526024082,86779707
+2026-08-04,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,1905804416957,20588413
+2026-08-04,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1862118845692,24431854
+2026-08-04,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",7,1049939487602,20625098
+2026-08-04,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",8,910429128211,8335718
+2026-08-04,week,pi,pi,,"[""cli-agent""]",9,852622701722,15792865
+2026-08-04,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",12,419783860529,1769495
+2026-08-04,week,descript,Descript,,"[""video-gen""]",13,409701947551,5202736
+2026-08-04,week,framer,Framer,,[],14,367086016005,2616869
+2026-08-04,week,1275184,Codebuff,,"[""cli-agent""]",15,306174631966,5081864
+2026-08-04,week,codex,Codex,codex-cli,"[""cli-agent""]",16,272278665288,3017899
+2026-08-04,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",17,267522076495,4469478
+2026-08-04,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,249594417291,6667587
+2026-08-04,week,janitor-ai,Janitor AI,,"[""roleplay""]",20,239320403099,17076471
+2026-08-04,week,3682314,Oh-My-Pi,,"[""cli-agent""]",21,206832596999,1700242
+2026-08-04,week,3940184,Sekai,,[],22,201985606130,5973942
+2026-08-04,week,lemonade,Lemonade,,"[""programming-app""]",23,189174125253,5529436
+2026-08-04,week,2447026,CSS AI Pro,,[],24,182653655338,3513113
+2026-08-04,week,nous-research-api,Nous Research API,,"[""general-chat""]",25,162229224193,5657099
+2026-08-04,week,stan,Sahasra,,[],26,132509376654,2300447
+2026-08-05,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,8518575189709,89869527
+2026-08-05,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,1994333722201,21623737
+2026-08-05,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1910881095836,24518300
+2026-08-05,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1062900391421,9676953
+2026-08-05,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1023426362850,19574070
+2026-08-05,week,pi,pi,,"[""cli-agent""]",9,858672708818,14909953
+2026-08-05,week,framer,Framer,,[],10,492850451320,3534894
+2026-08-05,week,descript,Descript,,"[""video-gen""]",13,402504028057,5118872
+2026-08-05,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",14,392003763160,1652710
+2026-08-05,week,1275184,Codebuff,,"[""cli-agent""]",15,346798413850,5364433
+2026-08-05,week,codex,Codex,codex-cli,"[""cli-agent""]",16,299823008632,3428672
+2026-08-05,week,isekai-zero,ISEKAI ZERO,,"[""game""]",17,250084540407,6724018
+2026-08-05,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",19,246738221829,4106499
+2026-08-05,week,janitor-ai,Janitor AI,,"[""roleplay""]",20,239948573676,17119993
+2026-08-05,week,3682314,Oh-My-Pi,,"[""cli-agent""]",21,238976209897,1893448
+2026-08-05,week,3940184,Sekai,,[],22,223554819603,6655483
+2026-08-05,week,lemonade,Lemonade,,"[""programming-app""]",23,206575413012,5976900
+2026-08-05,week,nous-research-api,Nous Research API,,"[""general-chat""]",24,202084163844,6103938
+2026-08-05,week,2447026,CSS AI Pro,,[],25,182653479595,3512960
+2026-08-05,week,stan,Sahasra,,[],26,138437248690,2454031
+2026-08-06,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,9080875050175,93628998
+2026-08-06,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2051358899398,22103278
+2026-08-06,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1944224205611,24607611
+2026-08-06,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1198636451143,10982168
+2026-08-06,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1022552045351,18200540
+2026-08-06,week,pi,pi,,"[""cli-agent""]",9,849392132351,13580360
+2026-08-06,week,framer,Framer,,[],10,612052861655,4414489
+2026-08-06,week,descript,Descript,,"[""video-gen""]",13,397489111243,5070015
+2026-08-06,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",14,356531802442,1517269
+2026-08-06,week,1275184,Codebuff,,"[""cli-agent""]",15,355953137171,5314112
+2026-08-06,week,codex,Codex,codex-cli,"[""cli-agent""]",16,333337028762,3985292
+2026-08-06,week,3682314,Oh-My-Pi,,"[""cli-agent""]",17,276420401471,2122342
+2026-08-06,week,nous-research-api,Nous Research API,,"[""general-chat""]",18,272600638030,7307355
+2026-08-06,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,254654077978,6905921
+2026-08-06,week,janitor-ai,Janitor AI,,"[""roleplay""]",20,241107989093,17121949
+2026-08-06,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",21,229297581310,3743955
+2026-08-06,week,lemonade,Lemonade,,"[""programming-app""]",22,223381523191,6393294
+2026-08-06,week,3940184,Sekai,,[],24,204669236706,6450241
+2026-08-06,week,4580043,HighLevel,,[],25,186854462295,3458853
+2026-08-06,week,2447026,CSS AI Pro,,[],26,182653042535,3512701
+2026-08-07,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,9531327320053,96133399
+2026-08-07,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,1988085234651,20786400
+2026-08-07,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1932118874731,23712780
+2026-08-07,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1316336304890,11952025
+2026-08-07,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1025205561367,17636860
+2026-08-07,week,pi,pi,,"[""cli-agent""]",9,833968089285,11966064
+2026-08-07,week,framer,Framer,,[],10,723614315973,5205052
+2026-08-07,week,descript,Descript,,"[""video-gen""]",13,390003059731,4935499
+2026-08-07,week,codex,Codex,codex-cli,"[""cli-agent""]",14,366521851441,4442818
+2026-08-07,week,1275184,Codebuff,,"[""cli-agent""]",15,332823865013,4784847
+2026-08-07,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",16,328376836656,1394701
+2026-08-07,week,3682314,Oh-My-Pi,,"[""cli-agent""]",17,320267664926,2438369
+2026-08-07,week,nous-research-api,Nous Research API,,"[""general-chat""]",18,319268393031,8347607
+2026-08-07,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,261870137343,7158197
+2026-08-07,week,4580043,HighLevel,,[],20,253698457455,4685340
+2026-08-07,week,janitor-ai,Janitor AI,,"[""roleplay""]",21,241507441323,17184559
+2026-08-07,week,lemonade,Lemonade,,"[""programming-app""]",22,239917639332,6761439
+2026-08-07,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",23,219254593614,3674346
+2026-08-07,week,3940184,Sekai,,[],25,178799267785,6110048
+2026-08-07,week,2447026,CSS AI Pro,,[],26,162723841091,3100795
+2026-08-08,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,9834969783170,97581704
+2026-08-08,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2083342246327,21813899
+2026-08-08,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1869602633593,22294076
+2026-08-08,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1395721692896,12583991
+2026-08-08,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1044893877363,17815338
+2026-08-08,week,pi,pi,,"[""cli-agent""]",9,812879766003,10555022
+2026-08-08,week,framer,Framer,,[],10,764306129339,5502372
+2026-08-08,week,descript,Descript,,"[""video-gen""]",12,376960271299,4789881
+2026-08-08,week,nous-research-api,Nous Research API,,"[""general-chat""]",13,368258834859,9118840
+2026-08-08,week,3682314,Oh-My-Pi,,"[""cli-agent""]",15,343001702265,2658047
+2026-08-08,week,codex,Codex,codex-cli,"[""cli-agent""]",16,320431622970,4379804
+2026-08-08,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",17,314889468491,1327926
+2026-08-08,week,4580043,HighLevel,,[],18,310827725867,5750811
+2026-08-08,week,1275184,Codebuff,,"[""cli-agent""]",19,272021324953,3949129
+2026-08-08,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,266003440566,7265179
+2026-08-08,week,lemonade,Lemonade,,"[""programming-app""]",21,249029813261,6948815
+2026-08-08,week,janitor-ai,Janitor AI,,"[""roleplay""]",22,240072422876,17035908
+2026-08-08,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",23,211910426516,3637931
+2026-08-08,week,4137556,Zazen (Freebuff fork),,[],25,189547833509,2616501
+2026-08-08,week,3940184,Sekai,,[],26,154333934143,5826813
+2026-08-09,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,10185438872582,100116004
+2026-08-09,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2194601210230,23028744
+2026-08-09,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1847165194722,21863280
+2026-08-09,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1443547887054,12936594
+2026-08-09,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1072872025712,18178708
+2026-08-09,week,pi,pi,,"[""cli-agent""]",9,804814156092,10364261
+2026-08-09,week,framer,Framer,,[],10,773211474662,5540019
+2026-08-09,week,nous-research-api,Nous Research API,,"[""general-chat""]",12,441536335235,10040030
+2026-08-09,week,descript,Descript,,"[""video-gen""]",13,377788401392,4786148
+2026-08-09,week,3682314,Oh-My-Pi,,"[""cli-agent""]",14,374973853695,2900273
+2026-08-09,week,4580043,HighLevel,,[],15,369446954201,6681127
+2026-08-09,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",16,319074821041,1343375
+2026-08-09,week,codex,Codex,codex-cli,"[""cli-agent""]",17,315542776434,4423062
+2026-08-09,week,4137556,Zazen (Freebuff fork),,[],18,281349441774,3835939
+2026-08-09,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,273846510221,7688810
+2026-08-09,week,lemonade,Lemonade,,"[""programming-app""]",20,254359589648,7070755
+2026-08-09,week,janitor-ai,Janitor AI,,"[""roleplay""]",21,243315077610,17233969
+2026-08-09,week,1275184,Codebuff,,"[""cli-agent""]",22,208289456658,3093444
+2026-08-09,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",23,203143943946,3590434
+2026-08-09,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",26,150336516807,1194254
+2026-08-10,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,10491855602297,102763467
+2026-08-10,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2288813770423,24142106
+2026-08-10,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1832486183407,21562488
+2026-08-10,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1505193948774,13512344
+2026-08-10,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1111304762249,18716229
+2026-08-10,week,pi,pi,,"[""cli-agent""]",9,807731666002,10278340
+2026-08-10,week,framer,Framer,,[],10,789849804347,5681683
+2026-08-10,week,nous-research-api,Nous Research API,,"[""general-chat""]",11,506223221027,11172659
+2026-08-10,week,4580043,HighLevel,,[],13,431620262627,7665715
+2026-08-10,week,3682314,Oh-My-Pi,,"[""cli-agent""]",14,419820019711,3193830
+2026-08-10,week,4137556,Zazen (Freebuff fork),,[],15,379834970797,5111660
+2026-08-10,week,descript,Descript,,"[""video-gen""]",16,379224216560,4833388
+2026-08-10,week,codex,Codex,codex-cli,"[""cli-agent""]",17,330142793674,4606127
+2026-08-10,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",18,313072732598,1341711
+2026-08-10,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,277953493015,7915397
+2026-08-10,week,lemonade,Lemonade,,"[""programming-app""]",20,255384459484,7062151
+2026-08-10,week,janitor-ai,Janitor AI,,"[""roleplay""]",21,246500903380,17419366
+2026-08-10,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",22,198291324117,3531878
+2026-08-10,week,1275184,Codebuff,,"[""cli-agent""]",24,158588648465,2372001
+2026-08-10,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",25,154883523330,1225632
+2026-08-11,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,10524972383896,103213653
+2026-08-11,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2413304539096,25188226
+2026-08-11,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1772229879831,20596854
+2026-08-11,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1482965017507,13591213
+2026-08-11,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1138933793830,18993796
+2026-08-11,week,pi,pi,,"[""cli-agent""]",9,802145260026,10049806
+2026-08-11,week,framer,Framer,,[],10,796489290012,5697982
+2026-08-11,week,nous-research-api,Nous Research API,,"[""general-chat""]",11,540166531125,11658501
+2026-08-11,week,4580043,HighLevel,,[],13,485135318038,8551733
+2026-08-11,week,4137556,Zazen (Freebuff fork),,[],14,484803565749,6472313
+2026-08-11,week,3682314,Oh-My-Pi,,"[""cli-agent""]",15,466551293212,3499950
+2026-08-11,week,descript,Descript,,"[""video-gen""]",16,372906845487,4794319
+2026-08-11,week,codex,Codex,codex-cli,"[""cli-agent""]",17,320941387656,4497067
+2026-08-11,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",18,290877885776,1274612
+2026-08-11,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,282112992822,8089172
+2026-08-11,week,lemonade,Lemonade,,"[""programming-app""]",20,254428743242,7009917
+2026-08-11,week,janitor-ai,Janitor AI,,"[""roleplay""]",21,247011935629,17315463
+2026-08-11,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",22,193629876604,3473693
+2026-08-11,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",24,160562712555,1252182
+2026-08-11,week,stan,Sahasra,,[],25,158212253047,2786735
+2026-08-12,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,10514309945813,103122069
+2026-08-12,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2482752726749,24510652
+2026-08-12,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1687286719512,19669765
+2026-08-12,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1444540552851,13369080
+2026-08-12,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1154338013846,18994068
+2026-08-12,week,pi,pi,,"[""cli-agent""]",9,808024842512,10223560
+2026-08-12,week,framer,Framer,,[],10,797328959180,5681753
+2026-08-12,week,4137556,Zazen (Freebuff fork),,[],11,578315799077,7825363
+2026-08-12,week,nous-research-api,Nous Research API,,"[""general-chat""]",12,552107783495,12057780
+2026-08-12,week,3682314,omp,,"[""cli-agent""]",14,490800062391,3632699
+2026-08-12,week,4580043,HighLevel,,[],15,483030848480,8519716
+2026-08-12,week,descript,Descript,,"[""video-gen""]",16,365089861051,4737071
+2026-08-12,week,codex,Codex,codex-cli,"[""cli-agent""]",17,311914324771,4431300
+2026-08-12,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,281201028774,8079643
+2026-08-12,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",19,267322603612,1218201
+2026-08-12,week,lemonade,Lemonade,,"[""programming-app""]",20,259661083928,7146714
+2026-08-12,week,janitor-ai,Janitor AI,,"[""roleplay""]",21,247045046925,17102889
+2026-08-12,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",22,188335152845,3442940
+2026-08-12,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",24,163468803525,1262970
+2026-08-12,week,stan,Sahasra,,[],25,160269755278,2814172
+2026-08-13,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,10418778195357,102598513
+2026-08-13,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2415677838422,23781849
+2026-08-13,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1663877409022,19311713
+2026-08-13,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1426637092918,13051652
+2026-08-13,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1138925316535,18838393
+2026-08-13,week,pi,pi,,"[""cli-agent""]",9,826209000314,10720445
+2026-08-13,week,framer,Framer,,[],10,796630239875,5625255
+2026-08-13,week,4137556,Zazen (Freebuff fork),,[],11,669695603060,9199828
+2026-08-13,week,nous-research-api,Nous Research API,,"[""general-chat""]",12,527154606159,11791067
+2026-08-13,week,3682314,omp,,"[""cli-agent""]",14,499809003681,3680611
+2026-08-13,week,4580043,HighLevel,,[],15,487066936697,8539820
+2026-08-13,week,descript,Descript,,"[""video-gen""]",16,349486107544,4641999
+2026-08-13,week,codex,Codex,codex-cli,"[""cli-agent""]",17,290919866735,4124966
+2026-08-13,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,283084900509,8066627
+2026-08-13,week,lemonade,Lemonade,,"[""programming-app""]",19,266203079066,7302661
+2026-08-13,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",20,259571466266,1203727
+2026-08-13,week,janitor-ai,Janitor AI,,"[""roleplay""]",21,244453679942,16771999
+2026-08-13,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",23,181392650087,3368341
+2026-08-13,week,stan,Sahasra,,[],24,162619505117,2848091
+2026-08-13,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",25,158571071916,1220389
+2026-08-14,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,10394104013433,103507728
+2026-08-14,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2546081841119,25235734
+2026-08-14,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1727266500087,20174680
+2026-08-14,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1405779229274,12871143
+2026-08-14,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1133607726585,18858390
+2026-08-14,week,pi,pi,,"[""cli-agent""]",9,857554305110,11967949
+2026-08-14,week,framer,Framer,,[],10,809128710819,5731465
+2026-08-14,week,4137556,Zazen (Freebuff fork),,[],11,661580495091,8649777
+2026-08-14,week,nous-research-api,Nous Research API,,"[""general-chat""]",12,516641571592,11322058
+2026-08-14,week,3682314,omp,,"[""cli-agent""]",13,511036419400,3760161
+2026-08-14,week,4580043,HighLevel,,[],14,504612983682,8676525
+2026-08-14,week,descript,Descript,,"[""video-gen""]",16,335577795487,4594238
+2026-08-14,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,281847633020,7974302
+2026-08-14,week,codex,Codex,codex-cli,"[""cli-agent""]",19,276989459192,3961968
+2026-08-14,week,lemonade,Lemonade,,"[""programming-app""]",20,272878235106,7492874
+2026-08-14,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",21,257342264398,1208798
+2026-08-14,week,janitor-ai,Janitor AI,,"[""roleplay""]",22,244090532874,16481169
+2026-08-14,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",23,179729717090,3368402
+2026-08-14,week,stan,Sahasra,,[],24,167368928518,2917792
+2026-08-14,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",25,154858725146,1180789
+2026-08-15,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,10339651983541,104021947
+2026-08-15,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2795797846967,27901324
+2026-08-15,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1775186327029,20911034
+2026-08-15,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1391736432959,12722704
+2026-08-15,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1135581909458,18770492
+2026-08-15,week,pi,pi,,"[""cli-agent""]",9,899004067940,13054974
+2026-08-15,week,framer,Framer,,[],10,814596805830,5742500
+2026-08-15,week,4137556,Zazen (Freebuff fork),,[],11,648510273094,8034528
+2026-08-15,week,3682314,Oh-My-Pi,,"[""cli-agent""]",12,518825404969,3779416
+2026-08-15,week,4580043,HighLevel,,[],13,517282497261,8758356
+2026-08-15,week,nous-research-api,Nous Research API,,"[""general-chat""]",15,487427121300,10985262
+2026-08-15,week,descript,Descript,,"[""video-gen""]",17,320163150449,4472652
+2026-08-15,week,lemonade,Lemonade,,"[""programming-app""]",18,286106042394,7881189
+2026-08-15,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,281278206365,7886885
+2026-08-15,week,codex,Codex,codex-cli,"[""cli-agent""]",20,258447954070,3824638
+2026-08-15,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",21,257109203146,1199543
+2026-08-15,week,janitor-ai,Janitor AI,,"[""roleplay""]",22,245390713346,16431473
+2026-08-15,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",23,179270561023,3267319
+2026-08-15,week,stan,Sahasra,,[],24,173940076809,3011313
+2026-08-15,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",25,148181133218,1138398
+2026-08-16,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,10364778528094,104842196
+2026-08-16,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2817445195934,28190787
+2026-08-16,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1855676364015,21881839
+2026-08-16,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1405208265766,12808948
+2026-08-16,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1143187885798,18758336
+2026-08-16,week,pi,pi,,"[""cli-agent""]",9,944128746329,13742568
+2026-08-16,week,framer,Framer,,[],10,819864531214,5770153
+2026-08-16,week,4137556,Zazen (Freebuff fork),,[],11,614941158345,7319820
+2026-08-16,week,3682314,omp,,"[""cli-agent""]",12,534513283917,3793624
+2026-08-16,week,4580043,HighLevel,,[],13,526772466898,8811475
+2026-08-16,week,nous-research-api,Nous Research API,,"[""general-chat""]",16,446419404304,10715593
+2026-08-16,week,descript,Descript,,"[""video-gen""]",17,310585536641,4424573
+2026-08-16,week,lemonade,Lemonade,,"[""programming-app""]",18,307758859498,8484366
+2026-08-16,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,279810787590,7605929
+2026-08-16,week,codex,Codex,codex-cli,"[""cli-agent""]",20,253489922142,3858481
+2026-08-16,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",21,247199850354,1151265
+2026-08-16,week,janitor-ai,Janitor AI,,"[""roleplay""]",22,247030608783,16369365
+2026-08-16,week,stan,Sahasra,,[],23,180515573811,3107376
+2026-08-16,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",24,178876389059,3281702
+2026-08-16,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",25,145676013085,1104999
+2026-08-17,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,10329161811040,104824402
+2026-08-17,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2923830516605,29852452
+2026-08-17,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,1904526804948,22609130
+2026-08-17,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1402668902196,12791902
+2026-08-17,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1144474039621,18724818
+2026-08-17,week,pi,pi,,"[""cli-agent""]",9,973498507197,13988366
+2026-08-17,week,framer,Framer,,[],10,823223120400,5784402
+2026-08-17,week,4137556,Zazen (Freebuff fork),,[],11,558879458756,6501133
+2026-08-17,week,3682314,omp,,"[""cli-agent""]",12,546075335475,3825180
+2026-08-17,week,4580043,schema-markup-generation,,[],13,513359452750,8666993
+2026-08-17,week,nous-research-api,Nous Research API,,"[""general-chat""]",16,381406844208,10050982
+2026-08-17,week,lemonade,Lemonade,,"[""programming-app""]",17,325764655801,8993799
+2026-08-17,week,descript,Descript,,"[""video-gen""]",18,301948011513,4417474
+2026-08-17,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,272598877557,7366889
+2026-08-17,week,codex,Codex,codex-cli,"[""cli-agent""]",20,262611814817,4065082
+2026-08-17,week,janitor-ai,Janitor AI,,"[""roleplay""]",21,245182339434,16079151
+2026-08-17,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",22,234928845549,1098730
+2026-08-17,week,stan,Sahasra,,[],23,183302117173,3153677
+2026-08-17,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",24,175813339365,3410291
+2026-08-17,week,openhands,OpenHands,,"[""cli-agent""]",25,148131809054,2182218
+2026-08-18,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,10544269408415,107007625
+2026-08-18,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,3140397844474,31567995
+2026-08-18,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,2001627523462,24015478
+2026-08-18,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1407767224285,12736822
+2026-08-18,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1189889553506,19056158
+2026-08-18,week,pi,pi,,"[""cli-agent""]",9,1008969593998,14685101
+2026-08-18,week,framer,Framer,,[],10,836869320123,5842192
+2026-08-18,week,3682314,omp,,"[""cli-agent""]",12,544699290425,3779141
+2026-08-18,week,4137556,Zazen (Freebuff fork),,[],14,510517097301,5705812
+2026-08-18,week,4580043,schema-markup-generation,,[],15,445322600691,7480108
+2026-08-18,week,lemonade,Lemonade,,"[""programming-app""]",16,344161915761,9502047
+2026-08-18,week,nous-research-api,Nous Research API,,"[""general-chat""]",17,344016890728,9070230
+2026-08-18,week,codex,Codex,codex-cli,"[""cli-agent""]",18,313233324192,5018742
+2026-08-18,week,descript,Descript,,"[""video-gen""]",19,289471580779,4430792
+2026-08-18,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,266103881599,7232936
+2026-08-18,week,janitor-ai,Janitor AI,,"[""roleplay""]",21,245749074052,16004010
+2026-08-18,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",22,235272959518,1091659
+2026-08-18,week,stan,Sahasra,,[],23,193538327630,3315354
+2026-08-18,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",24,175305918624,3409203
+2026-08-18,week,3760213,OceanAPI,,[],25,160064718080,1247324
+2026-08-19,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,10678005839644,108361497
+2026-08-19,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,3017801859554,30853899
+2026-08-19,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,2106672865121,25372391
+2026-08-19,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1407578763067,12608098
+2026-08-19,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",8,1191598363181,18883128
+2026-08-19,week,pi,pi,,"[""cli-agent""]",9,1050335754684,15500529
+2026-08-19,week,4137556,Zazen (Freebuff fork),,[],10,842447170002,7875198
+2026-08-19,week,framer,Framer,,[],11,808923561489,5671868
+2026-08-19,week,3682314,Oh-My-Pi,,"[""cli-agent""]",12,557332037029,3867284
+2026-08-19,week,codex,Codex,codex-cli,"[""cli-agent""]",15,407177212424,6652902
+2026-08-19,week,4580043,schema-markup-generation,,[],16,366605184536,6085582
+2026-08-19,week,lemonade,Lemonade,,"[""programming-app""]",17,352081218401,9659922
+2026-08-19,week,nous-research-api,Nous Research API,,"[""general-chat""]",18,314251067465,8419682
+2026-08-19,week,descript,Descript,,"[""video-gen""]",19,278827250439,4447262
+2026-08-19,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,261707110987,7136112
+2026-08-19,week,janitor-ai,Janitor AI,,"[""roleplay""]",21,245287929533,15984760
+2026-08-19,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",22,238308915987,1065648
+2026-08-19,week,stan,Sahasra,,[],23,200949932125,3425794
+2026-08-19,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",24,174020682424,3386520
+2026-08-19,week,3760213,OceanAPI,,[],25,171712473277,1326716
+2026-08-20,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,10684837242909,108528525
+2026-08-20,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2963507291434,30348329
+2026-08-20,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,2165746651854,25889684
+2026-08-20,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,1403206488437,12552287
+2026-08-20,week,4137556,Zazen (Freebuff fork),,[],8,1214021572459,9927748
+2026-08-20,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",9,1194576569615,18749858
+2026-08-20,week,pi,pi,,"[""cli-agent""]",10,1081260536623,16007364
+2026-08-20,week,framer,Framer,,[],11,757012147680,5382213
+2026-08-20,week,3682314,omp,,"[""cli-agent""]",12,570843352068,3941126
+2026-08-20,week,codex,Codex,codex-cli,"[""cli-agent""]",15,457381327141,7287293
+2026-08-20,week,lemonade,Lemonade,,"[""programming-app""]",16,349905685678,9554047
+2026-08-20,week,4580043,schema-markup-generation,,[],17,294140729292,4766662
+2026-08-20,week,nous-research-api,Nous Research API,,"[""general-chat""]",18,283483098134,7817810
+2026-08-20,week,descript,Descript,,"[""video-gen""]",19,276317468060,4503147
+2026-08-20,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,260999674750,7118601
+2026-08-20,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",21,249153710574,1100758
+2026-08-20,week,janitor-ai,Janitor AI,,"[""roleplay""]",22,244047173099,15914212
+2026-08-20,week,stan,Sahasra,,[],23,205333470381,3481609
+2026-08-20,week,2640550,Peezy Gateway,,"[""programming-app"",""personal-agent"",""general-chat"",""cli-agent""]",24,173818114409,3376522
+2026-08-20,week,3760213,OceanAPI,,[],25,173540436571,1336153
+2026-08-21,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,10850493605570,110754243
+2026-08-21,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2855721583532,28764570
+2026-08-21,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,2215246474352,26636209
+2026-08-21,week,4137556,Zazen (Freebuff fork),,[],7,1732265826897,13916643
+2026-08-21,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",8,1436338627976,12896907
+2026-08-21,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",9,1193869447558,18684159
+2026-08-21,week,pi,pi,,"[""cli-agent""]",10,1131442946291,16093611
+2026-08-21,week,framer,Framer,,[],11,702885865561,5089159
+2026-08-21,week,3682314,Oh-My-Pi,,"[""cli-agent""]",12,612340403483,4283216
+2026-08-21,week,codex,Codex,codex-cli,"[""cli-agent""]",14,507959086184,7835964
+2026-08-21,week,lemonade,Lemonade,,"[""programming-app""]",16,350506077907,9503863
+2026-08-21,week,descript,Descript,,"[""video-gen""]",17,271953804889,4568773
+2026-08-21,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",18,270616788086,1210760
+2026-08-21,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,263663590696,7196852
+2026-08-21,week,nous-research-api,Nous Research API,,"[""general-chat""]",20,262022270709,7445856
+2026-08-21,week,janitor-ai,Janitor AI,,"[""roleplay""]",21,247771280940,16116971
+2026-08-21,week,4580044,HighLevel,,[],22,232969717996,4682193
+2026-08-21,week,stan,Sahasra,,[],23,217386136739,3669698
+2026-08-21,week,4706207,DeepSeek Harness (multimodal-bridge),,[],24,211715411565,1681375
+2026-08-21,week,4580043,schema-markup-generation,,[],25,209009091525,3364544
+2026-08-22,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,11183984322950,114141234
+2026-08-22,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2694745273199,26861731
+2026-08-22,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,2242264553030,26980207
+2026-08-22,week,4137556,Zazen (Freebuff fork),,[],7,2174436475721,17284861
+2026-08-22,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",8,1542039493097,14001743
+2026-08-22,week,pi,pi,,"[""cli-agent""]",9,1232490080149,16389002
+2026-08-22,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",10,1169780928285,18349137
+2026-08-22,week,3682314,omp,,"[""cli-agent""]",11,855628693901,5997242
+2026-08-22,week,framer,Framer,,[],12,636172827375,4652197
+2026-08-22,week,codex,Codex,codex-cli,"[""cli-agent""]",14,563271056070,9228784
+2026-08-22,week,4706207,DeepSeek Harness (multimodal-bridge),,[],16,465080173425,3586160
+2026-08-22,week,lemonade,Lemonade,,"[""programming-app""]",17,348219286236,9343560
+2026-08-22,week,4580044,HighLevel,,[],18,287582211474,5725679
+2026-08-22,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",19,281797178744,1298067
+2026-08-22,week,descript,Descript,,"[""video-gen""]",20,261576546274,4511752
+2026-08-22,week,isekai-zero,ISEKAI ZERO,,"[""game""]",21,260485029238,7147952
+2026-08-22,week,nous-research-api,Nous Research API,,"[""general-chat""]",22,259528400319,7233393
+2026-08-22,week,janitor-ai,Janitor AI,,"[""roleplay""]",23,247918995562,16054537
+2026-08-22,week,stan,Sahasra,,[],25,221264382967,3728058
+2026-08-22,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",26,196338190641,1450246
+2026-08-23,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,12027565304652,121919468
+2026-08-23,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,2973932811477,29447817
+2026-08-23,week,4137556,Zazen (Freebuff fork),,[],6,2555064718572,20219614
+2026-08-23,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",7,2332460175881,27845604
+2026-08-23,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",8,1660984076391,15125489
+2026-08-23,week,pi,pi,,"[""cli-agent""]",9,1351056138890,17356865
+2026-08-23,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",10,1158159027415,18311460
+2026-08-23,week,3682314,omp,,"[""cli-agent""]",11,1121395472517,7992807
+2026-08-23,week,4706207,DeepSeek Harness (multimodal-bridge),,[],12,901725873667,6805559
+2026-08-23,week,codex,Codex,codex-cli,"[""cli-agent""]",13,655422887622,11025355
+2026-08-23,week,framer,Framer,,[],15,588525910097,4389641
+2026-08-23,week,4580044,HighLevel,,[],17,337418603762,6617291
+2026-08-23,week,2823243,ZCode,,"[""programming-app""]",18,322293593271,2039588
+2026-08-23,week,lemonade,Lemonade,,"[""programming-app""]",19,322205914509,8597168
+2026-08-23,week,nous-research-api,Nous Research API,,"[""general-chat""]",20,308628318654,7582317
+2026-08-23,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",22,284311914276,1368307
+2026-08-23,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",23,262898146182,1980085
+2026-08-23,week,descript,Descript,,"[""video-gen""]",24,256532079957,4508456
+2026-08-23,week,isekai-zero,ISEKAI ZERO,,"[""game""]",25,255775967456,7116183
+2026-08-23,week,janitor-ai,Janitor AI,,"[""roleplay""]",26,249822445312,16071897
+2026-08-26,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,15245028514778,149983757
+2026-08-26,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,4675888368325,44946231
+2026-08-26,week,4137556,Zazen (Freebuff fork),,[],6,3637876707328,28508485
+2026-08-26,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",7,2895665882712,33151118
+2026-08-26,week,4706207,DeepSeek Harness,,[],8,2539873177597,18964293
+2026-08-26,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",9,2125475076462,18964055
+2026-08-26,week,3682314,omp,,"[""cli-agent""]",10,2079882754821,15299887
+2026-08-26,week,pi,pi,,"[""cli-agent""]",11,1846739175150,22096907
+2026-08-26,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",12,1130023604930,18482678
+2026-08-26,week,codex,Codex,codex-cli,"[""cli-agent""]",13,1002246248860,16324738
+2026-08-26,week,2823243,ZCode,,"[""programming-app""]",15,889287724660,5137379
+2026-08-26,week,nous-research-api,Nous Research API,,"[""general-chat""]",17,631262541283,11420661
+2026-08-26,week,framer,Framer,,[],19,445450660477,3691722
+2026-08-26,week,4580044,HighLevel,,[],20,416357721819,8100225
+2026-08-26,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",21,386642360899,2987967
+2026-08-26,week,3909382,Command Code,,"[""programming-app"",""cli-agent"",""ide-extension"",""native-app-builder"",""personal-agent""]",22,379151154544,3740217
+2026-08-26,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",23,326379421508,1637483
+2026-08-26,week,isekai-zero,ISEKAI ZERO,,"[""game""]",24,322752511987,10201090
+2026-08-26,week,4482429,Cheaper Inference,,[],25,264647494498,2008656
+2026-08-26,week,janitor-ai,Janitor AI,,"[""roleplay""]",26,254842860785,16156341
+2026-08-27,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,15910557477001,156840096
+2026-08-27,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,5292729658536,51158813
+2026-08-27,week,4137556,Zazen (Freebuff fork),,[],6,3890584968245,30379534
+2026-08-27,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",7,3064160170572,36391494
+2026-08-27,week,4706207,DeepSeek Harness,,[],8,2746093223516,20712389
+2026-08-27,week,3682314,omp,,"[""cli-agent""]",9,2246523427128,16348008
+2026-08-27,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",10,2233297940140,20213446
+2026-08-27,week,pi,pi,,"[""cli-agent""]",11,1999948208326,23700983
+2026-08-27,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",12,1154775241109,19123333
+2026-08-27,week,codex,Codex,codex-cli,"[""cli-agent""]",13,1073712151190,16588288
+2026-08-27,week,2823243,ZCode,,"[""programming-app""]",14,967933284918,5544212
+2026-08-27,week,nous-research-api,Nous Research API,,"[""general-chat""]",17,666055222516,11974536
+2026-08-27,week,framer,Framer,,[],19,447964978428,3831088
+2026-08-27,week,4580044,HighLevel,,[],20,420793735429,8285690
+2026-08-27,week,3909382,Command Code,,"[""programming-app"",""cli-agent"",""ide-extension"",""native-app-builder"",""personal-agent""]",21,407944777706,3995625
+2026-08-27,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",22,401080560996,3111242
+2026-08-27,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",23,353069390388,1755634
+2026-08-27,week,isekai-zero,ISEKAI ZERO,,"[""game""]",24,348303777302,11533877
+2026-08-27,week,4482429,Cheaper Inference,,[],25,278330445317,2110812
+2026-08-27,week,openhands,OpenHands,,"[""cli-agent""]",26,269077233301,3394392
+2026-08-29,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,15509180501844,152073071
+2026-08-29,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,5265013120997,51190409
+2026-08-29,week,4137556,Zazen (Freebuff fork),,[],6,3631933848774,28378172
+2026-08-29,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",7,2925572833493,37057147
+2026-08-29,week,4706207,DeepSeek Harness,,[],8,2719836990151,20488073
+2026-08-29,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",9,2291321027203,20942475
+2026-08-29,week,3682314,omp,,"[""cli-agent""]",10,2209525398179,15764735
+2026-08-29,week,pi,pi,,"[""cli-agent""]",11,2124927365302,24053055
+2026-08-29,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",12,1105562853531,18411552
+2026-08-29,week,codex,Codex,codex-cli,"[""cli-agent""]",13,1101614477442,16300277
+2026-08-29,week,2823243,ZCode,,"[""programming-app""]",14,928744317229,5184485
+2026-08-29,week,nous-research-api,Nous Research API,,"[""general-chat""]",17,664753811967,11844384
+2026-08-29,week,framer,Framer,,[],19,401315530421,3421890
+2026-08-29,week,4580044,HighLevel,,[],20,392804297714,7800094
+2026-08-29,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",21,378522589834,2884361
+2026-08-29,week,isekai-zero,ISEKAI ZERO,,"[""game""]",22,367548477412,12861572
+2026-08-29,week,3909382,Command Code,,"[""programming-app"",""cli-agent"",""ide-extension"",""native-app-builder"",""personal-agent""]",23,353371679197,3453492
+2026-08-29,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",24,348763518424,1668015
+2026-08-29,week,portkey-ai,Portkey AI,,"[""programming-app""]",25,299843577362,6410058
+2026-08-29,week,4482429,Cheaper Inference,,[],26,279574673806,2171734
+2026-08-30,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,15073532834483,148321366
+2026-08-30,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,5093140337091,49687030
+2026-08-30,week,4137556,Zazen (Freebuff fork),,[],6,3614997191666,28251855
+2026-08-30,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",7,2878988691033,37327314
+2026-08-30,week,4706207,DeepSeek Harness,,[],8,2473099382178,18625213
+2026-08-30,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",9,2331983342422,21941591
+2026-08-30,week,pi,pi,,"[""cli-agent""]",10,2048874345798,22800442
+2026-08-30,week,3682314,omp,,"[""cli-agent""]",11,2007911058820,14320670
+2026-08-30,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",12,1112010060739,18492810
+2026-08-30,week,codex,Codex,codex-cli,"[""cli-agent""]",13,1046544823659,14973057
+2026-08-30,week,2823243,ZCode,,"[""programming-app""]",16,823081254970,4531455
+2026-08-30,week,nous-research-api,Nous Research API,,"[""general-chat""]",17,632868284163,11538609
+2026-08-30,week,4580044,HighLevel,,[],18,396060977880,7846633
+2026-08-30,week,framer,Framer,,[],19,395658564571,3387226
+2026-08-30,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,387937418951,13860809
+2026-08-30,week,portkey-ai,Portkey AI,,"[""programming-app""]",22,370392920576,7666855
+2026-08-30,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",23,361772104039,1671206
+2026-08-30,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",24,329197340575,2461075
+2026-08-30,week,openhands,OpenHands,,"[""cli-agent""]",25,272046910019,3538829
+2026-08-30,week,3909382,Command Code,,"[""programming-app"",""cli-agent"",""ide-extension"",""native-app-builder"",""personal-agent""]",26,263045686738,2463138
+2026-08-31,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",1,14377326932989,142725983
+2026-08-31,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,4760064053223,46366602
+2026-08-31,week,4137556,Zazen (Freebuff fork),,[],6,3640282859533,28460594
+2026-08-31,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",7,2759232393091,36801377
+2026-08-31,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",8,2384255122234,23189259
+2026-08-31,week,4706207,DeepSeek Harness,,[],9,2075914104225,15816417
+2026-08-31,week,pi,pi,,"[""cli-agent""]",10,1976233537740,21780220
+2026-08-31,week,3682314,omp,,"[""cli-agent""]",11,1808695554390,12552753
+2026-08-31,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",12,1099725526968,18345728
+2026-08-31,week,codex,Codex,codex-cli,"[""cli-agent""]",13,980818436242,13659951
+2026-08-31,week,2823243,ZCode,,"[""programming-app""]",16,724970153787,3956347
+2026-08-31,week,nous-research-api,Nous Research API,,"[""general-chat""]",17,552332589972,10458387
+2026-08-31,week,portkey-ai,Portkey AI,,"[""programming-app""]",18,443645177595,8972110
+2026-08-31,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,401490709610,14426828
+2026-08-31,week,4580044,HighLevel,,[],21,394666303620,7912461
+2026-08-31,week,framer,Framer,,[],22,389469152590,3342557
+2026-08-31,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",23,369648506574,1650463
+2026-08-31,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",24,290223365441,2167800
+2026-08-31,week,openhands,OpenHands,,"[""cli-agent""]",25,269387161192,3607193
+2026-08-31,week,janitor-ai,Janitor AI,,"[""roleplay""]",26,253348009193,15911717
+2026-09-01,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,13396536715768,135297072
+2026-09-01,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,4515786575104,43967488
+2026-09-01,week,4137556,Zazen (Freebuff fork),,[],6,3657848341393,28675341
+2026-09-01,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",7,2619114017046,35795002
+2026-09-01,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",8,2437382348334,24537451
+2026-09-01,week,pi,pi,,"[""cli-agent""]",9,1895809348319,20798742
+2026-09-01,week,4706207,DeepSeek Harness,,[],10,1586108971345,12118371
+2026-09-01,week,3682314,omp,,"[""cli-agent""]",11,1572453251279,10526343
+2026-09-01,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",12,1089540900139,18277247
+2026-09-01,week,codex,Codex,codex-cli,"[""cli-agent""]",13,930095472485,12465669
+2026-09-01,week,2823243,ZCode,,"[""programming-app""]",16,581329363028,3106785
+2026-09-01,week,portkey-ai,Portkey AI,,"[""programming-app""]",17,492209032002,10039524
+2026-09-01,week,nous-research-api,Nous Research API,,"[""general-chat""]",18,443160073872,9210255
+2026-09-01,week,4580044,HighLevel,,[],20,395764004014,7956618
+2026-09-01,week,isekai-zero,ISEKAI ZERO,,"[""game""]",21,395310409248,14248628
+2026-09-01,week,framer,Framer,,[],22,379284159984,3255810
+2026-09-01,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",23,360401753456,1596847
+2026-09-01,week,descript,Descript,,"[""video-gen""]",24,260009672701,4559841
+2026-09-01,week,janitor-ai,Janitor AI,,"[""roleplay""]",25,253348045285,15913106
+2026-09-01,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",26,239857695715,1763801
+2026-09-02,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,12500680266854,128739448
+2026-09-02,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,4171295790116,40791909
+2026-09-02,week,4137556,Zazen (Freebuff fork),,[],6,3646403470043,28635551
+2026-09-02,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",7,2499104605787,34823174
+2026-09-02,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",8,2465558857266,25533604
+2026-09-02,week,pi,pi,,"[""cli-agent""]",9,1792494034371,19701584
+2026-09-02,week,3682314,omp,,"[""cli-agent""]",10,1323381916070,8791391
+2026-09-02,week,4706207,DeepSeek Harness,,[],11,1185061561322,9417298
+2026-09-02,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",12,1076916586931,18126059
+2026-09-02,week,codex,Codex,codex-cli,"[""cli-agent""]",13,893461696148,11499176
+2026-09-02,week,portkey-ai,Portkey AI,,"[""programming-app""]",16,565064699971,11612138
+2026-09-02,week,2823243,ZCode,,"[""programming-app""]",17,421390527822,2284978
+2026-09-02,week,4580044,HighLevel,,[],19,387359740764,7623611
+2026-09-02,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,386798151247,13533701
+2026-09-02,week,framer,Framer,,[],21,369503599382,3135939
+2026-09-02,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",22,350539541825,1570791
+2026-09-02,week,nous-research-api,Nous Research API,,"[""general-chat""]",23,331665543581,7653889
+2026-09-02,week,descript,Descript,,"[""video-gen""]",24,264283352710,4539981
+2026-09-02,week,janitor-ai,Janitor AI,,"[""roleplay""]",25,251815721993,15829408
+2026-09-02,week,openhands,OpenHands,,"[""cli-agent""]",26,232958791164,3143284
+2026-09-03,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11908343213552,124920193
+2026-09-03,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,3865213496270,37666890
+2026-09-03,week,4137556,Zazen (Freebuff fork),,[],6,3531445307820,27681469
+2026-09-03,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,2547022266022,27061354
+2026-09-03,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",8,2486981237674,34715845
+2026-09-03,week,pi,pi,,"[""cli-agent""]",9,1758125195585,19272015
+2026-09-03,week,3682314,omp,,"[""cli-agent""]",10,1193447844134,7905056
+2026-09-03,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1082708249589,18078386
+2026-09-03,week,codex,Codex,codex-cli,"[""cli-agent""]",12,964571051194,11801231
+2026-09-03,week,4706207,DeepSeek Harness,,[],13,904642996877,7617782
+2026-09-03,week,portkey-ai,Portkey AI,,"[""programming-app""]",15,616212085571,12782997
+2026-09-03,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,385780157015,12912018
+2026-09-03,week,4580044,HighLevel,,[],19,384077676291,7353597
+2026-09-03,week,framer,Framer,,[],20,367902226099,3071632
+2026-09-03,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",21,338933266163,1542606
+2026-09-03,week,2823243,ZCode,,"[""programming-app""]",22,286458182282,1628663
+2026-09-03,week,descript,Descript,,"[""video-gen""]",23,265156868957,4540110
+2026-09-03,week,janitor-ai,Janitor AI,,"[""roleplay""]",24,251172724701,15784154
+2026-09-03,week,nous-research-api,Nous Research API,,"[""general-chat""]",25,249376184390,7344521
+2026-09-03,week,openhands,OpenHands,,"[""cli-agent""]",26,239041650131,3318448
+2026-09-04,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11726225010235,123493255
+2026-09-04,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,4090505804474,39656892
+2026-09-04,week,4137556,Zazen (Freebuff fork),,[],6,3198845144862,25231250
+2026-09-04,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,2642242835121,28017633
+2026-09-04,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",8,2562816979319,33497740
+2026-09-04,week,pi,pi,,"[""cli-agent""]",9,1646498172312,17806864
+2026-09-04,week,3682314,omp,,"[""cli-agent""]",10,1214999084711,8030313
+2026-09-04,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1093534058370,18033533
+2026-09-04,week,codex,Codex,codex-cli,"[""cli-agent""]",12,963689051448,11846927
+2026-09-04,week,4706207,DeepSeek Harness,,[],13,878916283642,7291136
+2026-09-04,week,portkey-ai,Portkey AI,,"[""programming-app""]",15,650855736272,13563591
+2026-09-04,week,4580044,HighLevel,,[],18,385854825148,7254542
+2026-09-04,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,376463903903,12039357
+2026-09-04,week,framer,Framer,,[],20,359095492651,2954020
+2026-09-04,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",21,326670067121,1516305
+2026-09-04,week,2823243,ZCode,,"[""programming-app""]",22,293071662595,1668874
+2026-09-04,week,descript,Descript,,"[""video-gen""]",23,261409729967,4484822
+2026-09-04,week,janitor-ai,Janitor AI,,"[""roleplay""]",25,249980323978,15685585
+2026-09-04,week,openhands,OpenHands,,"[""cli-agent""]",26,239123152392,3462555
+2026-09-04,week,nous-research-api,Nous Research API,,"[""general-chat""]",27,231100993076,7073745
+2026-09-05,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11705284919032,123637618
+2026-09-05,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",5,4397659310835,42498781
+2026-09-05,week,4137556,Zazen (Freebuff fork),,[],6,2845047590009,22926086
+2026-09-05,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",7,2696880481967,33750204
+2026-09-05,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",8,2667641071432,28195562
+2026-09-05,week,pi,pi,,"[""cli-agent""]",9,1661332701500,17826781
+2026-09-05,week,3682314,omp,,"[""cli-agent""]",10,1250463630718,8270090
+2026-09-05,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1133623812458,18365104
+2026-09-05,week,codex,Codex,codex-cli,"[""cli-agent""]",12,979776260566,12380564
+2026-09-05,week,4706207,DeepSeek Harness,,[],13,884013076605,7315205
+2026-09-05,week,portkey-ai,Portkey AI,,"[""programming-app""]",16,552284053009,12344353
+2026-09-05,week,4580044,HighLevel,,[],18,373316351446,7009909
+2026-09-05,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,365475753381,11136212
+2026-09-05,week,framer,Framer,,[],20,357068781980,2912394
+2026-09-05,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",21,323955552729,1546069
+2026-09-05,week,2823243,ZCode,,"[""programming-app""]",22,298178705677,1703151
+2026-09-05,week,openhands,OpenHands,,"[""cli-agent""]",23,266878187180,3950997
+2026-09-05,week,descript,Descript,,"[""video-gen""]",24,263606246763,4492374
+2026-09-05,week,janitor-ai,Janitor AI,,"[""roleplay""]",25,253378150966,15867966
+2026-09-05,week,lemonade,Lemonade,,"[""programming-app""]",26,250503524238,6401747
+2026-09-06,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11614955584649,122957211
+2026-09-06,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,4531016801957,43568206
+2026-09-06,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,2752960276929,33722455
+2026-09-06,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,2688218573030,28108636
+2026-09-06,week,4137556,Zazen (Freebuff fork),,[],8,2549494394768,20826148
+2026-09-06,week,pi,pi,,"[""cli-agent""]",9,1620784927623,17436083
+2026-09-06,week,3682314,omp,,"[""cli-agent""]",10,1254789973197,8128401
+2026-09-06,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1160593363831,18459694
+2026-09-06,week,codex,Codex,codex-cli,"[""cli-agent""]",12,1070340928120,13517765
+2026-09-06,week,4706207,DeepSeek Harness,,[],13,846287725819,7085982
+2026-09-06,week,portkey-ai,Portkey AI,,"[""programming-app""]",16,456836493788,11038639
+2026-09-06,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,357678832660,10339480
+2026-09-06,week,framer,Framer,,[],19,356127997757,2898886
+2026-09-06,week,4580044,HighLevel,,[],20,349348241517,6618118
+2026-09-06,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",21,316552401432,1542328
+2026-09-06,week,2823243,ZCode,,"[""programming-app""]",22,293965046429,1694873
+2026-09-06,week,lemonade,Lemonade,,"[""programming-app""]",23,288883259755,7370292
+2026-09-06,week,openhands,OpenHands,,"[""cli-agent""]",24,266966568704,3983131
+2026-09-06,week,descript,Descript,,"[""video-gen""]",25,263664962630,4507421
+2026-09-06,week,janitor-ai,Janitor AI,,"[""roleplay""]",26,256236916874,15995557
+2026-09-07,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11303325321664,120049042
+2026-09-07,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,4587751504384,44295396
+2026-09-07,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,2736039577105,33584893
+2026-09-07,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,2682749552612,27799967
+2026-09-07,week,4137556,Zazen (Freebuff fork),,[],8,2283574341691,19193791
+2026-09-07,week,pi,pi,,"[""cli-agent""]",9,1608301323921,17386685
+2026-09-07,week,3682314,omp,,"[""cli-agent""]",10,1263919198653,8088442
+2026-09-07,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1178240494906,18376773
+2026-09-07,week,codex,Codex,codex-cli,"[""cli-agent""]",12,1135042270702,14384558
+2026-09-07,week,4706207,DeepSeek Harness,,[],13,803575931572,6784344
+2026-09-07,week,portkey-ai,Portkey AI,,"[""programming-app""]",16,445075339717,10774211
+2026-09-07,week,framer,Framer,,[],17,357277536815,2905734
+2026-09-07,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,348994738517,9380906
+2026-09-07,week,4580044,HighLevel,,[],20,330299043446,6280423
+2026-09-07,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",21,307875272603,1540672
+2026-09-07,week,lemonade,Lemonade,,"[""programming-app""]",22,288415922163,7342979
+2026-09-07,week,2823243,ZCode,,"[""programming-app""]",23,283287212714,1654072
+2026-09-07,week,openhands,OpenHands,,"[""cli-agent""]",24,268753087138,4019576
+2026-09-07,week,descript,Descript,,"[""video-gen""]",25,265434596439,4552881
+2026-09-07,week,janitor-ai,Janitor AI,,"[""roleplay""]",26,256035670172,15934058
+2026-09-08,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11375488829442,120536822
+2026-09-08,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,4657756727707,45912876
+2026-09-08,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,2903104263396,35780442
+2026-09-08,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,2731171695270,27764596
+2026-09-08,week,4137556,Zazen (Freebuff fork),,[],8,2062448840163,17962222
+2026-09-08,week,pi,pi,,"[""cli-agent""]",9,1646840416518,17740917
+2026-09-08,week,3682314,omp,,"[""cli-agent""]",10,1314844732505,8321071
+2026-09-08,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1217033795816,18596229
+2026-09-08,week,codex,Codex,codex-cli,"[""cli-agent""]",12,1191466405245,15325860
+2026-09-08,week,4706207,DeepSeek Harness,,[],13,808142266872,6848427
+2026-09-08,week,portkey-ai,Portkey AI,,"[""programming-app""]",16,431870248826,10267475
+2026-09-08,week,framer,Framer,,[],17,361744656786,2969126
+2026-09-08,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,345418286926,8578296
+2026-09-08,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",20,316777340657,1587248
+2026-09-08,week,4580044,HighLevel,,[],21,314013490317,5989580
+2026-09-08,week,2823243,ZCode,,"[""programming-app""]",22,291475490359,1692698
+2026-09-08,week,lemonade,Lemonade,,"[""programming-app""]",23,286388346126,7271255
+2026-09-08,week,descript,Descript,,"[""video-gen""]",24,267771448931,4557190
+2026-09-08,week,openhands,OpenHands,,"[""cli-agent""]",25,267175362747,3948475
+2026-09-08,week,janitor-ai,Janitor AI,,"[""roleplay""]",26,259818683736,16124936
+2026-09-09,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11132581173040,117561328
+2026-09-09,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,5002471777078,46819384
+2026-09-09,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,2825080300036,34955387
+2026-09-09,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,2704838362895,27285201
+2026-09-09,week,4137556,Zazen (Freebuff fork),,[],8,1679749026742,15164949
+2026-09-09,week,pi,pi,,"[""cli-agent""]",9,1620854707971,17496167
+2026-09-09,week,3682314,omp,,"[""cli-agent""]",10,1330738817308,8332328
+2026-09-09,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1217687282438,18230946
+2026-09-09,week,codex,Codex,codex-cli,"[""cli-agent""]",12,1173661068047,15356230
+2026-09-09,week,4706207,DeepSeek Harness,,[],13,795774677272,6759894
+2026-09-09,week,portkey-ai,Portkey AI,,"[""programming-app""]",16,370404989592,9004056
+2026-09-09,week,framer,Framer,,[],17,353147446698,2908301
+2026-09-09,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,330780615235,7883070
+2026-09-09,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",19,312755623039,1574211
+2026-09-09,week,4580044,HighLevel,,[],20,306398964270,5860477
+2026-09-09,week,lemonade,Lemonade,,"[""programming-app""]",22,280101941170,7085837
+2026-09-09,week,2823243,ZCode,,"[""programming-app""]",23,276008375901,1605875
+2026-09-09,week,descript,Descript,,"[""video-gen""]",24,270412860908,4578597
+2026-09-09,week,openhands,OpenHands,,"[""cli-agent""]",25,261060982533,3813709
+2026-09-09,week,janitor-ai,Janitor AI,,"[""roleplay""]",26,254771563752,15795546
+2026-09-10,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11229301482040,117985794
+2026-09-10,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,5155624627816,47390244
+2026-09-10,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,2807291499029,35442949
+2026-09-10,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,2783061803613,27753836
+2026-09-10,week,pi,pi,,"[""cli-agent""]",8,1655556084887,17787330
+2026-09-10,week,4137556,Freebuff,,[],9,1401757311219,13381501
+2026-09-10,week,3682314,Oh-My-Pi,,"[""cli-agent""]",10,1364974705622,8491772
+2026-09-10,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1241747640800,18350945
+2026-09-10,week,codex,Codex,codex-cli,"[""cli-agent""]",12,1192384753298,15726590
+2026-09-10,week,4706207,DeepSeek Harness,,[],13,793493518775,6623199
+2026-09-10,week,framer,Framer,,[],16,352803165647,2979020
+2026-09-10,week,isekai-zero,ISEKAI ZERO,,"[""game""]",17,328608063662,7855615
+2026-09-10,week,portkey-ai,Portkey AI,,"[""programming-app""]",18,323347627494,8212836
+2026-09-10,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",19,318829463860,1604750
+2026-09-10,week,4580044,HighLevel,,[],20,314124481813,5988553
+2026-09-10,week,lemonade,Lemonade,,"[""programming-app""]",21,287575530491,7223157
+2026-09-10,week,descript,Descript,,"[""video-gen""]",22,276857444569,4674592
+2026-09-10,week,2823243,ZCode,,"[""programming-app""]",23,268383072283,1563659
+2026-09-10,week,openhands,OpenHands,,"[""cli-agent""]",24,261967537399,3705140
+2026-09-10,week,open-webui,Open WebUI,,"[""general-chat""]",25,255601759831,109318084
+2026-09-11,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11169323707293,116459079
+2026-09-11,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,5031288947181,46548102
+2026-09-11,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",6,2787908840806,27646229
+2026-09-11,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",7,2746102917465,35380684
+2026-09-11,week,pi,pi,,"[""cli-agent""]",8,1663873605546,17853013
+2026-09-11,week,3682314,omp,,"[""cli-agent""]",9,1390391933280,8626753
+2026-09-11,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",10,1238939013140,18107994
+2026-09-11,week,4137556,Freebuff,,[],11,1227524428801,12340173
+2026-09-11,week,codex,Codex,codex-cli,"[""cli-agent""]",12,1112911802091,15387164
+2026-09-11,week,4706207,DeepSeek Harness,,[],13,851689412804,7074407
+2026-09-11,week,open-webui,Open WebUI,,"[""general-chat""]",16,347506268869,162904614
+2026-09-11,week,framer,Framer,,[],17,345704539339,2953870
+2026-09-11,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",18,337946067824,1675388
+2026-09-11,week,portkey-ai,Portkey AI,,"[""programming-app""]",19,333875448407,7985627
+2026-09-11,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,326300263349,7823007
+2026-09-11,week,4580044,HighLevel,,[],21,307452630263,5871430
+2026-09-11,week,lemonade,Lemonade,,"[""programming-app""]",22,286177209494,7154250
+2026-09-11,week,descript,Descript,,"[""video-gen""]",23,276754627182,4702298
+2026-09-11,week,openhands,OpenHands,,"[""cli-agent""]",24,266775621527,3685548
+2026-09-11,week,2823243,ZCode,,"[""programming-app""]",25,251318080207,1433252
+2026-09-12,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11260550053839,116297512
+2026-09-12,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,4963518032014,46930051
+2026-09-12,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",6,2869946896886,28282733
+2026-09-12,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",7,2828152777492,36984105
+2026-09-12,week,pi,pi,,"[""cli-agent""]",8,1732031052729,18200166
+2026-09-12,week,3682314,omp,,"[""cli-agent""]",9,1402517682128,8666829
+2026-09-12,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",10,1241051787559,17899263
+2026-09-12,week,codex,Codex,codex-cli,"[""cli-agent""]",11,1135370753373,15965173
+2026-09-12,week,4137556,Freebuff,,[],12,1094004116737,11327686
+2026-09-12,week,4706207,DeepSeek Harness,,[],13,898722101322,7234247
+2026-09-12,week,open-webui,Open WebUI,,"[""general-chat""]",15,459230431446,230250779
+2026-09-12,week,framer,Framer,,[],17,342414242126,2967258
+2026-09-12,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",18,342360719466,1690422
+2026-09-12,week,portkey-ai,Portkey AI,,"[""programming-app""]",19,341157379715,7474873
+2026-09-12,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,329973551682,7918529
+2026-09-12,week,4580044,HighLevel,,[],21,309074329279,5830464
+2026-09-12,week,lemonade,Lemonade,,"[""programming-app""]",22,287009496606,7164617
+2026-09-12,week,descript,Descript,,"[""video-gen""]",23,276288021529,4706762
+2026-09-12,week,nous-research-api,Nous Research API,,"[""general-chat""]",24,246730231275,13571076
+2026-09-12,week,2823243,ZCode,,"[""programming-app""]",25,240650332133,1346586
+2026-09-13,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11321694666507,116239721
+2026-09-13,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,4996328062984,48144911
+2026-09-13,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,2974845963800,40198729
+2026-09-13,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,2958151110356,29155102
+2026-09-13,week,pi,pi,,"[""cli-agent""]",8,1814349951770,18621322
+2026-09-13,week,3682314,omp,,"[""cli-agent""]",9,1417672851136,8739369
+2026-09-13,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",10,1244454014294,17901072
+2026-09-13,week,codex,Codex,codex-cli,"[""cli-agent""]",11,1124561513351,15909896
+2026-09-13,week,4137556,Freebuff,,[],12,1042738056134,11000734
+2026-09-13,week,4706207,DeepSeek Harness,,[],13,947526366433,7489305
+2026-09-13,week,open-webui,Open WebUI,,"[""general-chat""]",15,461269294567,230269638
+2026-09-13,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",17,346135902485,1726497
+2026-09-13,week,framer,Framer,,[],18,343963842637,2992856
+2026-09-13,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,341525067441,8176563
+2026-09-13,week,portkey-ai,Portkey AI,,"[""programming-app""]",20,328623666821,7158556
+2026-09-13,week,4580044,HighLevel,,[],21,317274314567,5889520
+2026-09-13,week,lemonade,Lemonade,,"[""programming-app""]",22,293970167668,7322288
+2026-09-13,week,descript,Descript,,"[""video-gen""]",23,277807215729,4761241
+2026-09-13,week,nous-research-api,Nous Research API,,"[""general-chat""]",24,261819601406,12807924
+2026-09-13,week,2823243,ZCode,,"[""programming-app""]",25,240507717140,1320397
+2026-09-14,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11427562021331,116736446
+2026-09-14,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,5172021467731,51109655
+2026-09-14,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,3164980465832,42934207
+2026-09-14,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,3018311436184,29629786
+2026-09-14,week,pi,pi,,"[""cli-agent""]",8,1868851652762,18998619
+2026-09-14,week,3682314,omp,,"[""cli-agent""]",9,1427558881278,8777584
+2026-09-14,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",10,1265467019489,18054501
+2026-09-14,week,codex,Codex,codex-cli,"[""cli-agent""]",11,1181362415154,16411196
+2026-09-14,week,4706207,DeepSeek Harness,,[],12,1008231222087,7805835
+2026-09-14,week,4137556,Freebuff,,[],13,910010705387,9979902
+2026-09-14,week,open-webui,Open WebUI,,"[""general-chat""]",15,463487523840,230283843
+2026-09-14,week,isekai-zero,ISEKAI ZERO,,"[""game""]",17,351237996628,8398684
+2026-09-14,week,framer,Framer,,[],18,347890552581,3048429
+2026-09-14,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",19,345411388632,1735218
+2026-09-14,week,4580044,HighLevel,,[],20,327243499230,6016613
+2026-09-14,week,lemonade,Lemonade,,"[""programming-app""]",21,297501332601,7361656
+2026-09-14,week,portkey-ai,Portkey AI,,"[""programming-app""]",22,286533771737,6654801
+2026-09-14,week,descript,Descript,,"[""video-gen""]",23,283583584418,4884634
+2026-09-14,week,nous-research-api,Nous Research API,,"[""general-chat""]",24,272511185864,9258058
+2026-09-14,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",25,243173227475,1786279
+2026-09-15,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11329619558483,115084933
+2026-09-15,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,5301612796417,53118926
+2026-09-15,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,3217020937803,44205184
+2026-09-15,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,3005877252613,29482247
+2026-09-15,week,pi,pi,,"[""cli-agent""]",8,1910585130553,19230622
+2026-09-15,week,3682314,omp,,"[""cli-agent""]",9,1427570468261,8756206
+2026-09-15,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1299482569800,17637149
+2026-09-15,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1268989117012,17978290
+2026-09-15,week,4706207,DeepSeek Harness,,[],12,1082346187058,8357650
+2026-09-15,week,4137556,Freebuff,,[],14,669203322464,7983343
+2026-09-15,week,open-webui,Open WebUI,,"[""general-chat""]",15,466382244638,230297955
+2026-09-15,week,isekai-zero,ISEKAI ZERO,,"[""game""]",16,352723383951,8456394
+2026-09-15,week,framer,Framer,,[],17,350094884572,3066547
+2026-09-15,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",18,348272501197,1822984
+2026-09-15,week,4580044,HighLevel,,[],20,336750431008,6132537
+2026-09-15,week,descript,Descript,,"[""video-gen""]",21,297999666321,5111170
+2026-09-15,week,lemonade,Lemonade,,"[""programming-app""]",22,293386383633,7220314
+2026-09-15,week,openhands,OpenHands,,"[""cli-agent""]",23,282211526989,3595774
+2026-09-15,week,nous-research-api,Nous Research API,,"[""general-chat""]",24,275185968843,9466933
+2026-09-15,week,portkey-ai,Portkey AI,,"[""programming-app""]",25,247531198313,6256932
+2026-09-16,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11510275552172,115732764
+2026-09-16,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,5405535744644,56123941
+2026-09-16,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,3385061493554,46816371
+2026-09-16,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,3037087549902,29810330
+2026-09-16,week,pi,pi,,"[""cli-agent""]",8,2020961812973,19930729
+2026-09-16,week,3682314,omp,,"[""cli-agent""]",9,1464743922545,8880032
+2026-09-16,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1382534634388,18700774
+2026-09-16,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1288073404930,18193176
+2026-09-16,week,4706207,DeepSeek Harness,,[],12,1114578214001,8440387
+2026-09-16,week,4137556,Freebuff,,[],14,597330608236,7401767
+2026-09-16,week,open-webui,Open WebUI,,"[""general-chat""]",15,425073680602,203705790
+2026-09-16,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",16,365571630542,2583131
+2026-09-16,week,isekai-zero,ISEKAI ZERO,,"[""game""]",17,357522148143,8504981
+2026-09-16,week,framer,Framer,,[],18,352887269650,3115603
+2026-09-16,week,4580044,HighLevel,,[],19,346496009234,6254222
+2026-09-16,week,openhands,OpenHands,,"[""cli-agent""]",21,322864171675,4038161
+2026-09-16,week,descript,Descript,,"[""video-gen""]",22,298149536577,5182195
+2026-09-16,week,lemonade,Lemonade,,"[""programming-app""]",23,295721297666,7280314
+2026-09-16,week,nous-research-api,Nous Research API,,"[""general-chat""]",24,282693602521,9484418
+2026-09-16,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",25,255894395605,1875434
+2026-09-17,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11533771571228,114991540
+2026-09-17,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,5257472743162,57997397
+2026-09-17,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,3464229743346,48260392
+2026-09-17,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,2988155956044,29436638
+2026-09-17,week,pi,pi,,"[""cli-agent""]",8,2082690188615,20289183
+2026-09-17,week,3682314,omp,,"[""cli-agent""]",9,1557649125819,9593094
+2026-09-17,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1465773271061,19794174
+2026-09-17,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1286094780608,18008264
+2026-09-17,week,4706207,DeepSeek Harness,,[],12,1157867979080,8653682
+2026-09-17,week,4137556,Freebuff,,[],14,543808423943,7117096
+2026-09-17,week,4124659,draco-cascade-bench,,[],15,388495557744,5268060
+2026-09-17,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",16,374526866075,2611344
+2026-09-17,week,isekai-zero,ISEKAI ZERO,,"[""game""]",17,361913024476,8419779
+2026-09-17,week,openhands,OpenHands,,"[""cli-agent""]",18,358502118210,4369128
+2026-09-17,week,4580044,HighLevel,,[],20,347593005419,6217695
+2026-09-17,week,framer,Framer,,[],21,340674320797,3012921
+2026-09-17,week,open-webui,Open WebUI,,"[""general-chat""]",22,333429778133,149399830
+2026-09-17,week,lemonade,Lemonade,,"[""programming-app""]",23,298958525621,7388545
+2026-09-17,week,nous-research-api,Nous Research API,,"[""general-chat""]",24,293495256466,9892796
+2026-09-17,week,descript,Descript,,"[""video-gen""]",25,279022221175,5064480
+2026-09-18,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11749478165026,116825782
+2026-09-18,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,5406490903821,60720316
+2026-09-18,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,3701723450279,51936827
+2026-09-18,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,3043494306081,30043014
+2026-09-18,week,pi,pi,,"[""cli-agent""]",8,2190795561996,21382757
+2026-09-18,week,3682314,omp,,"[""cli-agent""]",9,1743266497378,10860213
+2026-09-18,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1480983959397,19907234
+2026-09-18,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1300560157044,18083463
+2026-09-18,week,4706207,DeepSeek Harness,,[],12,1186122694997,8676780
+2026-09-18,week,4124659,draco-cascade-bench,,[],13,999007600877,13508930
+2026-09-18,week,4137556,Freebuff,,[],15,465152169701,6727128
+2026-09-18,week,isekai-zero,ISEKAI ZERO,,"[""game""]",17,383374735859,8607995
+2026-09-18,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",18,375130881015,2660542
+2026-09-18,week,openhands,OpenHands,,"[""cli-agent""]",19,360567478402,4403288
+2026-09-18,week,4580044,HighLevel,,[],20,353476809548,6270219
+2026-09-18,week,framer,Framer,,[],21,336699612934,2979235
+2026-09-18,week,nous-research-api,Nous Research API,,"[""general-chat""]",22,309637178400,9408148
+2026-09-18,week,lemonade,Lemonade,,"[""programming-app""]",23,307714744835,7617867
+2026-09-18,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",24,293293812184,2176017
+2026-09-18,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",25,289551417078,2193023
+2026-09-19,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11752369531444,116617725
+2026-09-19,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,5771598154030,63537758
+2026-09-19,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,3906092110890,53826967
+2026-09-19,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,3001066079778,29642044
+2026-09-19,week,pi,pi,,"[""cli-agent""]",8,2247488050111,21781723
+2026-09-19,week,3682314,omp,,"[""cli-agent""]",9,1770660161936,10831863
+2026-09-19,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1493688514597,19733032
+2026-09-19,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1300638656642,18096720
+2026-09-19,week,4706207,DeepSeek Harness,,[],12,1181751365045,8621015
+2026-09-19,week,4124659,draco-cascade-bench,,[],13,1000132890995,13503734
+2026-09-19,week,4137556,Freebuff,,[],16,452991527553,6739736
+2026-09-19,week,isekai-zero,ISEKAI ZERO,,"[""game""]",17,403835838966,8804430
+2026-09-19,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",18,389311339126,2735551
+2026-09-19,week,openhands,OpenHands,,"[""cli-agent""]",19,382905366386,4526313
+2026-09-19,week,4580044,HighLevel,,[],20,356909404799,6271107
+2026-09-19,week,framer,Framer,,[],21,329493262655,2918459
+2026-09-19,week,lemonade,Lemonade,,"[""programming-app""]",22,315390740558,7798641
+2026-09-19,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",23,315304275425,2288482
+2026-09-19,week,nous-research-api,Nous Research API,,"[""general-chat""]",24,302378107754,8885385
+2026-09-19,week,2823243,ZCode,,"[""programming-app""]",25,293372404909,2060699
+2026-09-20,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11608002672825,115370423
+2026-09-20,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,5931468024502,65366226
+2026-09-20,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,3908316017455,53875890
+2026-09-20,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,2966651315999,29314284
+2026-09-20,week,pi,pi,,"[""cli-agent""]",8,2270950282075,22080961
+2026-09-20,week,3682314,omp,,"[""cli-agent""]",9,1772754422938,10758725
+2026-09-20,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1505879878329,19624053
+2026-09-20,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1292277709948,17985294
+2026-09-20,week,4706207,DeepSeek Harness,,[],12,1179751743519,8700065
+2026-09-20,week,4124659,draco-cascade-bench,,[],13,1000464905908,13507766
+2026-09-20,week,isekai-zero,ISEKAI ZERO,,"[""game""]",16,420029701490,8945838
+2026-09-20,week,4137556,Freebuff,,[],17,419615398498,6656689
+2026-09-20,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",18,399446745885,2774616
+2026-09-20,week,openhands,OpenHands,,"[""cli-agent""]",19,398383140145,4235754
+2026-09-20,week,4580044,HighLevel,,[],20,355851892660,6240173
+2026-09-20,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",21,337097319944,2350351
+2026-09-20,week,framer,Framer,,[],22,324913182878,2889503
+2026-09-20,week,lemonade,Lemonade,,"[""programming-app""]",23,318991232602,7866233
+2026-09-20,week,2823243,ZCode,,"[""programming-app""]",24,294270298377,2055177
+2026-09-20,week,nous-research-api,Nous Research API,,"[""general-chat""]",25,291301860510,8797470
+2026-09-21,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,11737028715407,116987161
+2026-09-21,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,5930385982731,65002147
+2026-09-21,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,3940393166885,53991888
+2026-09-21,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,3020671697037,29760671
+2026-09-21,week,pi,pi,,"[""cli-agent""]",8,2371649154303,23062798
+2026-09-21,week,3682314,omp,,"[""cli-agent""]",9,1836868749435,11217881
+2026-09-21,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1570243061727,20021975
+2026-09-21,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1312669747657,18249908
+2026-09-21,week,4706207,DeepSeek Harness,,[],12,1152686282501,8546535
+2026-09-21,week,4124659,draco-cascade-bench,,[],13,1001009234766,13514336
+2026-09-21,week,openhands,OpenHands,,"[""cli-agent""]",16,480039086766,4855264
+2026-09-21,week,4137556,Freebuff,,[],17,466575396254,7336792
+2026-09-21,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,437773291479,9087921
+2026-09-21,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",19,415907906564,3644690
+2026-09-21,week,4580044,HighLevel,,[],20,364846128925,6336870
+2026-09-21,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",21,363064438215,2470614
+2026-09-21,week,framer,Framer,,[],22,324642550696,2914090
+2026-09-21,week,lemonade,Lemonade,,"[""programming-app""]",23,313382580628,7736656
+2026-09-21,week,2823243,ZCode,,"[""programming-app""]",24,301602948477,2098869
+2026-09-21,week,nous-research-api,Nous Research API,,"[""general-chat""]",25,290841666346,8797775
+2026-09-22,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",3,11846348781068,118647897
+2026-09-22,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,6018785884409,65632439
+2026-09-22,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,4017311835170,54380538
+2026-09-22,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,3058883289031,30160920
+2026-09-22,week,pi,pi,,"[""cli-agent""]",8,2520808211693,24417516
+2026-09-22,week,3682314,omp,,"[""cli-agent""]",9,1943206205852,11687851
+2026-09-22,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1530513948858,19060899
+2026-09-22,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1328501769039,18416229
+2026-09-22,week,4706207,DeepSeek Harness,,[],12,1171260650588,8766281
+2026-09-22,week,4124659,draco-cascade-bench,,[],13,1001423756469,13525350
+2026-09-22,week,openhands,OpenHands,,"[""cli-agent""]",15,612437733608,5703577
+2026-09-22,week,isekai-zero,ISEKAI ZERO,,"[""game""]",17,444197589045,9045056
+2026-09-22,week,4137556,Freebuff,,[],18,443410225533,7285017
+2026-09-22,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",19,428611418572,4910918
+2026-09-22,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",20,385829042550,2597775
+2026-09-22,week,4580044,HighLevel,,[],21,369296538319,6400769
+2026-09-22,week,framer,Framer,,[],22,319742488417,2894107
+2026-09-22,week,lemonade,Lemonade,,"[""programming-app""]",23,312020905712,7716673
+2026-09-22,week,2823243,ZCode,,"[""programming-app""]",24,306496015468,2133353
+2026-09-22,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",25,289033993172,2183851
+2026-09-23,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",3,11876591369547,120087621
+2026-09-23,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,6280184539749,68448842
+2026-09-23,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,4054625739444,54593936
+2026-09-23,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,3086975563817,30486387
+2026-09-23,week,pi,pi,,"[""cli-agent""]",8,2637805023599,25560347
+2026-09-23,week,3682314,omp,,"[""cli-agent""]",9,2036329964751,12139359
+2026-09-23,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1446033183304,17503679
+2026-09-23,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1341327501871,18575525
+2026-09-23,week,4706207,DeepSeek Harness,,[],12,1163237343169,9105244
+2026-09-23,week,4124659,draco-cascade-bench,,[],13,1001858746340,13532165
+2026-09-23,week,openhands,OpenHands,,"[""cli-agent""]",15,722831647467,6322985
+2026-09-23,week,isekai-zero,ISEKAI ZERO,,"[""game""]",17,460194817560,9154433
+2026-09-23,week,4137556,Freebuff,,[],18,451661139793,7327289
+2026-09-23,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",19,426437927806,5546207
+2026-09-23,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",20,391424185279,2634327
+2026-09-23,week,4580044,HighLevel,,[],21,369127461149,6414118
+2026-09-23,week,lemonade,Lemonade,,"[""programming-app""]",22,314340069506,7747079
+2026-09-23,week,framer,Framer,,[],23,313632163899,2875901
+2026-09-23,week,2823243,ZCode,,"[""programming-app""]",24,308895601059,2138052
+2026-09-23,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",25,289833882608,2187852
+2026-09-24,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",3,11638154766393,118660541
+2026-09-24,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,6333967798145,69687668
+2026-09-24,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,3987836598748,53672020
+2026-09-24,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,3095721062434,30191385
+2026-09-24,week,pi,pi,,"[""cli-agent""]",8,2663137226374,25718211
+2026-09-24,week,3682314,omp,,"[""cli-agent""]",9,2061610806145,11968372
+2026-09-24,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1422690695180,16693831
+2026-09-24,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1333346140209,18433802
+2026-09-24,week,4706207,DeepSeek Harness,,[],12,1159960424633,9046419
+2026-09-24,week,4124659,draco-cascade-bench,,[],13,865951243329,11661644
+2026-09-24,week,openhands,OpenHands,,"[""cli-agent""]",14,801437991778,6745446
+2026-09-24,week,4137556,Freebuff,,[],17,489765492857,7224847
+2026-09-24,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,467112216160,9205146
+2026-09-24,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",19,424216303214,5308488
+2026-09-24,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",20,385080786343,2658446
+2026-09-24,week,4580044,HighLevel,,[],21,370943383912,6493866
+2026-09-24,week,2823243,ZCode,,"[""programming-app""]",22,328529497240,2141567
+2026-09-24,week,lemonade,Lemonade,,"[""programming-app""]",23,313593019621,7624040
+2026-09-24,week,framer,Framer,,[],24,302826584678,2798762
+2026-09-24,week,2237546,Cursor,,"[""programming-app"",""cli-agent""]",26,281251655967,2116921
+2026-09-25,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",3,11798284501966,120818757
+2026-09-25,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,6996056185466,76660910
+2026-09-25,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",5,4131340965602,54416073
+2026-09-25,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,3472451733538,31451746
+2026-09-25,week,pi,pi,,"[""cli-agent""]",8,2818236590729,26793343
+2026-09-25,week,3682314,omp,,"[""cli-agent""]",9,2126081072838,11654581
+2026-09-25,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1532046970201,17524845
+2026-09-25,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1376754835992,18854718
+2026-09-25,week,4706207,DeepSeek Harness,,[],12,1291798948613,9350673
+2026-09-25,week,openhands,OpenHands,,"[""cli-agent""]",13,872299993021,7340836
+2026-09-25,week,4137556,Freebuff,,[],15,676699197011,7917315
+2026-09-25,week,isekai-zero,ISEKAI ZERO,,"[""game""]",17,468654687435,9213452
+2026-09-25,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",18,414687187880,5397143
+2026-09-25,week,2823243,ZCode,,"[""programming-app""]",19,384462830548,1857685
+2026-09-25,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",20,384106840994,2728633
+2026-09-25,week,4580044,HighLevel,,[],21,378857653713,6733002
+2026-09-25,week,3909382,Command Code,,"[""programming-app"",""cli-agent"",""ide-extension"",""native-app-builder"",""personal-agent""]",22,378437438885,1990506
+2026-09-25,week,3003505,Strix,,"[""cli-agent""]",23,324952445099,2660167
+2026-09-25,week,lemonade,Lemonade,,"[""programming-app""]",25,317858678659,7493749
+2026-09-25,week,framer,Framer,,[],26,304584687858,2842306
+2026-09-26,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",3,11790155959431,121037965
+2026-09-26,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,7099754491609,77626583
+2026-09-26,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",5,4100001357379,54031847
+2026-09-26,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",7,3802924893895,32140308
+2026-09-26,week,pi,pi,,"[""cli-agent""]",8,2864960737981,26524416
+2026-09-26,week,3682314,omp,,"[""cli-agent""]",9,2179073714063,11967077
+2026-09-26,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1637595929368,18393719
+2026-09-26,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1371155202059,18662605
+2026-09-26,week,4706207,DeepSeek Harness,,[],12,1305060672234,9351557
+2026-09-26,week,openhands,OpenHands,,"[""cli-agent""]",13,1011361873107,8388377
+2026-09-26,week,4137556,Freebuff,,[],14,840538706219,8447869
+2026-09-26,week,3909382,Command Code,,"[""programming-app"",""cli-agent"",""ide-extension"",""native-app-builder"",""personal-agent""]",16,636296044053,4905484
+2026-09-26,week,isekai-zero,ISEKAI ZERO,,"[""game""]",18,457460719034,8948423
+2026-09-26,week,2823243,ZCode,,"[""programming-app""]",19,429398806973,2104199
+2026-09-26,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",20,409123710751,5382551
+2026-09-26,week,4580044,HighLevel,,[],21,376615416706,6755805
+2026-09-26,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",22,373150958930,2709555
+2026-09-26,week,3003505,Strix,,"[""cli-agent""]",23,337684769956,2726889
+2026-09-26,week,lemonade,Lemonade,,"[""programming-app""]",25,327016195490,7431947
+2026-09-26,week,framer,Framer,,[],26,296656603486,2776526
+2026-09-27,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",3,12001980549975,123607477
+2026-09-27,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,6912438053057,74516471
+2026-09-27,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",5,4363196542249,56332587
+2026-09-27,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",6,4304945875565,34056984
+2026-09-27,week,pi,pi,,"[""cli-agent""]",8,2949378635554,27331164
+2026-09-27,week,3682314,omp,,"[""cli-agent""]",9,2391764626499,13147508
+2026-09-27,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1842519665998,19925292
+2026-09-27,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",11,1385978469101,18777111
+2026-09-27,week,4706207,DeepSeek Harness,,[],12,1376485665743,9746714
+2026-09-27,week,4137556,Freebuff,,[],13,1073216302089,9446385
+2026-09-27,week,openhands,OpenHands,,"[""cli-agent""]",14,994548115961,8256146
+2026-09-27,week,3909382,Command Code,,"[""programming-app"",""cli-agent"",""ide-extension"",""native-app-builder"",""personal-agent""]",15,919160654798,8283528
+2026-09-27,week,2823243,ZCode,,"[""programming-app""]",18,501218836984,2495149
+2026-09-27,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,451279235312,8707258
+2026-09-27,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",20,408191209208,5427089
+2026-09-27,week,4580044,HighLevel,,[],21,380515817175,6839418
+2026-09-27,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",23,365320182549,2795483
+2026-09-27,week,lemonade,Lemonade,,"[""programming-app""]",24,340722299460,7357162
+2026-09-27,week,3003505,Strix,,"[""cli-agent""]",25,324481071969,2600314
+2026-09-27,week,framer,Framer,,[],26,297288694437,2797147
+2026-09-28,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",3,12374558754705,127882351
+2026-09-28,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",4,7063572151382,75480789
+2026-09-28,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",5,4850397072241,36194990
+2026-09-28,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,4778217289097,60581981
+2026-09-28,week,pi,pi,,"[""cli-agent""]",8,3195711928757,28796273
+2026-09-28,week,3682314,omp,,"[""cli-agent""]",9,2567932434248,13912647
+2026-09-28,week,codex,Codex,codex-cli,"[""cli-agent""]",10,1944271673295,20830230
+2026-09-28,week,4706207,DeepSeek Harness,,[],11,1477942572117,10236872
+2026-09-28,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",12,1406059145058,18940581
+2026-09-28,week,3909382,Command Code,,"[""programming-app"",""cli-agent"",""ide-extension"",""native-app-builder"",""personal-agent""]",13,1247655135040,12484263
+2026-09-28,week,4137556,Freebuff,,[],14,1223223894874,9717975
+2026-09-28,week,openhands,OpenHands,,"[""cli-agent""]",15,949404717002,7952327
+2026-09-28,week,2823243,ZCode,,"[""programming-app""]",18,567211673872,2790857
+2026-09-28,week,isekai-zero,ISEKAI ZERO,,"[""game""]",19,443500080128,8417263
+2026-09-28,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",20,407226540131,5228434
+2026-09-28,week,4580044,HighLevel,,[],22,380829803740,6941449
+2026-09-28,week,lemonade,Lemonade,,"[""programming-app""]",23,359291987003,7336477
+2026-09-28,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",24,353809462455,2816944
+2026-09-28,week,3003505,Strix,,"[""cli-agent""]",25,327752053495,2623141
+2026-09-28,week,nous-research-api,Nous Research API,,"[""general-chat""]",26,306550970925,8048986
+2026-09-29,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,12711480500440,131444321
+2026-09-29,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,7278201106143,76577739
+2026-09-29,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",5,5412810499679,38506139
+2026-09-29,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",6,5203331102609,64689246
+2026-09-29,week,pi,pi,,"[""cli-agent""]",8,3373323081118,29809722
+2026-09-29,week,3682314,omp,,"[""cli-agent""]",9,2722565685356,14755504
+2026-09-29,week,codex,Codex,codex-cli,"[""cli-agent""]",10,2081536913029,22545703
+2026-09-29,week,3909382,Command Code,,"[""programming-app"",""cli-agent"",""ide-extension"",""native-app-builder"",""personal-agent""]",11,1566651710336,16792229
+2026-09-29,week,4706207,DeepSeek Harness,,[],12,1547035725331,10521120
+2026-09-29,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",13,1414017178545,18901100
+2026-09-29,week,4137556,Freebuff,,[],14,1401854994306,10425424
+2026-09-29,week,openhands,OpenHands,,"[""cli-agent""]",15,876908933180,7535745
+2026-09-29,week,2823243,ZCode,,"[""programming-app""]",18,636928935283,3115671
+2026-09-29,week,3003505,Strix,,"[""cli-agent""]",19,440901901555,3620950
+2026-09-29,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,438397512232,8202158
+2026-09-29,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",21,402154270417,4776325
+2026-09-29,week,4580044,HighLevel,,[],22,390096559258,7151622
+2026-09-29,week,lemonade,Lemonade,,"[""programming-app""]",24,375597949027,7401869
+2026-09-29,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",25,341313574783,2748408
+2026-09-29,week,nous-research-api,Nous Research API,,"[""general-chat""]",26,326768051777,8821099
+2026-09-30,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,13277113367716,135563915
+2026-09-30,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,7466102691911,77286908
+2026-09-30,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",4,6103802791574,41066762
+2026-09-30,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",5,5839608849703,71236007
+2026-09-30,week,pi,pi,,"[""cli-agent""]",8,3435430995941,30397173
+2026-09-30,week,3682314,omp,,"[""cli-agent""]",9,2899071233083,15845940
+2026-09-30,week,codex,Codex,codex-cli,"[""cli-agent""]",10,2269295610330,24708276
+2026-09-30,week,3909382,Command Code,,"[""programming-app"",""cli-agent"",""ide-extension"",""native-app-builder"",""personal-agent""]",11,1959170207737,21601558
+2026-09-30,week,4706207,DeepSeek Harness,,[],12,1649232503037,10928586
+2026-09-30,week,4137556,Freebuff,,[],13,1585675349727,11287846
+2026-09-30,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",14,1436344079140,19054501
+2026-09-30,week,openhands,OpenHands,,"[""cli-agent""]",17,740858164622,6587390
+2026-09-30,week,2823243,ZCode,,"[""programming-app""]",18,719792475607,3522917
+2026-09-30,week,3003505,Strix,,"[""cli-agent""]",19,516724242043,4240528
+2026-09-30,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,445114573572,8214931
+2026-09-30,week,4580044,HighLevel,,[],22,402570799626,7404468
+2026-09-30,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",23,400767098649,3602265
+2026-09-30,week,lemonade,Lemonade,,"[""programming-app""]",24,386547819596,7349039
+2026-09-30,week,nous-research-api,Nous Research API,,"[""general-chat""]",25,381039270927,11255422
+2026-09-30,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",26,326704731759,2661558
+2026-10-01,week,hermes-agent,Hermes Agent,,"[""personal-agent"",""cli-agent""]",2,13656283002389,137967347
+2026-10-01,week,claude-code,Claude Code,claude-code,"[""cli-agent""]",3,7325320823491,74402240
+2026-10-01,week,cline,Cline,cline,"[""ide-extension"",""cli-agent""]",4,6703516386864,43633645
+2026-10-01,week,kilo-code,Kilo Code,kilo-code,"[""cli-agent"",""ide-extension""]",5,6505774180100,78059941
+2026-10-01,week,pi,pi,,"[""cli-agent""]",8,3497238071705,30769918
+2026-10-01,week,codex,Codex,codex-cli,"[""cli-agent""]",9,3017883225138,32388470
+2026-10-01,week,3682314,omp,,"[""cli-agent""]",10,3012753236259,16720421
+2026-10-01,week,3909382,Command Code,,"[""programming-app"",""cli-agent"",""ide-extension"",""native-app-builder"",""personal-agent""]",11,2340979806984,26553533
+2026-10-01,week,4137556,Freebuff,,[],12,1766894119657,12248194
+2026-10-01,week,4706207,DeepSeek Harness,,[],13,1742618408162,11046905
+2026-10-01,week,openclaw,OpenClaw,,"[""personal-agent"",""cli-agent""]",14,1435698666749,18969658
+2026-10-01,week,2823243,ZCode,,"[""programming-app""]",17,793479400270,3863577
+2026-10-01,week,openhands,OpenHands,,"[""cli-agent""]",18,616893353111,6037614
+2026-10-01,week,3003505,Strix,,"[""cli-agent""]",19,540870592357,4471750
+2026-10-01,week,isekai-zero,ISEKAI ZERO,,"[""game""]",20,453262338392,8213859
+2026-10-01,week,nous-research-api,Nous Research API,,"[""general-chat""]",22,422304801786,12646368
+2026-10-01,week,4580044,HighLevel,,[],23,406921740325,7490414
+2026-10-01,week,lemonade,Lemonade,,"[""programming-app""]",24,396276934826,7319035
+2026-10-01,week,4132065,"Hello Minds, powered by Ethoswarm",,"[""roleplay"",""personal-agent"",""creative-writing""]",25,384419278369,2520449
+2026-10-01,week,4780809,CodeGPT,,"[""ide-extension"",""cli-agent"",""cloud-agent""]",26,298387640464,2440209

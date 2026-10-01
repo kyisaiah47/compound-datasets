@@ -6,7 +6,7 @@ One row per AI app builder: what it actually outputs, whether the source leaves 
 |---|---|
 | Rows in this cut | 14 |
 | One row is | one app builder |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [StoreReady](https://storeready.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -27,8 +27,8 @@ Every verdict is attached to numbered evidence in the companion evidence dataset
 
 | File | Format | Size |
 |---|---|---|
-| `storeready-builders-2026-09-04.csv` | CSV | 0.02 MB |
-| `storeready-builders-2026-09-04.json` | JSON | 0.02 MB |
+| `storeready-builders-2026-10-01.csv` | CSV | 0.02 MB |
+| `storeready-builders-2026-10-01.json` | JSON | 0.02 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -59,7 +59,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Compound Labs (2026). StoreReady: AI app builders and whether their output ships. StoreReady, https://storeready.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/storeready-builders
+Compound Labs (2026). StoreReady: AI app builders and whether their output ships. StoreReady, https://storeready.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/storeready-builders
 ```
 
 ```bibtex
@@ -69,7 +69,7 @@ Compound Labs (2026). StoreReady: AI app builders and whether their output ships
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/storeready-builders},
-  note      = {Cut of 2026-09-04. Measured by StoreReady, https://storeready.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by StoreReady, https://storeready.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

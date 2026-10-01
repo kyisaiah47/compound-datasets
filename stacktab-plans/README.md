@@ -6,7 +6,7 @@ One row per published plan: its base monthly price in USD, what the plan include
 |---|---|
 | Rows in this cut | 64 |
 | One row is | one plan |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [StackTab](https://stacktab.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -27,8 +27,8 @@ Each plan is re-checked on a schedule against its own pricing page. `price_statu
 
 | File | Format | Size |
 |---|---|---|
-| `stacktab-plans-2026-09-04.csv` | CSV | 0.02 MB |
-| `stacktab-plans-2026-09-04.json` | JSON | 0.03 MB |
+| `stacktab-plans-2026-10-01.csv` | CSV | 0.02 MB |
+| `stacktab-plans-2026-10-01.json` | JSON | 0.03 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -51,12 +51,12 @@ citation can pin the exact edition it quoted.
 | `check_status` | string | 0.0% |
 | `verified_at` | string | 0.0% |
 | `last_checked_at` | string | 0.0% |
-| `last_check_note` | string | 98.4% |
+| `last_check_note` | string | 90.6% |
 
 ## Cite it
 
 ```
-Compound Labs (2026). StackTab: every plan, its price, and the page the price was read from. StackTab, https://stacktab.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stacktab-plans
+Compound Labs (2026). StackTab: every plan, its price, and the page the price was read from. StackTab, https://stacktab.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stacktab-plans
 ```
 
 ```bibtex
@@ -66,7 +66,7 @@ Compound Labs (2026). StackTab: every plan, its price, and the page the price wa
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/stacktab-plans},
-  note      = {Cut of 2026-09-04. Measured by StackTab, https://stacktab.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by StackTab, https://stacktab.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

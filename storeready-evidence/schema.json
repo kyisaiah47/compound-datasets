@@ -1,6 +1,6 @@
 {
   "dataset": "storeready-evidence",
-  "cut": "2026-09-04",
+  "cut": "2026-10-01",
   "columns": [
     {
       "column": "builder_slug",
@@ -44,13 +44,13 @@
     },
     {
       "column": "link_status",
-      "type": "null",
-      "null_share_in_sample": 1
+      "type": "number",
+      "null_share_in_sample": 0
     },
     {
       "column": "link_checked_at",
-      "type": "null",
-      "null_share_in_sample": 1
+      "type": "string",
+      "null_share_in_sample": 0
     }
   ]
 }

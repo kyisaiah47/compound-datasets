@@ -4,9 +4,9 @@ One row per tracked AI agent tool, with the nightly maintenance verdict (maintai
 
 | | |
 |---|---|
-| Rows in this cut | 340 |
+| Rows in this cut | 362 |
 | One row is | one tool |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [StillShipping](https://stillshipping.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -27,8 +27,8 @@ Commit, release, issue and contributor activity is pulled from the GitHub API ni
 
 | File | Format | Size |
 |---|---|---|
-| `stillshipping-tools-2026-09-04.csv` | CSV | 0.41 MB |
-| `stillshipping-tools-2026-09-04.json` | JSON | 0.58 MB |
+| `stillshipping-tools-2026-10-01.csv` | CSV | 0.44 MB |
+| `stillshipping-tools-2026-10-01.json` | JSON | 0.62 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -41,24 +41,24 @@ citation can pin the exact edition it quoted.
 | `name` | string | 0.0% |
 | `repo_full_name` | string | 0.0% |
 | `category` | string | 0.0% |
-| `vendor` | string | 93.8% |
+| `vendor` | string | 94.2% |
 | `tagline` | string | 0.0% |
-| `homepage` | string | 13.5% |
+| `homepage` | string | 13.8% |
 | `aliases` | array | 0.0% |
 | `verdict` | string | 0.0% |
 | `freshness` | number | 0.0% |
 | `reasons` | array | 0.0% |
 | `verdict_at` | string | 0.0% |
-| `previous_verdict` | string | 93.8% |
-| `verdict_changed_at` | string | 93.8% |
+| `previous_verdict` | string | 90.1% |
+| `verdict_changed_at` | string | 90.1% |
 | `stars` | number | 0.0% |
 | `forks` | number | 0.0% |
 | `open_issues` | number | 0.0% |
-| `language` | string | 1.2% |
-| `license` | string | 17.1% |
+| `language` | string | 1.4% |
+| `license` | string | 17.4% |
 | `archived` | boolean | 0.0% |
 | `disabled` | boolean | 0.0% |
-| `description` | string | 0.6% |
+| `description` | string | 0.5% |
 | `created_at` | string | 0.0% |
 | `pushed_at` | string | 0.0% |
 | `days_since_push` | number | 0.0% |
@@ -67,8 +67,8 @@ citation can pin the exact edition it quoted.
 | `last_release_tag` | string | 14.1% |
 | `releases_365d` | number | 0.0% |
 | `release_gap_days` | number | 14.1% |
-| `median_release_gap` | number | 19.4% |
-| `issue_response_hours` | number | 61.8% |
+| `median_release_gap` | number | 20.7% |
+| `issue_response_hours` | number | 64.4% |
 | `issues_sampled` | number | 0.0% |
 | `stale_issue_ratio` | number | 4.4% |
 | `contributors_90d` | number | 0.0% |
@@ -80,7 +80,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Compound Labs (2026). StillShipping: maintenance verdict for every tracked agent tool. StillShipping, https://stillshipping.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-tools
+Compound Labs (2026). StillShipping: maintenance verdict for every tracked agent tool. StillShipping, https://stillshipping.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-tools
 ```
 
 ```bibtex
@@ -90,7 +90,7 @@ Compound Labs (2026). StillShipping: maintenance verdict for every tracked agent
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-tools},
-  note      = {Cut of 2026-09-04. Measured by StillShipping, https://stillshipping.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by StillShipping, https://stillshipping.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

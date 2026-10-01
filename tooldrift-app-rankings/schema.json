@@ -1,6 +1,6 @@
 {
   "dataset": "tooldrift-app-rankings",
-  "cut": "2026-09-04",
+  "cut": "2026-10-01",
   "columns": [
     {
       "column": "captured_on",
@@ -25,7 +25,7 @@
     {
       "column": "tool_slug",
       "type": "string",
-      "null_share_in_sample": 0.8003
+      "null_share_in_sample": 0.8002
     },
     {
       "column": "categories",

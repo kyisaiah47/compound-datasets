@@ -6,8 +6,8 @@ type: dataset
 authors:
   - name: "Compound Labs"
     website: "https://thecompound.tech"
-version: "2026-09-04"
-date-released: "2026-09-04"
+version: "2026-10-01"
+date-released: "2026-10-01"
 license: CC-BY-4.0
 url: "https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-history"
 repository: "https://github.com/kyisaiah47/compound-datasets"

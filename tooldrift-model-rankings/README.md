@@ -4,9 +4,9 @@ One row per model per ranking window per capture: its rank, the tokens and reque
 
 | | |
 |---|---|
-| Rows in this cut | 44,369 |
+| Rows in this cut | 84,461 |
 | One row is | one model in one ranking window on one capture day |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [ToolDrift](https://tooldrift.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -27,8 +27,8 @@ The public OpenRouter rankings are fetched on a schedule and stored as captured,
 
 | File | Format | Size |
 |---|---|---|
-| `tooldrift-model-rankings-2026-09-04.csv` | CSV | 4.9 MB |
-| `tooldrift-model-rankings-2026-09-04.json` | JSON | 11.0 MB |
+| `tooldrift-model-rankings-2026-10-01.csv` | CSV | 9.4 MB |
+| `tooldrift-model-rankings-2026-10-01.json` | JSON | 20.9 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -51,7 +51,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Compound Labs (2026). ToolDrift: OpenRouter model usage rankings, captured daily. ToolDrift, https://tooldrift.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-model-rankings
+Compound Labs (2026). ToolDrift: OpenRouter model usage rankings, captured daily. ToolDrift, https://tooldrift.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-model-rankings
 ```
 
 ```bibtex
@@ -61,7 +61,7 @@ Compound Labs (2026). ToolDrift: OpenRouter model usage rankings, captured daily
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-model-rankings},
-  note      = {Cut of 2026-09-04. Measured by ToolDrift, https://tooldrift.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by ToolDrift, https://tooldrift.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

@@ -6,7 +6,7 @@ One row per index under the Toolproof masthead: what it measures, the method beh
 |---|---|
 | Rows in this cut | 9 |
 | One row is | one index |
-| Cut | 2026-09-04 |
+| Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [Toolproof](https://toolproof.thecompound.tech) |
 | Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
@@ -27,8 +27,8 @@ Read from https://toolproof.thecompound.tech/api/index.json, which builds itself
 
 | File | Format | Size |
 |---|---|---|
-| `toolproof-indexes-2026-09-04.csv` | CSV | 0.00 MB |
-| `toolproof-indexes-2026-09-04.json` | JSON | 0.01 MB |
+| `toolproof-indexes-2026-10-01.csv` | CSV | 0.00 MB |
+| `toolproof-indexes-2026-10-01.json` | JSON | 0.01 MB |
 
 Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
@@ -57,7 +57,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Compound Labs (2026). Toolproof: the nine indexes and what each one currently measures. Toolproof, https://toolproof.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/toolproof-indexes
+Compound Labs (2026). Toolproof: the nine indexes and what each one currently measures. Toolproof, https://toolproof.thecompound.tech. Cut of 2026-10-01. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/toolproof-indexes
 ```
 
 ```bibtex
@@ -67,7 +67,7 @@ Compound Labs (2026). Toolproof: the nine indexes and what each one currently me
   year      = {2026},
   publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/toolproof-indexes},
-  note      = {Cut of 2026-09-04. Measured by Toolproof, https://toolproof.thecompound.tech},
+  note      = {Cut of 2026-10-01. Measured by Toolproof, https://toolproof.thecompound.tech},
   license   = {CC-BY-4.0}
 }
 ```

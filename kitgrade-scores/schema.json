@@ -1,6 +1,6 @@
 {
   "dataset": "kitgrade-scores",
-  "cut": "2026-09-04",
+  "cut": "2026-10-01",
   "columns": [
     {
       "column": "kit_slug",
@@ -30,7 +30,7 @@
     {
       "column": "maintenance",
       "type": "number",
-      "null_share_in_sample": 0.3889
+      "null_share_in_sample": 0.4359
     },
     {
       "column": "completeness",

@@ -1,6 +1,6 @@
 {
   "dataset": "stacktab-plans",
-  "cut": "2026-09-04",
+  "cut": "2026-10-01",
   "columns": [
     {
       "column": "service_slug",
@@ -75,7 +75,7 @@
     {
       "column": "last_check_note",
       "type": "string",
-      "null_share_in_sample": 0.9844
+      "null_share_in_sample": 0.9063
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "dataset": "blockdex-items",
-  "cut": "2026-09-04",
+  "cut": "2026-10-01",
   "columns": [
     {
       "column": "id",
@@ -20,12 +20,12 @@
     {
       "column": "title",
       "type": "string",
-      "null_share_in_sample": 0.4205
+      "null_share_in_sample": 0.415
     },
     {
       "column": "description",
       "type": "string",
-      "null_share_in_sample": 0.3895
+      "null_share_in_sample": 0.3775
     },
     {
       "column": "type",
@@ -70,7 +70,7 @@
     {
       "column": "primary_file",
       "type": "string",
-      "null_share_in_sample": 0.012
+      "null_share_in_sample": 0.011
     },
     {
       "column": "has_tailwind_config",
@@ -100,12 +100,12 @@
     {
       "column": "preview_url",
       "type": "string",
-      "null_share_in_sample": 0.6585
+      "null_share_in_sample": 0.659
     },
     {
       "column": "preview_embeddable",
       "type": "boolean",
-      "null_share_in_sample": 0.6585
+      "null_share_in_sample": 0.659
     },
     {
       "column": "access",
@@ -135,7 +135,7 @@
     {
       "column": "registry_stars",
       "type": "number",
-      "null_share_in_sample": 0.5695
+      "null_share_in_sample": 0.547
     }
   ]
 }

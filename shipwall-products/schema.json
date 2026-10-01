@@ -1,6 +1,6 @@
 {
   "dataset": "shipwall-products",
-  "cut": "2026-09-04",
+  "cut": "2026-10-01",
   "columns": [
     {
       "column": "slug",
@@ -55,7 +55,7 @@
     {
       "column": "category_slug",
       "type": "string",
-      "null_share_in_sample": 0.6279
+      "null_share_in_sample": 0.6827
     },
     {
       "column": "built_with",
@@ -70,7 +70,7 @@
     {
       "column": "pricing",
       "type": "string",
-      "null_share_in_sample": 0.3721
+      "null_share_in_sample": 0.25
     },
     {
       "column": "maker_handle",
@@ -105,7 +105,7 @@
     {
       "column": "badge_found_at",
       "type": "string",
-      "null_share_in_sample": 0.9767
+      "null_share_in_sample": 0.9904
     },
     {
       "column": "badge_last_checked_at",
