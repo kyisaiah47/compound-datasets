@@ -1,6 +1,6 @@
-# StoreReady: AI app builders and whether their output ships
+# StoreReady records AI app builders and whether their output ships.
 
-One row per AI app builder: what it actually outputs, whether the source leaves the platform, whether it submits to the store for you, what it costs, and the review verdict on whether the App Store accepts what it produces.
+Each row records one AI app builder. The row states what the builder outputs, whether the source leaves the platform, whether the builder submits to the store, what the builder costs, and whether the App Store accepts its output.
 
 | | |
 |---|---|
@@ -16,12 +16,12 @@ One row per AI app builder: what it actually outputs, whether the source leaves 
 
 ## How it is measured
 
-Every verdict is attached to numbered evidence in the companion evidence dataset. A builder nobody has evidence for is published as unknown rather than given the benefit of the doubt.
+Each verdict links to numbered evidence in the companion evidence dataset. The dataset publishes a builder as unknown when it has no supporting evidence.
 
 ## What a citer needs to know
 
-- `risk_guidelines` names the App Review guideline clauses the output is exposed to, by number.
-- A verdict is about the output, not about the company. It moves when the output changes.
+- `risk_guidelines` lists the App Review guideline clauses, identified by number, that expose the output to risk.
+- The verdict evaluates the output, not the company. The verdict changes when the output changes.
 
 ## Files
 
@@ -30,8 +30,8 @@ Every verdict is attached to numbered evidence in the companion evidence dataset
 | `storeready-builders-2026-10-01.csv` | CSV | 0.02 MB |
 | `storeready-builders-2026-10-01.json` | JSON | 0.02 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -74,8 +74,9 @@ Compound Labs (2026). StoreReady: AI app builders and whether their output ships
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

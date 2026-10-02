@@ -1,6 +1,6 @@
-# StillShipping: maintenance verdict for every tracked agent tool
+# StillShipping records a maintenance verdict for every tracked agent tool.
 
-One row per tracked AI agent tool, with the nightly maintenance verdict (maintained, slowing or dead), the 0-100 freshness behind it, and every GitHub signal the verdict was computed from.
+Each row records one tracked AI agent tool. The row stores the nightly maintenance verdict, which is maintained, slowing or dead. The row stores the 0-100 freshness score and every GitHub signal used to compute the verdict.
 
 | | |
 |---|---|
@@ -16,12 +16,12 @@ One row per tracked AI agent tool, with the nightly maintenance verdict (maintai
 
 ## How it is measured
 
-Commit, release, issue and contributor activity is pulled from the GitHub API nightly and turned into one of three verdicts. The verdict is recomputed every night rather than recorded once, so a project that goes quiet changes its own row without anybody editing it.
+StillShipping pulls commit, release, issue and contributor activity from the GitHub API nightly. It converts those signals into one of three verdicts. It recomputes the verdict every night instead of recording it once. A project that goes quiet therefore changes its own row without manual editing.
 
 ## What a citer needs to know
 
-- `reasons` is the JSON the verdict was derived from, kept so a verdict can be argued with on its inputs.
-- `refreshed_at` is the nightly run that last touched the row. A row whose repository has gone private or been deleted stops refreshing and keeps its last verdict.
+- `reasons` stores the JSON used to derive the verdict. The field preserves the inputs for disputing that verdict.
+- `refreshed_at` records the nightly run that last changed the row. A row stops refreshing when its repository becomes private or is deleted. The row keeps its last verdict.
 
 ## Files
 
@@ -30,8 +30,8 @@ Commit, release, issue and contributor activity is pulled from the GitHub API ni
 | `stillshipping-tools-2026-10-01.csv` | CSV | 0.44 MB |
 | `stillshipping-tools-2026-10-01.json` | JSON | 0.62 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -95,8 +95,9 @@ Compound Labs (2026). StillShipping: maintenance verdict for every tracked agent
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

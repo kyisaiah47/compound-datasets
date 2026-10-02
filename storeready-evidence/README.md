@@ -1,6 +1,6 @@
-# StoreReady: the cited evidence behind every verdict
+# StoreReady records the cited evidence behind every verdict.
 
-One row per piece of evidence: which builder it is about, which claim it supports, the source it came from with its title and date, the quoted passage, and the HTTP status that source last returned.
+Each row records one piece of evidence. The row identifies the builder, the claim it supports, and the source title and date. The row stores the quoted passage and the HTTP status that the source last returned.
 
 | | |
 |---|---|
@@ -16,12 +16,12 @@ One row per piece of evidence: which builder it is about, which claim it support
 
 ## How it is measured
 
-Evidence is a policy clause, a rejection thread or a shipped binary, recorded with the URL it was read from. Every source URL is re-checked and its status stored, so a citation resting on a page that has gone can be found rather than assumed live.
+The dataset records each evidence item as a policy clause, rejection thread or shipped binary. It stores the URL where the evidence was read. It re-checks every source URL and stores its status. A reader can find citations whose pages are gone instead of assuming that those pages remain live.
 
 ## What a citer needs to know
 
-- `link_status` is the last HTTP status the source returned. A non-200 does not remove the evidence; it publishes the fact that the source moved.
-- `quote` is the passage as it appeared. It is the primary source for the claim beside it.
+- The `link_status` field records the last HTTP status returned by the source. A non-200 status does not remove the evidence; it records that the source moved.
+- The `quote` field contains the passage as it appeared. It is the primary source for the claim beside it.
 
 ## Files
 
@@ -30,8 +30,8 @@ Evidence is a policy clause, a rejection thread or a shipped binary, recorded wi
 | `storeready-evidence-2026-10-01.csv` | CSV | 0.02 MB |
 | `storeready-evidence-2026-10-01.json` | JSON | 0.02 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -66,8 +66,9 @@ Compound Labs (2026). StoreReady: the cited evidence behind every verdict. Store
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

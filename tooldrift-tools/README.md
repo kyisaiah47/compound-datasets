@@ -1,6 +1,6 @@
 # ToolDrift: the AI coding tools under watch
 
-One row per AI coding tool watched nightly: its layer in the stack, its vendor, its licence and pricing model, its default model, and the GitHub maintenance signals beside the OpenRouter usage rank.
+Each row records one AI coding tool watched nightly, including its layer in the stack, vendor, licence and pricing model, default model, and the GitHub maintenance signals beside the OpenRouter usage rank.
 
 | | |
 |---|---|
@@ -16,12 +16,12 @@ One row per AI coding tool watched nightly: its layer in the stack, its vendor, 
 
 ## How it is measured
 
-Vendor changelogs, pricing pages and store rankings are fetched on a schedule and diffed against the previous capture. A price is recorded from the page that states it, and a page that has moved is followed and the redirect published rather than silently followed.
+The dataset fetches vendor changelogs, pricing pages and store rankings on a schedule and compares them with the previous capture. It records a price from the page that states it. When a page has moved, it follows the page and publishes the redirect instead of silently following it.
 
 ## What a citer needs to know
 
-- `status` carries a tool that has been acquired, renamed or shut down. `acquired_by` and `status_changed_on` say which and when.
-- `or_rank` and `or_tokens_week` come from OpenRouter's public rankings and are absent for a tool that does not route through it.
+- The `status` field records when a tool has been acquired, renamed or shut down. The `acquired_by` and `status_changed_on` fields record which change occurred and when.
+- The `or_rank` and `or_tokens_week` fields come from OpenRouter's public rankings. They are absent for a tool that does not route through OpenRouter.
 
 ## Files
 
@@ -30,8 +30,8 @@ Vendor changelogs, pricing pages and store rankings are fetched on a schedule an
 | `tooldrift-tools-2026-10-01.csv` | CSV | 0.02 MB |
 | `tooldrift-tools-2026-10-01.json` | JSON | 0.04 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -90,8 +90,9 @@ Compound Labs (2026). ToolDrift: the AI coding tools under watch. ToolDrift, htt
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

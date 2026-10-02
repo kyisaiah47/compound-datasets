@@ -1,6 +1,6 @@
 # RuleStack: how much each config format is actually used, day by day
 
-One row per format per day: how many repositories carry it, how many config files were read, how long those files are at the median and the 90th percentile, and what share of them carry runnable commands or code.
+Each row represents one format on one day. The row records how many repositories carry the format, how many config files were read, the median file length, the 90th-percentile file length, and the share of files carrying runnable commands or code.
 
 | | |
 |---|---|
@@ -16,12 +16,12 @@ One row per format per day: how many repositories carry it, how many config file
 
 ## How it is measured
 
-Config files are read out of public repositories and measured. The format shares are computed from the files found, never from a survey of what people say they use.
+The crawl reads config files from public repositories and measures them. The format shares come from the files found. The shares do not come from a survey of what people say they use.
 
 ## What a citer needs to know
 
-- `share_pct` is a share of the files read on that day, so it moves with the crawl as well as with the ecosystem.
-- A day missing from the series is a day the crawl did not run.
+- `share_pct` is the share of files read on that day. The crawl changes that share as the ecosystem changes and as the crawl changes.
+- A missing day in the series means that the crawl did not run.
 
 ## Files
 
@@ -30,8 +30,8 @@ Config files are read out of public repositories and measured. The format shares
 | `rulestack-format-stats-2026-10-01.csv` | CSV | 0.02 MB |
 | `rulestack-format-stats-2026-10-01.json` | JSON | 0.08 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -68,8 +68,9 @@ Compound Labs (2026). RuleStack: how much each config format is actually used, d
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

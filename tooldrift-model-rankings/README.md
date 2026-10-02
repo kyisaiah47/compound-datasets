@@ -1,6 +1,6 @@
 # ToolDrift: OpenRouter model usage rankings, captured daily
 
-One row per model per ranking window per capture: its rank, the tokens and requests behind that rank, and its share of the window. The series shows which models the market actually routes work to, day by day.
+Each row records one model for one ranking window and one capture, including its rank, the tokens and requests behind that rank, and its share of the window. The series records which models the market routes work to each day.
 
 | | |
 |---|---|
@@ -16,12 +16,12 @@ One row per model per ranking window per capture: its rank, the tokens and reque
 
 ## How it is measured
 
-The public OpenRouter rankings are fetched on a schedule and stored as captured, one row per model per window. Nothing is smoothed, interpolated or revised after capture.
+The dataset fetches the public OpenRouter rankings on a schedule and stores them as captured, with one row per model per window. It does not smooth, interpolate or revise the data after capture.
 
 ## What a citer needs to know
 
-- A gap in `captured_on` is a day the capture did not run. It is left as a gap rather than filled, because an interpolated row in a ranking series is indistinguishable from a measured one once it is cited.
-- `time_window` is OpenRouter's own window label, passed through unchanged.
+- A gap in `captured_on` marks a day when the capture did not run. The dataset leaves that day as a gap rather than filling it, because a cited interpolated row is indistinguishable from a measured row.
+- The `time_window` field contains OpenRouter's own window label, passed through unchanged.
 
 ## Files
 
@@ -30,8 +30,8 @@ The public OpenRouter rankings are fetched on a schedule and stored as captured,
 | `tooldrift-model-rankings-2026-10-01.csv` | CSV | 9.4 MB |
 | `tooldrift-model-rankings-2026-10-01.json` | JSON | 20.9 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -66,8 +66,9 @@ Compound Labs (2026). ToolDrift: OpenRouter model usage rankings, captured daily
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

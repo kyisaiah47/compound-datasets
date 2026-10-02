@@ -1,6 +1,6 @@
-# ShipWall: launched products and the badge check behind each one
+# ShipWall records launched products and the badge check for each product.
 
-One row per product that has launched on the board: what it is, where it lives, what it was built with, and whether the embed badge was actually found on the site it points at.
+Each row records one product launched on the board. The row states what the product is, where it lives, what it was built with, and whether the product site contains the embed badge it claims to carry.
 
 | | |
 |---|---|
@@ -16,12 +16,12 @@ One row per product that has launched on the board: what it is, where it lives, 
 
 ## How it is measured
 
-The badge check fetches the product's own site and looks for the badge it claims to carry, storing the HTTP status and the time it was last found. A claim about a live site is checked against the live site.
+The badge check fetches each product's site and searches for the badge it claims to carry. The dataset stores the site's HTTP status and the last time the badge was found. The check compares every live-site claim with the live site.
 
 ## What a citer needs to know
 
-- Only launched rows publish. Pending and scheduled submissions are not public and are not exported.
-- The submitter's email address, IP hash, edit token, moderation notes and payment references are never exported. `maker_handle` is a public handle and is the only identity field in the file.
+- The dataset publishes launched rows only. The export excludes pending and scheduled submissions.
+- The export never includes the submitter's email address, IP hash, edit token, moderation notes or payment references. `maker_handle` is a public handle and the file's only identity field.
 
 ## Files
 
@@ -30,8 +30,8 @@ The badge check fetches the product's own site and looks for the badge it claims
 | `shipwall-products-2026-10-01.csv` | CSV | 0.05 MB |
 | `shipwall-products-2026-10-01.json` | JSON | 0.09 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -79,8 +79,9 @@ Compound Labs (2026). ShipWall: launched products and the badge check behind eac
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

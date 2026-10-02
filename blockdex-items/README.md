@@ -1,6 +1,6 @@
 # BlockDex: every component, block and theme inside those registries
 
-One row per item in every crawled registry: its type, its dependencies, the files it ships, its install command, and the dates it was first and last seen.
+Each row represents one item in every crawled registry. The row records the item's type, dependencies, shipped files, install command, and first-seen and last-seen dates.
 
 | | |
 |---|---|
@@ -16,12 +16,12 @@ One row per item in every crawled registry: its type, its dependencies, the file
 
 ## How it is measured
 
-Each registry is crawled and its items are read individually from the registry JSON, so an item that disappears between crawls is recorded as removed on a date rather than forgotten. Dependencies are the ones the item declares, not the ones a reader infers from its name.
+The crawl reads each registry item individually from the registry JSON. When an item disappears between crawls, the dataset records it as removed on a date. The dataset does not forget that item. The dataset records the dependencies declared by the item. It does not infer dependencies from the item's name.
 
 ## What a citer needs to know
 
-- A `status` of `removed` with a `removed_on` date is an item that was there and is not any more. Those rows are the reason this dataset is more than a snapshot of a directory.
-- The registry a row belongs to is `registry_slug`, which joins the registries dataset.
+- An item with a `status` of `removed` and a `removed_on` date was present before and is no longer present. Those rows make this dataset more than a snapshot of a directory.
+- The `registry_slug` field identifies the registry that owns a row. That field joins the registries dataset.
 
 ## Files
 
@@ -30,8 +30,8 @@ Each registry is crawled and its items are read individually from the registry J
 | `blockdex-items-2026-10-01.csv.gz` | CSV, gzipped | 7.1 MB |
 | `blockdex-items-2026-10-01.json.gz` | JSON, gzipped | 7.8 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -83,8 +83,9 @@ Compound Labs (2026). BlockDex: every component, block and theme inside those re
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

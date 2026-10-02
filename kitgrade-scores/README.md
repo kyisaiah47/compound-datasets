@@ -1,6 +1,6 @@
 # KitGrade: the component scores behind every kit grade
 
-One row per kit carrying the six component scores the total is composed from, the method version that produced them, and the full breakdown JSON.
+Each row represents one kit. The row carries the six component scores that compose the total, the method version that produced them, and the full breakdown JSON.
 
 | | |
 |---|---|
@@ -16,11 +16,11 @@ One row per kit carrying the six component scores the total is composed from, th
 
 ## How it is measured
 
-Each component is computed from the measured facts in the kits table by a versioned scoring function. `method_version` moves when the function changes, so a score from one edition is never silently compared with a score from another.
+A versioned scoring function computes each component from the measured facts in the kits table. `method_version` changes when the function changes. A score from one edition is never silently compared with a score from another edition.
 
 ## What a citer needs to know
 
-- A total is only comparable within one `method_version`. Comparing across versions is a comparison of two different functions.
+- A total is comparable only within one `method_version`. A comparison across versions compares two different functions.
 
 ## Files
 
@@ -29,8 +29,8 @@ Each component is computed from the measured facts in the kits table by a versio
 | `kitgrade-scores-2026-10-01.csv` | CSV | 0.02 MB |
 | `kitgrade-scores-2026-10-01.json` | JSON | 0.03 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -67,8 +67,9 @@ Compound Labs (2026). KitGrade: the component scores behind every kit grade. Kit
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

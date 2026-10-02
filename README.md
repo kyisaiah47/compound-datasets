@@ -6,9 +6,10 @@ measurement of public things that a Compound Labs index product already computes
 publishes on its own site: public repositories, public component registries, public pricing
 pages, public app-store listings, public agent config files.
 
-Each dataset directory carries a data card that states what a row is, how the figure was
-measured, when the cut was taken and how to cite it. The measurement method the whole set shares
-is published at [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology).
+Each dataset directory carries a data card. The data card states what a row is, how the figure
+was measured, when the cut was taken, and how to cite it. The measurement method for the whole
+set is published at
+[https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology).
 
 Everything here is [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Attribution is the only condition.
 
@@ -37,18 +38,18 @@ Everything here is [Creative Commons Attribution 4.0 International](https://crea
 
 ## Cuts
 
-A new cut is taken monthly, on the first of the month and published as a
-[GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) tagged `cut-YYYY-MM-DD`, with the CSV and JSON for
-every dataset attached. The files in the tree are always the newest cut; a release is how you
-pin the exact edition a paper or a post quoted.
+A new cut is taken monthly on the first of the month. The cut is published as a [GitHub
+release](https://github.com/kyisaiah47/compound-datasets/releases) tagged `cut-YYYY-MM-DD`.
+The release attaches the CSV and JSON for every dataset. The files in the tree are always the
+newest cut. A release lets a paper or post pin the exact edition it quoted.
 
-Every dataset is also a Hugging Face dataset repository of its own, one per directory here, at [https://huggingface.co/kyisaiah47/datasets](https://huggingface.co/kyisaiah47/datasets). The data card and the schema are the same files.
+Every dataset has its own Hugging Face dataset repository. Each repository corresponds to one directory here and is listed at [https://huggingface.co/kyisaiah47/datasets](https://huggingface.co/kyisaiah47/datasets). The data card and schema use the same files.
 
-The same cuts are on Kaggle, one dataset per directory, at [https://www.kaggle.com/kyisaiah47/datasets](https://www.kaggle.com/kyisaiah47/datasets).
+The same cuts are published on Kaggle. Kaggle has one dataset per directory at [https://www.kaggle.com/kyisaiah47/datasets](https://www.kaggle.com/kyisaiah47/datasets).
 
-The collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). One Zenodo record holds every dataset, so that DOI is what a paper cites. It resolves to the newest version; 10.5281/zenodo.22844097 pins this deposit. The record is at [https://zenodo.org/records/22844097](https://zenodo.org/records/22844097).
+The collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). One Zenodo record holds every dataset. A paper cites that DOI. The DOI resolves to the newest version. The DOI 10.5281/zenodo.22844097 pins this deposit. The record is at [https://zenodo.org/records/22844097](https://zenodo.org/records/22844097).
 
-Each data card carries its own mirror links, and they are also on [https://toolproof.thecompound.tech/datasets](https://toolproof.thecompound.tech/datasets).
+Each data card carries its own mirror links. The mirror links are also published at [https://toolproof.thecompound.tech/datasets](https://toolproof.thecompound.tech/datasets).
 
 ## What is deliberately not here
 
@@ -65,10 +66,10 @@ check refuses any column name carrying a private shape before a byte is written.
 
 ## How the files are made
 
-The export reads each table 1000 rows at a time with the server's own exact count, and refuses
-to write a dataset whose fetched row count does not equal that count. A file that silently holds
-most of a table is worse than no file: it parses, the numbers look plausible, and everything
-derived from it is quietly wrong.
+The export reads each table 1000 rows at a time. The export uses the server's own exact count.
+The export refuses to write a dataset when its fetched row count does not equal that count. A
+file that contains only part of a table can parse and produce plausible numbers. Derived results
+from that file are wrong.
 
 ## Publisher
 

@@ -1,6 +1,6 @@
-# SkillWorks: Claude Code artefacts by category and kind
+# SkillWorks records Claude Code artefacts by category and kind.
 
-A structural census of the public Claude Code artefact ecosystem, aggregated to one row per category and artefact kind: how many listings the index holds, how many distinct repositories they came from, how many do not parse into something Claude Code could load, and the mean of the 0-100 score.
+The census aggregates the public Claude Code artefact ecosystem into one row per category and artefact kind. Each row states how many listings the index holds, how many distinct repositories they came from, how many listings do not parse into an artefact Claude Code could load, and the mean score from 0 to 100.
 
 | | |
 |---|---|
@@ -16,14 +16,14 @@ A structural census of the public Claude Code artefact ecosystem, aggregated to 
 
 ## How it is measured
 
-Each listing's files are read from the repository that publishes them and scored on four weighted components. A listing that does not parse into a loadable artefact is counted as broken rather than dropped from the denominator, which is the number that decides whether a failure rate means anything.
+The dataset reads each listing's files from the repository that publishes them. It scores each listing on four weighted components. It counts a listing that does not parse into a loadable artefact as broken instead of dropping it from the denominator. The denominator determines whether a failure rate is meaningful.
 
 ## What a citer needs to know
 
-- This is an aggregate. The underlying listing rows carry author handles at a scale nobody consented to being redistributed, so the row level is not published in any form.
-- The ecosystem is heavily forked and vendored, so the same file is counted once per repository carrying it. The failure RATE is the citable figure; the population count is not a claim about how many distinct artefacts exist.
+- The dataset publishes an aggregate. The underlying listing rows contain author handles, and the dataset does not publish those rows in any form.
+- The ecosystem contains many forks and vendored files, so the dataset counts the same file once for each repository that carries it. The failure RATE is the citable figure. The population count does not state how many distinct artefacts exist.
 
-The aggregate is a database view, and this is its definition:
+The aggregate is a database view. This file defines the view:
 
 ```sql
 select coalesce(category, 'uncategorised') as category, kind, count(*) as listings,
@@ -45,8 +45,8 @@ from sw_listings group by 1, 2
 | `skillworks-category-census-2026-10-01.csv` | CSV | 0.00 MB |
 | `skillworks-category-census-2026-10-01.json` | JSON | 0.02 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -82,8 +82,9 @@ Compound Labs (2026). SkillWorks: Claude Code artefacts by category and kind. Sk
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

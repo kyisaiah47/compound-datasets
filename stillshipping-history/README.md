@@ -1,6 +1,6 @@
-# StillShipping: the daily verdict history
+# StillShipping records the daily verdict history.
 
-One row per tool per captured day: the verdict it held that day and the activity figures behind it. This is the series a reader needs to see a project slow down rather than to see where it stands today.
+Each row records one tool on one captured day. The row stores the verdict held that day and the activity figures behind it. The series shows how a project slows down instead of showing only its current state.
 
 | | |
 |---|---|
@@ -16,11 +16,11 @@ One row per tool per captured day: the verdict it held that day and the activity
 
 ## How it is measured
 
-A snapshot is written every night after the verdicts are recomputed, from the same GitHub API reads. Nothing is backfilled and nothing is revised, so a day that was measured wrong stays in the series and is corrected by a later day rather than overwritten.
+StillShipping writes a snapshot every night after recomputing the verdicts. The snapshot uses the same GitHub API reads. The dataset does not backfill or revise snapshots. A wrongly measured day remains in the series, and a later day provides the correction instead of overwriting it.
 
 ## What a citer needs to know
 
-- The series starts when a tool was first tracked, not when the project started. A short series means a recent addition.
+- The series starts when StillShipping first tracks a tool. It does not start when the project starts. A short series indicates a recent addition.
 
 ## Files
 
@@ -29,8 +29,8 @@ A snapshot is written every night after the verdicts are recomputed, from the sa
 | `stillshipping-history-2026-10-01.csv` | CSV | 12.9 MB |
 | `stillshipping-history-2026-10-01.json` | JSON | 15.6 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -69,8 +69,9 @@ Compound Labs (2026). StillShipping: the daily verdict history. StillShipping, h
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

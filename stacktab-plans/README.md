@@ -1,6 +1,6 @@
-# StackTab: every plan, its price, and the page the price was read from
+# StackTab records every plan, its price and the page that supplied the price.
 
-One row per published plan: its base monthly price in USD, what the plan includes, the restrictions attached to it, and the URL the figure was read from with the date it was last checked.
+Each row records one published plan. The row stores its base monthly price in USD, the plan's contents, its restrictions, and the URL that supplied the figure. The row also stores the date when that URL was last checked.
 
 | | |
 |---|---|
@@ -16,12 +16,12 @@ One row per published plan: its base monthly price in USD, what the plan include
 
 ## How it is measured
 
-Each plan is re-checked on a schedule against its own pricing page. `price_status` says whether a number was readable at all, so a plan priced by sales contact is published as unpriced rather than as zero.
+StackTab re-checks each plan against its pricing page on a schedule. `price_status` states whether the check could read a number. A plan priced by sales contact is published as unpriced, not as zero.
 
 ## What a citer needs to know
 
-- `verified_at` is the last time the figure was confirmed against the page. `last_check_note` carries what happened when a check could not confirm it.
-- `probes` are the strings the check looked for on the page. They are published so a disputed price can be re-derived.
+- `verified_at` records the last time the page confirmed the figure. `last_check_note` records what happened when a check could not confirm it.
+- `probes` stores the strings that the check searched for on the page. The dataset publishes those strings so a reader can re-derive a disputed price.
 
 ## Files
 
@@ -30,8 +30,8 @@ Each plan is re-checked on a schedule against its own pricing page. `price_statu
 | `stacktab-plans-2026-10-01.csv` | CSV | 0.02 MB |
 | `stacktab-plans-2026-10-01.json` | JSON | 0.03 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -71,8 +71,9 @@ Compound Labs (2026). StackTab: every plan, its price, and the page the price wa
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

@@ -1,6 +1,6 @@
 # BlockDex: every public shadcn registry
 
-One row per public shadcn component registry: where it is served from, the repository behind it, its licence, how many items it holds and how many of those are free, and whether it is still there.
+Each row represents one public shadcn component registry. The row records where the registry is served from, the repository behind it, its licence, how many items it holds, how many items are free, and whether the registry is still there.
 
 | | |
 |---|---|
@@ -16,12 +16,12 @@ One row per public shadcn component registry: where it is served from, the repos
 
 ## How it is measured
 
-Each registry is crawled on a schedule and its item list read from the registry JSON it serves rather than from its marketing page. A registry that stops answering is marked gone with the date, not deleted.
+The crawl runs on a schedule. The crawl reads each registry's item list from the registry JSON it serves. The crawl does not read the registry's marketing page. When a registry stops answering, the dataset marks it as gone with the date. The dataset does not delete it.
 
 ## What a citer needs to know
 
-- `status` is `active` or `gone`. A gone registry keeps its row so a link that used to work can be explained.
-- `access` is `free`, `paid`, `mixed` or `unknown`. Unknown means the registry does not state it in a form the crawl could read, and is not a guess.
+- The `status` field is `active` or `gone`. A gone registry keeps its row. The row explains a link that used to work.
+- The `access` field is `free`, `paid`, `mixed` or `unknown`. `unknown` means the registry does not state its access in a form the crawl could read. `unknown` is not a guess.
 
 ## Files
 
@@ -30,8 +30,8 @@ Each registry is crawled on a schedule and its item list read from the registry 
 | `blockdex-registries-2026-10-01.csv` | CSV | 0.44 MB |
 | `blockdex-registries-2026-10-01.json` | JSON | 0.93 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -82,8 +82,9 @@ Compound Labs (2026). BlockDex: every public shadcn registry. BlockDex, https://
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.

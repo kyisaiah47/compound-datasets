@@ -1,6 +1,6 @@
 # RuleStack: the agent config formats and what each one supports
 
-One row per agent config format (AGENTS.md, CLAUDE.md and the rest): which tools read it, whether it supports frontmatter, globs, imports, nesting, multiple files and user scope, and the specification URL each of those was verified against.
+Each row records one agent config format, including AGENTS.md, CLAUDE.md and the rest. The row states which tools read the format and whether it supports frontmatter, globs, imports, nesting, multiple files and user scope. The row also stores the specification URL used for each verification.
 
 | | |
 |---|---|
@@ -16,11 +16,11 @@ One row per agent config format (AGENTS.md, CLAUDE.md and the rest): which tools
 
 ## How it is measured
 
-Every support flag is read from the format's own published specification or documentation, with the URL stored beside it and a verification date. Nothing is inferred from what a format is generally understood to do.
+The format's published specification or documentation supplies every support flag. The dataset stores the source URL and verification date beside each flag. The dataset does not infer support from general knowledge of a format.
 
 ## What a citer needs to know
 
-- `verified_at` is the date the support matrix was last confirmed against the spec. A format whose spec has moved since then may have changed.
+- `verified_at` records the date when the support matrix was last checked against the specification. A format can change if its specification moves after that date.
 
 ## Files
 
@@ -29,8 +29,8 @@ Every support flag is read from the format's own published specification or docu
 | `rulestack-formats-2026-10-01.csv` | CSV | 0.01 MB |
 | `rulestack-formats-2026-10-01.json` | JSON | 0.01 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
-citation can pin the exact edition it quoted.
+Every cut is also published as a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases). The release attaches
+the same files. A citation can use the release to pin the exact edition it quoted.
 
 ## Schema
 
@@ -79,8 +79,9 @@ Compound Labs (2026). RuleStack: the agent config formats and what each one supp
 }
 ```
 
-The whole collection has a DOI, 10.5281/zenodo.22844096, at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). It resolves to the
-newest Zenodo version. To pin the exact deposit this cut belongs to, cite 10.5281/zenodo.22844097 instead.
+The whole collection has the DOI 10.5281/zenodo.22844096 at [https://doi.org/10.5281/zenodo.22844096](https://doi.org/10.5281/zenodo.22844096). The DOI resolves
+to the newest Zenodo version. Cite 10.5281/zenodo.22844097 to pin the exact deposit for this cut.
 
-Attribution is the licence condition, and it is the only one. Quote a figure with the publisher,
-the product that measured it and the cut date, and there is nothing else to ask.
+Attribution is the licence condition. Attribution is the only condition. Cite the publisher, the
+product that measured the figure, and the cut date when you quote a figure. You do not need to
+ask for anything else.
