@@ -4,7 +4,7 @@ Each row records one product launched on the board. The row states what the prod
 
 | | |
 |---|---|
-| Rows in this cut | 104 |
+| Rows in this cut | 102 |
 | One row is | one launched product |
 | Cut | 2026-10-01 |
 | Refreshed | Monthly, on the first of the month |
@@ -47,10 +47,10 @@ the same files. A citation can use the release to pin the exact edition it quote
 | `demo_url` | null | 100.0% |
 | `video_url` | null | 100.0% |
 | `logo_url` | string | 0.0% |
-| `category_slug` | string | 68.3% |
+| `category_slug` | string | 67.6% |
 | `built_with` | array | 0.0% |
 | `human_edited` | string | 0.0% |
-| `pricing` | string | 25.0% |
+| `pricing` | string | 24.5% |
 | `maker_handle` | string | 0.0% |
 | `launch_date` | string | 0.0% |
 | `launch_slot` | number | 0.0% |

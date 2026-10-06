@@ -606,20 +606,20 @@
       "unit": "one launched product",
       "cut": "2026-10-01",
       "cut_at": "2026-10-01T12:35:52.201Z",
-      "rows": 104,
+      "rows": 102,
       "columns": 23,
       "source_table": "shipwall_products",
       "files": [
         {
           "name": "shipwall-products-2026-10-01.csv",
           "format": "CSV",
-          "bytes": 55625,
+          "bytes": 54554,
           "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/shipwall-products/shipwall-products-2026-10-01.csv"
         },
         {
           "name": "shipwall-products-2026-10-01.json",
           "format": "JSON",
-          "bytes": 91960,
+          "bytes": 90181,
           "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/shipwall-products/shipwall-products-2026-10-01.json"
         }
       ],

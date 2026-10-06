@@ -34,7 +34,7 @@ Everything here is [Creative Commons Attribution 4.0 International](https://crea
 | [StackTab: every plan, its price, and the page the price was read from](stacktab-plans/) | StackTab | 64 | 2026-10-01 |
 | [RuleStack: the agent config formats and what each one supports](rulestack-formats/) | RuleStack | 8 | 2026-10-01 |
 | [RuleStack: how much each config format is actually used, day by day](rulestack-format-stats/) | RuleStack | 336 | 2026-10-01 |
-| [ShipWall: launched products and the badge check behind each one](shipwall-products/) | ShipWall | 104 | 2026-10-01 |
+| [ShipWall: launched products and the badge check behind each one](shipwall-products/) | ShipWall | 102 | 2026-10-01 |
 
 ## Cuts
 
